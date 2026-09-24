@@ -1,0 +1,276 @@
+{
+  "categories": [
+    {
+      "id": "science",
+      "icon": "🔬",
+      "name": "Science",
+      "topics": [
+        { "id": "science-01", "title": "Should we bring extinct species back through cloning?", "talkingPoints": ["Ecological balance vs playing God", "Where do we draw the line on revival"], "depth": "deep" },
+        { "id": "science-02", "title": "Is it ethical to use gene editing to boost human intelligence?", "talkingPoints": ["Equality of access to enhancement", "Unintended effects on the gene pool"], "depth": "deep" },
+        { "id": "science-03", "title": "Should animal testing be allowed for cosmetics?", "talkingPoints": ["Human safety vs animal suffering", "Are alternatives good enough yet"], "depth": "moderate" },
+        { "id": "science-04", "title": "Is lab-grown meat the future of food?", "talkingPoints": ["Environmental upside of cultured meat", "Would people actually eat it"], "depth": "moderate" },
+        { "id": "science-05", "title": "Should we geoengineer the climate to cool the planet?", "talkingPoints": ["Buying time or masking the cause", "Who decides the dial setting"], "depth": "deep" },
+        { "id": "science-06", "title": "Are we too reliant on antibiotics?", "talkingPoints": ["Rise of drug-resistant bacteria", "Overuse in farming and clinics"], "depth": "moderate" },
+        { "id": "science-07", "title": "Should scientific research papers be free for everyone?", "talkingPoints": ["Public funded, paywalled results", "Impact on smaller institutions"], "depth": "casual" },
+        { "id": "science-08", "title": "Is nuclear fusion overhyped as a clean energy fix?", "talkingPoints": ["Decades away vs real progress", "Distraction from current solutions"], "depth": "deep" },
+        { "id": "science-09", "title": "Should parents be allowed to choose their baby's traits?", "talkingPoints": ["Medical use vs designer babies", "New forms of inequality"], "depth": "deep" },
+        { "id": "science-10", "title": "Does it matter if machines become sentient?", "talkingPoints": ["How we would even know", "Rights for conscious machines"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "technology",
+      "icon": "💻",
+      "name": "Technology",
+      "topics": [
+        { "id": "technology-01", "title": "Should universities use AI detectors on student essays?", "talkingPoints": ["False accusations against students", "Encourages secrecy over skill"], "depth": "moderate" },
+        { "id": "technology-02", "title": "Has social media made us worse at real conversations?", "talkingPoints": ["Performance over connection", "Atrophy of awkward-small-talk skills"], "depth": "deep" },
+        { "id": "technology-03", "title": "Should social platforms require a minimum age of 16?", "talkingPoints": ["Protection vs parental choice", "Easy to lie about age"], "depth": "moderate" },
+        { "id": "technology-04", "title": "Who is liable when a self-driving car crashes?", "talkingPoints": ["Maker, owner, or pedestrian", "Insurance model overhaul"], "depth": "deep" },
+        { "id": "technology-05", "title": "Should all AI-generated content be watermarked?", "talkingPoints": ["Transparency vs free speech", "Detection can be beaten"], "depth": "moderate" },
+        { "id": "technology-06", "title": "Is remote work actually better than the office?", "talkingPoints": ["Focus vs lost mentorship", "City centers hollowing out"], "depth": "casual" },
+        { "id": "technology-07", "title": "Should there be a global treaty to regulate AI?", "talkingPoints": ["Arms-race dynamics", "Who enforces it"], "depth": "deep" },
+        { "id": "technology-08", "title": "Is crypto a real currency or just a casino?", "talkingPoints": ["Payments vs speculation", "Retail investor harm"], "depth": "moderate" },
+        { "id": "technology-09", "title": "Should every student learn to code?", "talkingPoints": ["Literacy of the era vs other skills", "Forcing a narrow path"], "depth": "moderate" },
+        { "id": "technology-10", "title": "Does technology bring families closer or push them apart?", "talkingPoints": ["Shared screens vs shared moments", "Caring from a distance"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "icon": "🤔",
+      "name": "Philosophy",
+      "topics": [
+        { "id": "philosophy-01", "title": "Is there such a thing as a truly selfless act?", "talkingPoints": ["The warm glow of giving", "Even charity serves the self"], "depth": "deep" },
+        { "id": "philosophy-02", "title": "Does free will actually exist?", "talkingPoints": ["Determinism and the brain", "Responsibility without free will"], "depth": "deep" },
+        { "id": "philosophy-03", "title": "Is it better to be just or to be happy?", "talkingPoints": ["The ring of Gyges problem", "Justice as a path to peace"], "depth": "deep" },
+        { "id": "philosophy-04", "title": "Can a life without struggle be meaningful?", "talkingPoints": ["Comfort and boredom", "Meaning from overcoming"], "depth": "deep" },
+        { "id": "philosophy-05", "title": "Is truth subjective or objective?", "talkingPoints": ["Facts vs lived experience", "Danger of pure relativism"], "depth": "deep" },
+        { "id": "philosophy-06", "title": "Do we have a duty to future generations?", "talkingPoints": ["People who do not exist yet", "Discounting the far future"], "depth": "deep" },
+        { "id": "philosophy-07", "title": "Does suffering make us stronger?", "talkingPoints": ["Growth narrative vs trauma", "Romanticizing pain"], "depth": "moderate" },
+        { "id": "philosophy-08", "title": "Is money the root of freedom or of evil?", "talkingPoints": ["Agency that money buys", "Corruption of incentives"], "depth": "casual" },
+        { "id": "philosophy-09", "title": "Can machines ever truly understand us?", "talkingPoints": ["Syntax vs semantics", "Understanding as behavior"], "depth": "moderate" },
+        { "id": "philosophy-10", "title": "Is nationalism healthy or dangerous?", "talkingPoints": ["Belonging vs exclusion", "Source of both pride and war"], "depth": "deep" }
+      ]
+    },
+    {
+      "id": "psychology",
+      "icon": "🧠",
+      "name": "Psychology",
+      "topics": [
+        { "id": "psychology-01", "title": "Is happiness a choice or just a circumstance?", "talkingPoints": ["Gratitude practices that work", "Unequal starting conditions"], "depth": "moderate" },
+        { "id": "psychology-02", "title": "Are personality tests actually meaningful?", "talkingPoints": ["Barnum effect and vague labels", "Useful for teams or not"], "depth": "casual" },
+        { "id": "psychology-03", "title": "Does social media cause loneliness?", "talkingPoints": ["Comparison and FOMO", "Staying connected at a cost"], "depth": "moderate" },
+        { "id": "psychology-04", "title": "Are we born with personality or does it form?", "talkingPoints": ["Temperament at birth", "Experience reshapes traits"], "depth": "deep" },
+        { "id": "psychology-05", "title": "Should parents track their teenager's location?", "talkingPoints": ["Safety vs autonomy", "Eroding trust early"], "depth": "moderate" },
+        { "id": "psychology-06", "title": "Do rewards kill intrinsic motivation?", "talkingPoints": ["The overjustification effect", "Carrots that backfire"], "depth": "deep" },
+        { "id": "psychology-07", "title": "Is nostalgia good or bad for us?", "talkingPoints": ["Comfort in hard times", "Living in the past"], "depth": "casual" },
+        { "id": "psychology-08", "title": "Should mental health days be standard at work?", "talkingPoints": ["Normalizing rest", "Abuse and tracking"], "depth": "casual" },
+        { "id": "psychology-09", "title": "Are we more anxious than past generations?", "talkingPoints": ["Always-on culture", "Better diagnosis not more illness"], "depth": "moderate" },
+        { "id": "psychology-10", "title": "Can you love someone you do not trust?", "talkingPoints": ["Love and safety split", "Staying for history"], "depth": "deep" }
+      ]
+    },
+    {
+      "id": "history",
+      "icon": "📜",
+      "name": "History",
+      "topics": [
+        { "id": "history-01", "title": "Should colonial artifacts be returned to their origin countries?", "talkingPoints": ["Rightful ownership vs safekeeping", "Where the expertise lives"], "depth": "deep" },
+        { "id": "history-02", "title": "Should uncomfortable history be removed from textbooks?", "talkingPoints": ["Protecting vs whitewashing", "Who writes the canon"], "depth": "deep" },
+        { "id": "history-03", "title": "Was industrialization a mistake?", "talkingPoints": ["Material progress purchased how", "Could it have been gentler"], "depth": "deep" },
+        { "id": "history-04", "title": "Should statues of controversial figures stay up?", "talkingPoints": ["History vs hate", "Context over removal"], "depth": "deep" },
+        { "id": "history-05", "title": "Was exploration colonialism or curiosity?", "talkingPoints": ["Trade routes vs conquest", "The local cost"], "depth": "deep" },
+        { "id": "history-06", "title": "Is the Roman Empire still shaping us today?", "talkingPoints": ["Law, language, roads", "Myth of the West"], "depth": "moderate" },
+        { "id": "history-07", "title": "Can history really repeat itself?", "talkingPoints": ["Patterns vs changed context", "Lessons we ignore"], "depth": "moderate" },
+        { "id": "history-08", "title": "Should we forgive historical injustices?", "talkingPoints": ["Generational responsibility", "Reconciliation vs forgetting"], "depth": "deep" },
+        { "id": "history-09", "title": "Who was the most misunderstood leader in history?", "talkingPoints": ["Narrative written by winners", "Revisionism over time"], "depth": "casual" },
+        { "id": "history-10", "title": "Do we learn more from failures than from victories?", "talkingPoints": ["Survivorship bias in success", "Cautionary value"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "art-culture",
+      "icon": "🎨",
+      "name": "Art & Culture",
+      "topics": [
+        { "id": "art-culture-01", "title": "Is AI-generated art really art?", "talkingPoints": ["Tool vs author", "Training on stolen work"], "depth": "deep" },
+        { "id": "art-culture-02", "title": "Should classic books be rewritten for modern readers?", "talkingPoints": ["Access vs authenticity", "Erasing the past"], "depth": "moderate" },
+        { "id": "art-culture-03", "title": "Should museums be free for everyone?", "talkingPoints": ["Culture as public good", "Funding the building"], "depth": "casual" },
+        { "id": "art-culture-04", "title": "Is remaking old films just laziness?", "talkingPoints": ["Safe bets vs new ideas", "Nostalgia market"], "depth": "moderate" },
+        { "id": "art-culture-05", "title": "Should cultural appropriation be called out?", "talkingPoints": ["Exchange vs theft", "Policing creativity"], "depth": "deep" },
+        { "id": "art-culture-06", "title": "Is street art vandalism or culture?", "talkingPoints": ["Property vs voice", "Gentrification effect"], "depth": "moderate" },
+        { "id": "art-culture-07", "title": "Should we try to preserve dying languages?", "talkingPoints": ["Identity in a tongue", "Resource prioritization"], "depth": "deep" },
+        { "id": "art-culture-08", "title": "Is fan fiction legitimate creativity?", "talkingPoints": ["Transformative work", "Copyright tension"], "depth": "casual" },
+        { "id": "art-culture-09", "title": "Does the author's life matter to their work?", "talkingPoints": ["Death of the author", "Separating art from artist"], "depth": "moderate" },
+        { "id": "art-culture-10", "title": "Should public art be funded by government?", "talkingPoints": ["Taste by committee", "Shared beauty"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "food-travel",
+      "icon": "🍜",
+      "name": "Food & Travel",
+      "topics": [
+        { "id": "food-travel-01", "title": "Is street food better than fine dining?", "talkingPoints": ["Soul vs technique", "Hygiene tradeoffs"], "depth": "casual" },
+        { "id": "food-travel-02", "title": "Should we eat less meat for the planet?", "talkingPoints": ["Per-meal footprint", "Personal vs systemic"], "depth": "moderate" },
+        { "id": "food-travel-03", "title": "Is mass tourism ruining popular destinations?", "talkingPoints": ["Venice and Bali effect", "Local economy dependency"], "depth": "moderate" },
+        { "id": "food-travel-04", "title": "Is authentic food a myth?", "talkingPoints": ["Cuisines always evolve", "Gatekeeping dishes"], "depth": "moderate" },
+        { "id": "food-travel-05", "title": "Should we feel guilty about flying on vacation?", "talkingPoints": ["Per-trip emissions", "Who flies least"], "depth": "deep" },
+        { "id": "food-travel-06", "title": "Should sugary drinks be taxed like alcohol?", "talkingPoints": ["Nudge vs regressivity", "Health-care savings"], "depth": "moderate" },
+        { "id": "food-travel-07", "title": "Should visa-free travel be universal?", "talkingPoints": ["Freedom to move", "Pressure on rich states"], "depth": "moderate" },
+        { "id": "food-travel-08", "title": "Is fusion food cultural appreciation or theft?", "talkingPoints": ["Hybrid deliciousness", "Who profits"], "depth": "moderate" },
+        { "id": "food-travel-09", "title": "Should restaurants ban single-use plastics?", "talkingPoints": ["Cost passed to diners", "Ocean burden"], "depth": "moderate" },
+        { "id": "food-travel-10", "title": "Is home cooking healthier than takeout?", "talkingPoints": ["Control vs convenience", "Hidden restaurant fats"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "relationships",
+      "icon": "💞",
+      "name": "Relationships",
+      "topics": [
+        { "id": "relationships-01", "title": "Is it better to marry young or later in life?", "talkingPoints": ["Growth together vs grew apart", "Maturity timing"], "depth": "casual" },
+        { "id": "relationships-02", "title": "Should you stay friends with an ex?", "talkingPoints": ["Closure vs confusion", "New partner comfort"], "depth": "casual" },
+        { "id": "relationships-03", "title": "Should couples share all their finances?", "talkingPoints": ["Trust vs autonomy", "Power dynamics"], "depth": "moderate" },
+        { "id": "relationships-04", "title": "Should you tell your partner everything?", "talkingPoints": ["Honesty vs kindness", "The right to privacy"], "depth": "deep" },
+        { "id": "relationships-05", "title": "Is online dating better than meeting in person?", "talkingPoints": ["Volume vs context", "Profile performance"], "depth": "moderate" },
+        { "id": "relationships-06", "title": "Can you love two people at once?", "talkingPoints": ["One love vs many", "Polyamory reality"], "depth": "deep" },
+        { "id": "relationships-07", "title": "Should you move for your partner's career?", "talkingPoints": ["Sacrifice vs resentment", "Two-body problem"], "depth": "moderate" },
+        { "id": "relationships-08", "title": "Do parents need to approve of your partner?", "talkingPoints": ["Respect vs independence", "Long-term friction"], "depth": "moderate" },
+        { "id": "relationships-09", "title": "Is it okay to date a coworker?", "talkingPoints": ["Office politics", "Easy exit plan"], "depth": "casual" },
+        { "id": "relationships-10", "title": "Does love fade after marriage?", "talkingPoints": ["Novelty vs depth", "Effort sustains it"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "education",
+      "icon": "📚",
+      "name": "Education",
+      "topics": [
+        { "id": "education-01", "title": "Should homework be banned in primary school?", "talkingPoints": ["Play vs practice", "Home support gap"], "depth": "moderate" },
+        { "id": "education-02", "title": "Is college still worth the debt?", "talkingPoints": ["Signaling vs skills", "Alternatives rising"], "depth": "deep" },
+        { "id": "education-03", "title": "Should standardized tests be abolished?", "talkingPoints": ["Fair comparison vs teaching to test", "Bias in the score"], "depth": "moderate" },
+        { "id": "education-04", "title": "Is homeschooling better than traditional school?", "talkingPoints": ["Tailored pace vs socialization", "Parent capacity"], "depth": "moderate" },
+        { "id": "education-05", "title": "Are grades a fair measure of learning?", "talkingPoints": ["Memorize vs master", "Anxiety from the A"], "depth": "moderate" },
+        { "id": "education-06", "title": "Should financial literacy be taught in school?", "talkingPoints": ["Adulting gap", "Whose curriculum"], "depth": "casual" },
+        { "id": "education-07", "title": "Should students use AI tools for homework?", "talkingPoints": ["Cheating vs tutoring", "Banning the calculator"], "depth": "deep" },
+        { "id": "education-08", "title": "Should college athletes be paid?", "talkingPoints": ["Revenue they make", "Student status"], "depth": "moderate" },
+        { "id": "education-09", "title": "Is a four-year degree becoming outdated?", "talkingPoints": ["Skills-based hiring", "Credential inertia"], "depth": "deep" },
+        { "id": "education-10", "title": "Should schools start later for teens?", "talkingPoints": ["Sleep science", "Logistics cost"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "politics",
+      "icon": "🏛️",
+      "name": "Politics",
+      "topics": [
+        { "id": "politics-01", "title": "Should voting be mandatory?", "talkingPoints": ["Duty vs freedom", "Compulsory turnout effects"], "depth": "moderate" },
+        { "id": "politics-02", "title": "Is democracy the best system we have?", "talkingPoints": ["Flaws vs alternatives", "The alternative track record"], "depth": "deep" },
+        { "id": "politics-03", "title": "Should the very wealthy pay much higher taxes?", "talkingPoints": ["Redistribution vs incentive", "Capital flight"], "depth": "deep" },
+        { "id": "politics-04", "title": "Is cancel culture accountability or mob rule?", "talkingPoints": ["Calling power to account", "Fear of speaking"], "depth": "deep" },
+        { "id": "politics-05", "title": "Should billionaires even exist?", "talkingPoints": ["Extreme wealth ethics", "Wealth as incentive"], "depth": "deep" },
+        { "id": "politics-06", "title": "Should there be term limits for every office?", "talkingPoints": ["Fresh blood vs lost expertise", "Entrenchment"], "depth": "moderate" },
+        { "id": "politics-07", "title": "Is free speech absolute, even offensive?", "talkingPoints": ["Harm principle", "Slippery slope of bans"], "depth": "deep" },
+        { "id": "politics-08", "title": "Should countries accept more refugees?", "talkingPoints": ["Humanitarian duty", "Integration capacity"], "depth": "moderate" },
+        { "id": "politics-09", "title": "Is universal basic income realistic?", "talkingPoints": ["Automation dividend", "Work disincentive fear"], "depth": "deep" },
+        { "id": "politics-10", "title": "Is patriotism a force for good?", "talkingPoints": ["Unity vs exclusion", "Flag over policy"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "icon": "🎬",
+      "name": "Entertainment",
+      "topics": [
+        { "id": "entertainment-01", "title": "Are endless sequels ruining cinema?", "talkingPoints": ["Safe bets vs originality", "Audience demand"], "depth": "casual" },
+        { "id": "entertainment-02", "title": "Is binge-watching harmful?", "talkingPoints": ["Immersion vs sleep", "Dopamine loop"], "depth": "casual" },
+        { "id": "entertainment-03", "title": "Should celebrities keep political opinions private?", "talkingPoints": ["Platform responsibility", "Free speech for all"], "depth": "moderate" },
+        { "id": "entertainment-04", "title": "Is reality TV fundamentally fake?", "talkingPoints": ["Produced conflict", "Consent to edit"], "depth": "casual" },
+        { "id": "entertainment-05", "title": "Is superhero fatigue finally real?", "talkingPoints": ["Franchise saturation", "What replaced the western"], "depth": "casual" },
+        { "id": "entertainment-06", "title": "Should influencers disclose every sponsorship?", "talkingPoints": ["Transparency vs noise", "Regulation burden"], "depth": "moderate" },
+        { "id": "entertainment-07", "title": "Is live music better than recorded?", "talkingPoints": ["Presence vs perfection", "Access and cost"], "depth": "casual" },
+        { "id": "entertainment-08", "title": "Should phones be banned in theaters?", "talkingPoints": ["Shared experience", "Recording leaks"], "depth": "casual" },
+        { "id": "entertainment-09", "title": "Are award shows still relevant?", "talkingPoints": ["Industry self-love", "Reach shrinking"], "depth": "casual" },
+        { "id": "entertainment-10", "title": "Does criticism kill creativity?", "talkingPoints": ["Accountability vs chill", "Fear of the take"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "sports",
+      "icon": "⚽",
+      "name": "Sports",
+      "topics": [
+        { "id": "sports-01", "title": "Should transgender athletes compete by identity?", "talkingPoints": ["Inclusion vs fairness", "Per-sport science"], "depth": "deep" },
+        { "id": "sports-02", "title": "Is paying college athletes finally fair?", "talkingPoints": ["Revenue they generate", "Amateurism myth"], "depth": "moderate" },
+        { "id": "sports-03", "title": "Should esports be in the Olympics?", "talkingPoints": ["What counts as sport", "Young audience pull"], "depth": "casual" },
+        { "id": "sports-04", "title": "Is youth sports too intense these days?", "talkingPoints": ["Burnout and injury", "Parent pressure"], "depth": "moderate" },
+        { "id": "sports-05", "title": "Should doping be allowed if it is safe?", "talkingPoints": ["Level playing field", "Health ceiling"], "depth": "deep" },
+        { "id": "sports-06", "title": "Are sky-high ticket prices hurting real fans?", "talkingPoints": ["Dynamic pricing", "Local stadiums empty"], "depth": "moderate" },
+        { "id": "sports-07", "title": "Should contact sports be made safer?", "talkingPoints": ["CTE reality", "Changing the game"], "depth": "deep" },
+        { "id": "sports-08", "title": "Is cheering for a team just tribalism?", "talkingPoints": ["Identity and belonging", "Harmless ritual"], "depth": "casual" },
+        { "id": "sports-09", "title": "Should athletes speak out on politics?", "talkingPoints": ["Platform power", "Stick to sport"], "depth": "moderate" },
+        { "id": "sports-10", "title": "Is host-country rotation for World Cups fair?", "talkingPoints": ["Logistics vs access", "Bribery questions"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "business",
+      "icon": "💼",
+      "name": "Business",
+      "topics": [
+        { "id": "business-01", "title": "Should companies move to a four-day work week?", "talkingPoints": ["Productivity evidence", "Coverage problem"], "depth": "moderate" },
+        { "id": "business-02", "title": "Is hustle culture quietly toxic?", "talkingPoints": ["Burnout as badge", "Sustainable pace"], "depth": "deep" },
+        { "id": "business-03", "title": "Should gig workers be classified as employees?", "talkingPoints": ["Benefits vs flexibility", "Business model break"], "depth": "deep" },
+        { "id": "business-04", "title": "Is profit the only real duty of a business?", "talkingPoints": ["Shareholder primacy", "Stakeholder view"], "depth": "deep" },
+        { "id": "business-05", "title": "Should CEO pay be capped?", "talkingPoints": ["Ratio to workers", "Talent flight"], "depth": "deep" },
+        { "id": "business-06", "title": "Is middle management necessary?", "talkingPoints": ["Coordination vs overhead", "Flatter orgs"], "depth": "moderate" },
+        { "id": "business-07", "title": "Should AI replace recruiters and screeners?", "talkingPoints": ["Bias in the model", "Speed vs fairness"], "depth": "moderate" },
+        { "id": "business-08", "title": "Is the unpaid internship just exploitation?", "talkingPoints": ["Experience vs free labor", "Who can afford it"], "depth": "moderate" },
+        { "id": "business-09", "title": "Should companies prioritize stakeholders over shareholders?", "talkingPoints": ["Long-term vs quarter", "Legal duty"], "depth": "deep" },
+        { "id": "business-10", "title": "Is networking mostly fake?", "talkingPoints": ["Relationships that matter", "Performance of connection"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "nature",
+      "icon": "🌿",
+      "name": "Nature",
+      "topics": [
+        { "id": "nature-01", "title": "Should we rewild more of our cities?", "talkingPoints": ["Biodiversity return", "Human space loss"], "depth": "moderate" },
+        { "id": "nature-02", "title": "Is keeping pets ethical?", "talkingPoints": ["Companionship vs captivity", "Breeding harm"], "depth": "moderate" },
+        { "id": "nature-03", "title": "Are zoos still justified today?", "talkingPoints": ["Conservation vs spectacle", "Animal welfare"], "depth": "deep" },
+        { "id": "nature-04", "title": "Should we eat invasive species to control them?", "talkingPoints": ["Appetite as tool", "Food-safety gap"], "depth": "casual" },
+        { "id": "nature-05", "title": "Should cities ban private cars downtown?", "talkingPoints": ["Air and space", "Access for all"], "depth": "deep" },
+        { "id": "nature-06", "title": "Is the Anthropocene our fault?", "talkingPoints": ["Human fingerprint on geology", "Who is responsible"], "depth": "deep" },
+        { "id": "nature-07", "title": "Should we protect apex predators?", "talkingPoints": ["Trophic cascades", "Livestock conflict"], "depth": "moderate" },
+        { "id": "nature-08", "title": "Is bottled water immoral?", "talkingPoints": ["Plastic waste", "Where tap fails"], "depth": "casual" },
+        { "id": "nature-09", "title": "Should palm oil be banned?", "talkingPoints": ["Deforestation driver", "Livelihoods at stake"], "depth": "moderate" },
+        { "id": "nature-10", "title": "Should we plant more trees than we cut?", "talkingPoints": ["Net gain target", "Offsetting honesty"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "health",
+      "icon": "❤️",
+      "name": "Health",
+      "topics": [
+        { "id": "health-01", "title": "Should sugar be taxed like tobacco?", "talkingPoints": ["Nudge vs regressivity", "Health-care cost"], "depth": "moderate" },
+        { "id": "health-02", "title": "Is mental health as important as physical?", "talkingPoints": ["Parity in care", "Stigma remains"], "depth": "casual" },
+        { "id": "health-03", "title": "Should routine vaccines be mandatory?", "talkingPoints": ["Herd immunity vs choice", "Public good"], "depth": "deep" },
+        { "id": "health-04", "title": "Is the BMI a flawed measure?", "talkingPoints": ["Muscle vs fat blind", "Better metrics"], "depth": "moderate" },
+        { "id": "health-05", "title": "Should screen time be limited for kids?", "talkingPoints": ["Developing brains", "Parental control"], "depth": "moderate" },
+        { "id": "health-06", "title": "Is veganism actually healthier?", "talkingPoints": ["Plant evidence", "B12 and planning"], "depth": "moderate" },
+        { "id": "health-07", "title": "Should drug addiction be treated, not jailed?", "talkingPoints": ["Public health frame", "Criminal cost"], "depth": "deep" },
+        { "id": "health-08", "title": "Should schools teach mindfulness?", "talkingPoints": ["Calm vs curriculum time", "Evidence base"], "depth": "casual" },
+        { "id": "health-09", "title": "Is fitness tracking making us obsessive?", "talkingPoints": ["Awareness vs anxiety", "Numbers trap"], "depth": "casual" },
+        { "id": "health-10", "title": "Is sleep the closest thing to a cure-all?", "talkingPoints": ["Repair function", "Sleep-loss epidemic"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "weird-fun",
+      "icon": "🤪",
+      "name": "Weird & Fun",
+      "topics": [
+        { "id": "weird-fun-01", "title": "If you could teleport anywhere, where first?", "talkingPoints": ["Beach vs peak", "Who you'd visit"], "depth": "casual" },
+        { "id": "weird-fun-02", "title": "Would you live on Mars for one year?", "talkingPoints": ["Adventure vs isolation", "Coming back changed"], "depth": "casual" },
+        { "id": "weird-fun-03", "title": "Is a hot dog technically a sandwich?", "talkingPoints": ["Definition games", "Taco loophole"], "depth": "casual" },
+        { "id": "weird-fun-04", "title": "Would you want to know your exact future?", "talkingPoints": ["Spoilers on life", "Freedom to choose"], "depth": "deep" },
+        { "id": "weird-fun-05", "title": "Would you upload your mind to a computer?", "talkingPoints": ["Continuity of self", "Copy or transfer"], "depth": "deep" },
+        { "id": "weird-fun-06", "title": "Should time travel be made illegal?", "talkingPoints": ["Grandfather paradox", "Who enforces it"], "depth": "deep" },
+        { "id": "weird-fun-07", "title": "Would you take a pill to never feel sad?", "talkingPoints": ["Joy without contrast", "Numbing the good"], "depth": "deep" },
+        { "id": "weird-fun-08", "title": "Is the multiverse a plausible idea?", "talkingPoints": ["Many-worlds physics", "Unprovable claim"], "depth": "moderate" },
+        { "id": "weird-fun-09", "title": "Should we fear AI or welcome it?", "talkingPoints": ["Tool vs rival", "Who steers it"], "depth": "moderate" },
+        { "id": "weird-fun-10", "title": "Is a dream a real experience?", "talkingPoints": ["Consciousness offline", "Meaning we make"], "depth": "moderate" }
+      ]
+    }
+  ]
+}

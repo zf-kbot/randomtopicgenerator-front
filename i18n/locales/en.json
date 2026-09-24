@@ -1,0 +1,28 @@
+{
+  "site": {
+    "title": "Random Topic Generator",
+    "tagline": "Get a fresh topic in one click — for conversations, writing, debates, and speeches."
+  },
+  "controls": {
+    "category": "Category",
+    "all": "All",
+    "count": "Number of topics",
+    "depth": "Depth",
+    "casual": "Casual",
+    "moderate": "Moderate",
+    "deep": "Deep",
+    "generate": "Generate"
+  },
+  "result": {
+    "copy": "Copy",
+    "copied": "Copied!",
+    "save": "Save",
+    "saved": "Saved"
+  },
+  "saved": {
+    "title": "My saved topics",
+    "empty": "No saved topics yet. Generate some and hit Save!",
+    "clear": "Clear all"
+  },
+  "footer": "A lightweight random topic generator. No account needed."
+}

@@ -1,0 +1,40 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Nuxt build / generate output
+.nuxt
+.output
+.data
+.cache
+dist
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables (never commit secrets)
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.DS_Store
+.idea
+.vscode
+*.swp
+*.swo
+
+# Cloudflare / deployment artifacts
+.wrangler
+.dev.vars
+
+# Agent workspace memory (internal notes, keep out of VCS)
+.workbuddy
+
+# Local preview / temp
+/tmp

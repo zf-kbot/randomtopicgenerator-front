@@ -1,0 +1,276 @@
+{
+  "categories": [
+    {
+      "id": "science",
+      "icon": "🔬",
+      "name": "科学",
+      "topics": [
+        { "id": "science-01", "title": "该不该用克隆技术复活已经灭绝的物种？", "talkingPoints": ["生态恢复还是扮演上帝", "复活的边界划在哪里"], "depth": "deep" },
+        { "id": "science-02", "title": "用基因编辑提升人类智商，合乎伦理吗？", "talkingPoints": ["增强技术谁先用得起", "对基因池的未知后果"], "depth": "deep" },
+        { "id": "science-03", "title": "化妆品该不该用动物做实验？", "talkingPoints": ["人类安全与动物痛苦", "替代方案够成熟了吗"], "depth": "moderate" },
+        { "id": "science-04", "title": "人造肉会成为未来的主食吗？", "talkingPoints": ["培养肉的环境账", "大家真的愿意吃吗"], "depth": "moderate" },
+        { "id": "science-05", "title": "该不该用地球工程给地球降温？", "talkingPoints": ["治标还是治本", "谁来拧这个阀门"], "depth": "deep" },
+        { "id": "science-06", "title": "我们是不是太依赖抗生素了？", "talkingPoints": ["耐药菌的崛起", "养殖与临床的滥用"], "depth": "moderate" },
+        { "id": "science-07", "title": "科研论文该对所有人都免费开放吗？", "talkingPoints": ["钱出自公众却要付费看", "对中小机构的冲击"], "depth": "casual" },
+        { "id": "science-08", "title": "核聚变作为清洁能源，是不是被吹过头了？", "talkingPoints": ["永远还要几十年", "会不会分散当下方案"], "depth": "deep" },
+        { "id": "science-09", "title": "该不该允许父母挑选婴儿的特征？", "talkingPoints": ["医疗用途与定制宝宝", "新的不平等形式"], "depth": "deep" },
+        { "id": "science-10", "title": "如果机器产生了意识，这事重要吗？", "talkingPoints": ["我们怎么判断", "有意识的机器该不该有权利"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "technology",
+      "icon": "💻",
+      "name": "科技",
+      "topics": [
+        { "id": "technology-01", "title": "大学该不该用 AI 检测学生的论文？", "talkingPoints": ["误伤无辜学生", "逼出隐瞒而非能力"], "depth": "moderate" },
+        { "id": "technology-02", "title": "社交媒体是不是让我们越来越不会当面聊天了？", "talkingPoints": ["表演型社交替代真实连接", "尴尬寒暄能力的退化"], "depth": "deep" },
+        { "id": "technology-03", "title": "社交平台该不该把最低使用年龄设为 16 岁？", "talkingPoints": ["保护与家长选择权", "年龄一填就过"], "depth": "moderate" },
+        { "id": "technology-04", "title": "自动驾驶汽车出了事故，该谁负责？", "talkingPoints": ["车企、车主还是行人", "保险模式要大改"], "depth": "deep" },
+        { "id": "technology-05", "title": "AI 生成的内容该不该强制打水印？", "talkingPoints": ["透明与言论的边界", "检测总能被绕开"], "depth": "moderate" },
+        { "id": "technology-06", "title": "远程办公真的比坐班更好吗？", "talkingPoints": ["专注 vs 失去带教", "城市中心的空心化"], "depth": "casual" },
+        { "id": "technology-07", "title": "该不该立一部全球公约来监管 AI？", "talkingPoints": ["军备竞赛式的内卷", "谁来执行"], "depth": "deep" },
+        { "id": "technology-08", "title": "加密货币到底算真货币还是算赌场？", "talkingPoints": ["支付与炒作两副面孔", "散户被割的真相"], "depth": "moderate" },
+        { "id": "technology-09", "title": "该不该让每个学生都学编程？", "talkingPoints": ["时代素养还是单一赛道", "强行窄化路径"], "depth": "moderate" },
+        { "id": "technology-10", "title": "科技让我们和家人更近还是更远？", "talkingPoints": ["同屏 vs 同在", "隔着距离也能关心"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "icon": "🤔",
+      "name": "哲学",
+      "topics": [
+        { "id": "philosophy-01", "title": "真的存在完全无私的行为吗？", "talkingPoints": ["付出时的那点暖意", "连慈善也在服务自己"], "depth": "deep" },
+        { "id": "philosophy-02", "title": "自由意志到底存不存在？", "talkingPoints": ["大脑里的决定论", "没有自由意志还要不要负责"], "depth": "deep" },
+        { "id": "philosophy-03", "title": "是做个公正的人，还是做个快乐的人？", "talkingPoints": ["隐身戒指的难题", "公正本身也是安心"], "depth": "deep" },
+        { "id": "philosophy-04", "title": "没有苦难的人生，会有意义吗？", "talkingPoints": ["舒适与无聊", "意义来自克服"], "depth": "deep" },
+        { "id": "philosophy-05", "title": "真相是主观的还是客观的？", "talkingPoints": ["事实与切身感受", "纯粹相对主义的危险"], "depth": "deep" },
+        { "id": "philosophy-06", "title": "我们对还没出生的后代有没有责任？", "talkingPoints": ["不存在的人", "被打折的远期未来"], "depth": "deep" },
+        { "id": "philosophy-07", "title": "苦难会让人更强大吗？", "talkingPoints": ["成长叙事 vs 创伤", "把痛苦浪漫化"], "depth": "moderate" },
+        { "id": "philosophy-08", "title": "金钱是自由的根源，还是万恶之源？", "talkingPoints": ["钱买来的选择权", "被扭曲的激励"], "depth": "casual" },
+        { "id": "philosophy-09", "title": "机器能真正理解我们吗？", "talkingPoints": ["语法与语义", "行为即理解"], "depth": "moderate" },
+        { "id": "philosophy-10", "title": "民族主义是健康的，还是危险的？", "talkingPoints": ["归属感与排他", "既生骄傲也生战"], "depth": "deep" }
+      ]
+    },
+    {
+      "id": "psychology",
+      "icon": "🧠",
+      "name": "心理",
+      "topics": [
+        { "id": "psychology-01", "title": "快乐是一种选择，还是一种处境？", "talkingPoints": ["确实好用的感恩练习", "不平等的起点"], "depth": "moderate" },
+        { "id": "psychology-02", "title": "性格测试到底有没有用？", "talkingPoints": ["巴纳姆效应与模糊标签", "对团队到底帮不帮"], "depth": "casual" },
+        { "id": "psychology-03", "title": "社交媒体会让人更孤独吗？", "talkingPoints": ["比较与错失焦虑", "连着又疏远着"], "depth": "moderate" },
+        { "id": "psychology-04", "title": "人的性格是天生的，还是养成的？", "talkingPoints": ["出生时的脾气", "经历重塑特质"], "depth": "deep" },
+        { "id": "psychology-05", "title": "该不该让父母实时查看青少年的位置？", "talkingPoints": ["安全与自主", "早早侵蚀信任"], "depth": "moderate" },
+        { "id": "psychology-06", "title": "奖励会不会反过来扼杀内在动力？", "talkingPoints": ["过度辩护效应", "好心办坏事的胡萝卜"], "depth": "deep" },
+        { "id": "psychology-07", "title": "怀旧对人是好还是坏？", "talkingPoints": ["艰难时的安慰", "活在过去"], "depth": "casual" },
+        { "id": "psychology-08", "title": "心理健康假该不该成为职场标配？", "talkingPoints": ["把休息正常化", "被滥用与被追踪"], "depth": "casual" },
+        { "id": "psychology-09", "title": "我们真的比上一代更焦虑吗？", "talkingPoints": ["永远在线的文化", "是诊断更准不是病更多"], "depth": "moderate" },
+        { "id": "psychology-10", "title": "你能爱上一个你不信任的人吗？", "talkingPoints": ["爱与安全感分裂", "为了过去而留下"], "depth": "deep" }
+      ]
+    },
+    {
+      "id": "history",
+      "icon": "📜",
+      "name": "历史",
+      "topics": [
+        { "id": "history-01", "title": "殖民时期掠走的文物，该不该物归原主？", "talkingPoints": ["所有权与保管之辩", " expertise 在哪边"], "depth": "deep" },
+        { "id": "history-02", "title": "教科书里该不该删掉让人不舒服的历史？", "talkingPoints": ["保护还是粉饰", "谁在写正典"], "depth": "deep" },
+        { "id": "history-03", "title": "工业化是一场错误吗？", "talkingPoints": ["物质进步买了什么单", "本可以更温和吗"], "depth": "deep" },
+        { "id": "history-04", "title": "有争议的雕像，该不该保留？", "talkingPoints": ["历史与仇恨", "留着加语境更好"], "depth": "deep" },
+        { "id": "history-05", "title": "大航海是探索，还是殖民？", "talkingPoints": ["商路 vs 征服", "当地的代价"], "depth": "deep" },
+        { "id": "history-06", "title": "罗马帝国至今还在悄悄影响我们吗？", "talkingPoints": ["法律、语言、道路", "西方叙事的神话"], "depth": "moderate" },
+        { "id": "history-07", "title": "历史真的会重演吗？", "talkingPoints": ["模式与变了的语境", "我们总不吸取的教训"], "depth": "moderate" },
+        { "id": "history-08", "title": "该不该原谅历史上的不公？", "talkingPoints": ["代际责任", "和解还是遗忘"], "depth": "deep" },
+        { "id": "history-09", "title": "史上最被误解的领袖是谁？", "talkingPoints": ["胜者书写叙事", "随时间被翻案"], "depth": "casual" },
+        { "id": "history-10", "title": "我们从失败里学到的，比从成功里多吗？", "talkingPoints": ["成功里的幸存者偏差", "反面教材的价值"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "art-culture",
+      "icon": "🎨",
+      "name": "艺术文化",
+      "topics": [
+        { "id": "art-culture-01", "title": "AI 画出来的东西，算艺术吗？", "talkingPoints": ["工具与作者", "拿别人的作品训练"], "depth": "deep" },
+        { "id": "art-culture-02", "title": "经典名著该不该为现代读者改写？", "talkingPoints": ["可读性与原貌", "抹掉过去"], "depth": "moderate" },
+        { "id": "art-culture-03", "title": "博物馆该不该免费对所有人开放？", "talkingPoints": ["文化作为公共品", "大楼的钱从哪来"], "depth": "casual" },
+        { "id": "art-culture-04", "title": "翻拍老电影，是不是偷懒？", "talkingPoints": ["稳赚的安全牌", " nostalgia 市场"], "depth": "moderate" },
+        { "id": "art-culture-05", "title": "该不该批评文化挪用？", "talkingPoints": ["交流 vs 窃取", "管得太宽"], "depth": "deep" },
+        { "id": "art-culture-06", "title": "街头涂鸦，是破坏公物还是文化？", "talkingPoints": ["财产与发声", "士绅化效应"], "depth": "moderate" },
+        { "id": "art-culture-07", "title": "该不该努力拯救正在消失的语言？", "talkingPoints": ["一种语言的身份", "资源怎么排优先级"], "depth": "deep" },
+        { "id": "art-culture-08", "title": "同人创作，算不算正经的创作？", "talkingPoints": ["二次创作", "版权张力"], "depth": "casual" },
+        { "id": "art-culture-09", "title": "作者本人的经历，影响你对他作品的评价吗？", "talkingPoints": ["作者已死", "把作品与人分开"], "depth": "moderate" },
+        { "id": "art-culture-10", "title": "公共艺术该不该由政府出钱？", "talkingPoints": ["委员会定品味", "共享的美"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "food-travel",
+      "icon": "🍜",
+      "name": "美食旅行",
+      "topics": [
+        { "id": "food-travel-01", "title": "路边摊是不是比 fine dining 更好吃？", "talkingPoints": ["灵魂 vs 技法", "卫生的代价"], "depth": "casual" },
+        { "id": "food-travel-02", "title": "为了地球，我们该少吃肉吗？", "talkingPoints": ["每餐的碳账", "个人与系统"], "depth": "moderate" },
+        { "id": "food-travel-03", "title": "大众旅游是不是把热门目的地毁了？", "talkingPoints": ["威尼斯与巴厘效应", "本地经济的依赖"], "depth": "moderate" },
+        { "id": "food-travel-04", "title": "正宗美食，是个伪概念吗？", "talkingPoints": ["菜系一直在变", "给菜品设门槛"], "depth": "moderate" },
+        { "id": "food-travel-05", "title": "度假坐飞机，该不该有负罪感？", "talkingPoints": ["单次行程的排放", "谁飞得最少"], "depth": "deep" },
+        { "id": "food-travel-06", "title": "含糖饮料该不该像酒一样征税？", "talkingPoints": [" nudging vs 累退税", "省下的医疗账"], "depth": "moderate" },
+        { "id": "food-travel-07", "title": "签证免签，该不该全球通用？", "talkingPoints": ["流动的自由", "对富裕国的压力"], "depth": "moderate" },
+        { "id": "food-travel-08", "title": "融合菜，是文化欣赏还是挪用？", "talkingPoints": ["混出来的美味", "谁在赚钱"], "depth": "moderate" },
+        { "id": "food-travel-09", "title": "餐厅该不该禁用一次性塑料？", "talkingPoints": ["成本转嫁给食客", "海洋的负担"], "depth": "moderate" },
+        { "id": "food-travel-10", "title": "自己做饭，真的比外卖健康吗？", "talkingPoints": ["可控 vs 方便", "餐厅藏起来的油"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "relationships",
+      "icon": "💞",
+      "name": "关系",
+      "topics": [
+        { "id": "relationships-01", "title": "早点结婚好，还是晚点结婚好？", "talkingPoints": ["一起成长 vs 各自长成", "成熟的时机"], "depth": "casual" },
+        { "id": "relationships-02", "title": "该不该和前任做朋友？", "talkingPoints": ["closure vs 混乱", "新伴侣舒不舒服"], "depth": "casual" },
+        { "id": "relationships-03", "title": "情侣该不该财务全透明？", "talkingPoints": ["信任 vs 自主", "权力关系"], "depth": "moderate" },
+        { "id": "relationships-04", "title": "该不该对伴侣毫无隐瞒？", "talkingPoints": ["诚实 vs 善意", "保留隐私的权利"], "depth": "deep" },
+        { "id": "relationships-05", "title": "线上交友，比线下认识更好吗？", "talkingPoints": ["海量 vs 语境", "资料页的表演"], "depth": "moderate" },
+        { "id": "relationships-06", "title": "一个人能同时爱两个人吗？", "talkingPoints": ["一份爱 vs 多份", "多元之爱现实"], "depth": "deep" },
+        { "id": "relationships-07", "title": "该不该为对方的 career 搬家？", "talkingPoints": ["牺牲 vs 怨怼", "两个人的难题"], "depth": "moderate" },
+        { "id": "relationships-08", "title": "父母该不该认可你的另一半？", "talkingPoints": ["尊重 vs 独立", "长期的摩擦"], "depth": "moderate" },
+        { "id": "relationships-09", "title": "和同事谈恋爱，可以吗？", "talkingPoints": ["办公室政治", "好散的退路"], "depth": "casual" },
+        { "id": "relationships-10", "title": "结婚以后，爱情会褪色吗？", "talkingPoints": ["新鲜感 vs 深度", "靠经营维持"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "education",
+      "icon": "📚",
+      "name": "教育",
+      "topics": [
+        { "id": "education-01", "title": "小学该不该取消作业？", "talkingPoints": ["玩耍 vs 练习", "家庭支持的差距"], "depth": "moderate" },
+        { "id": "education-02", "title": "读大学，还值不值那笔债？", "talkingPoints": ["信号 vs 技能", "替代路线在起"], "depth": "deep" },
+        { "id": "education-03", "title": "该不该取消标准化考试？", "talkingPoints": ["公平比较 vs 为考而教", "分数里的偏见"], "depth": "moderate" },
+        { "id": "education-04", "title": "在家上学 homeschooling，比传统学校更好吗？", "talkingPoints": ["定制节奏 vs 社交", "家长的能力"], "depth": "moderate" },
+        { "id": "education-05", "title": "分数真的能衡量学习吗？", "talkingPoints": ["死记 vs 掌握", "那个 A 带来的焦虑"], "depth": "moderate" },
+        { "id": "education-06", "title": "学校该不该教财商？", "talkingPoints": ["成人技能的缺口", "进谁的课纲"], "depth": "casual" },
+        { "id": "education-07", "title": "学生该不该用 AI 工具写作业？", "talkingPoints": ["作弊 vs 家教", "当年也禁过计算器"], "depth": "deep" },
+        { "id": "education-08", "title": "大学运动员该不该拿工资？", "talkingPoints": ["他们赚的收入", "学生身份"], "depth": "moderate" },
+        { "id": "education-09", "title": "四年制学位，是不是已经过时了？", "talkingPoints": ["按技能招人", "文凭的惯性"], "depth": "deep" },
+        { "id": "education-10", "title": "中学该不该为青少年推迟上课时间？", "talkingPoints": ["睡眠的科学", "排班的成本"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "politics",
+      "icon": "🏛️",
+      "name": "政治",
+      "topics": [
+        { "id": "politics-01", "title": "投票该不该强制？", "talkingPoints": ["义务 vs 自由", "强制出票的效应"], "depth": "moderate" },
+        { "id": "politics-02", "title": "民主是我们能有的最好制度吗？", "talkingPoints": ["缺陷与替代", "替代项的记录"], "depth": "deep" },
+        { "id": "politics-03", "title": "巨富该不该交更高的税？", "talkingPoints": ["再分配 vs 激励", "资本外逃"], "depth": "deep" },
+        { "id": "politics-04", "title": "取消文化，是有问责还是网暴？", "talkingPoints": ["让权力被追责", "不敢开口的恐惧"], "depth": "deep" },
+        { "id": "politics-05", "title": "亿万富翁该不该存在？", "talkingPoints": ["极端财富的道德", "财富作为激励"], "depth": "deep" },
+        { "id": "politics-06", "title": "所有公职，都该有任期限制吗？", "talkingPoints": ["新鲜血液 vs 流失经验", "固化"], "depth": "moderate" },
+        { "id": "politics-07", "title": "言论自由该不该绝对，哪怕冒犯人？", "talkingPoints": ["伤害原则", "禁令的滑坡"], "depth": "deep" },
+        { "id": "politics-08", "title": "国家该不该接收更多难民？", "talkingPoints": ["人道责任", "融合的承载力"], "depth": "moderate" },
+        { "id": "politics-09", "title": "全民基本收入，现实吗？", "talkingPoints": ["自动化的红利", "怕让人不工作"], "depth": "deep" },
+        { "id": "politics-10", "title": "爱国主义，是向善的力量吗？", "talkingPoints": ["团结 vs 排他", "用旗帜掩盖政策"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "icon": "🎬",
+      "name": "娱乐",
+      "topics": [
+        { "id": "entertainment-01", "title": "没完没了的续集，是不是毁了电影？", "talkingPoints": ["安全牌 vs 原创", "观众自己的需求"], "depth": "casual" },
+        { "id": "entertainment-02", "title": "追剧 binge-watching，有害吗？", "talkingPoints": ["沉浸 vs 睡眠", "多巴胺循环"], "depth": "casual" },
+        { "id": "entertainment-03", "title": "明星该不该把政治观点藏起来？", "talkingPoints": ["平台的责任", "人人都有言论自由"], "depth": "moderate" },
+        { "id": "entertainment-04", "title": "真人秀，是不是基本都是假的？", "talkingPoints": ["被编排的冲突", "同意被剪辑"], "depth": "casual" },
+        { "id": "entertainment-05", "title": "超级英雄疲劳，是真的吗？", "talkingPoints": ["IP 的饱和", "西部片的位置"], "depth": "casual" },
+        { "id": "entertainment-06", "title": "网红该不该披露每一笔赞助？", "talkingPoints": ["透明 vs 噪声", "监管的负担"], "depth": "moderate" },
+        { "id": "entertainment-07", "title": "现场音乐，比录音更好吗？", "talkingPoints": ["在场 vs 完美", "可及与票价"], "depth": "casual" },
+        { "id": "entertainment-08", "title": "影院该不该禁手机？", "talkingPoints": ["共享的体验", "偷拍流出"], "depth": "casual" },
+        { "id": "entertainment-09", "title": "颁奖礼，还有存在的必要吗？", "talkingPoints": ["行业的自我欣赏", "受众在缩"], "depth": "casual" },
+        { "id": "entertainment-10", "title": "批评，会扼杀创造力吗？", "talkingPoints": ["问责 vs  chill", "怕被评价"], "depth": "moderate" }
+      ]
+    },
+    {
+      "id": "sports",
+      "icon": "⚽",
+      "name": "体育",
+      "topics": [
+        { "id": "sports-01", "title": "跨性别运动员，该按性别认同参赛吗？", "talkingPoints": ["包容 vs 公平", "分项目的科学"], "depth": "deep" },
+        { "id": "sports-02", "title": "给大学运动员发薪，终于公平了吗？", "talkingPoints": ["他们创造的收入", "业余神话"], "depth": "moderate" },
+        { "id": "sports-03", "title": "电竞该进奥运会吗？", "talkingPoints": ["什么算体育", "拉年轻观众"], "depth": "casual" },
+        { "id": "sports-04", "title": "现在的青少年体育，是不是太卷了？", "talkingPoints": [" burnout 与伤病", "家长的压力"], "depth": "moderate" },
+        { "id": "sports-05", "title": "如果安全，该不该允许 doping？", "talkingPoints": ["真正的公平竞技", "健康的天花板"], "depth": "deep" },
+        { "id": "sports-06", "title": "高票价，是不是在赶走真球迷？", "talkingPoints": ["动态定价", "本地球场空了"], "depth": "moderate" },
+        { "id": "sports-07", "title": "接触性运动，该不该更安全？", "talkingPoints": ["CTE 的现实", "改了还是那项运动吗"], "depth": "deep" },
+        { "id": "sports-08", "title": "为球队加油，本质上是不是部落主义？", "talkingPoints": ["身份与归属", "无害的仪式"], "depth": "casual" },
+        { "id": "sports-09", "title": "运动员该不该就政治发声？", "talkingPoints": ["平台的力量", "专心打球"], "depth": "moderate" },
+        { "id": "sports-10", "title": "世界杯轮流办球，公平吗？", "talkingPoints": ["后勤 vs 可及", "贿选的疑云"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "business",
+      "icon": "💼",
+      "name": "商业",
+      "topics": [
+        { "id": "business-01", "title": "公司该不该改成四天工作制？", "talkingPoints": ["生产率证据", "覆盖的难题"], "depth": "moderate" },
+        { "id": "business-02", "title": "拼搏文化 hustle culture，是不是有毒？", "talkingPoints": ["把 burnout 当勋章", "可持续的节奏"], "depth": "deep" },
+        { "id": "business-03", "title": "零工劳动者，该不该被算作雇员？", "talkingPoints": ["福利 vs 灵活", "商业模式的断裂"], "depth": "deep" },
+        { "id": "business-04", "title": "赚钱，是不是公司唯一的本职？", "talkingPoints": ["股东至上", "利益相关方视角"], "depth": "deep" },
+        { "id": "business-05", "title": "该不该给 CEO 薪酬设上限？", "talkingPoints": ["与工人的倍数", "人才外流"], "depth": "deep" },
+        { "id": "business-06", "title": "中层管理，有必要存在吗？", "talkingPoints": ["协调 vs 开销", "更扁平的组织"], "depth": "moderate" },
+        { "id": "business-07", "title": "AI 该不该取代招聘和筛选？", "talkingPoints": ["模型里的偏见", "效率 vs 公平"], "depth": "moderate" },
+        { "id": "business-08", "title": "无薪实习，是不是剥削？", "talkingPoints": ["经验 vs 白干", "谁做得起"], "depth": "moderate" },
+        { "id": "business-09", "title": "公司该优先考虑利益相关方，还是股东？", "talkingPoints": ["长期 vs 季度", "法律上的义务"], "depth": "deep" },
+        { "id": "business-10", "title": "人脉 networking，是不是大多很假？", "talkingPoints": ["真正的关系", "连接的表演"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "nature",
+      "icon": "🌿",
+      "name": "自然",
+      "topics": [
+        { "id": "nature-01", "title": "该不该让城市更多「再野化」？", "talkingPoints": ["生物多样性的回归", "人类空间的让渡"], "depth": "moderate" },
+        { "id": "nature-02", "title": "养宠物，合乎伦理吗？", "talkingPoints": ["陪伴 vs 圈养", "繁育的伤害"], "depth": "moderate" },
+        { "id": "nature-03", "title": "今天，动物园还有存在必要吗？", "talkingPoints": ["保育 vs 展演", "动物福利"], "depth": "deep" },
+        { "id": "nature-04", "title": "该不该靠吃入侵物种来控制它们？", "talkingPoints": ["食欲当工具", "食品安全的缺口"], "depth": "casual" },
+        { "id": "nature-05", "title": "城市中心，该不该禁私家车？", "talkingPoints": ["空气与空间", "对所有人可达"], "depth": "deep" },
+        { "id": "nature-06", "title": "人类世 Anthropocene，是我们的错吗？", "talkingPoints": ["地质层上的人类指纹", "谁该负责"], "depth": "deep" },
+        { "id": "nature-07", "title": "该不该保护顶级掠食者？", "talkingPoints": ["营养级联", "与牲畜的冲突"], "depth": "moderate" },
+        { "id": "nature-08", "title": "瓶装水，是不道德吗？", "talkingPoints": ["塑料垃圾", "自来水跟不上的地方"], "depth": "casual" },
+        { "id": "nature-09", "title": "该不该禁棕榈油？", "talkingPoints": ["毁林的真凶", "背后是生计"], "depth": "moderate" },
+        { "id": "nature-10", "title": "该不该种的比砍的多？", "talkingPoints": ["净增的目标", "抵消的诚实度"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "health",
+      "icon": "❤️",
+      "name": "健康",
+      "topics": [
+        { "id": "health-01", "title": "糖，该不该像烟草一样征税？", "talkingPoints": [" nudging vs 累退", "医疗的账"], "depth": "moderate" },
+        { "id": "health-02", "title": "心理健康和身体健康，一样重要吗？", "talkingPoints": ["照护的平权", " stigma 还在"], "depth": "casual" },
+        { "id": "health-03", "title": "常规疫苗，该不该强制接种？", "talkingPoints": ["群体免疫 vs 选择", "公共利益"], "depth": "deep" },
+        { "id": "health-04", "title": "BMI，是个有缺陷的指标吗？", "talkingPoints": ["分不清肌肉和脂肪", "更好的指标"], "depth": "moderate" },
+        { "id": "health-05", "title": "该不该限制孩子看屏幕的时间？", "talkingPoints": ["正在发育的大脑", "家长的控制权"], "depth": "moderate" },
+        { "id": "health-06", "title": "纯素饮食，真的更健康吗？", "talkingPoints": ["植物证据", "B12 与规划"], "depth": "moderate" },
+        { "id": "health-07", "title": "毒瘾，该治疗而不是坐牢吗？", "talkingPoints": ["公共卫生的框架", "监禁的成本"], "depth": "deep" },
+        { "id": "health-08", "title": "学校该不该教正念？", "talkingPoints": ["calm vs 课时", "证据基础"], "depth": "casual" },
+        { "id": "health-09", "title": "健身打卡，是不是让人更焦虑？", "talkingPoints": ["觉察 vs 焦虑", "被数字困住"], "depth": "casual" },
+        { "id": "health-10", "title": "睡眠，是不是最接近万能药的东西？", "talkingPoints": ["修复的功能", "缺眠的流行病"], "depth": "casual" }
+      ]
+    },
+    {
+      "id": "weird-fun",
+      "icon": "🤪",
+      "name": "奇趣",
+      "topics": [
+        { "id": "weird-fun-01", "title": "如果能瞬间移动，你第一站去哪？", "talkingPoints": ["海边 vs 山顶", "你会去见谁"], "depth": "casual" },
+        { "id": "weird-fun-02", "title": "你愿意去火星住一年吗？", "talkingPoints": ["冒险 vs 孤独", "回来时变了"], "depth": "casual" },
+        { "id": "weird-fun-03", "title": "热狗到底算不算三明治？", "talkingPoints": ["定义游戏", "taco 的漏洞"], "depth": "casual" },
+        { "id": "weird-fun-04", "title": "你想知道自己确切的未来吗？", "talkingPoints": ["剧透人生", "选择是否自由"], "depth": "deep" },
+        { "id": "weird-fun-05", "title": "你愿意把意识上传到电脑吗？", "talkingPoints": ["自我的连续", "复制还是转移"], "depth": "deep" },
+        { "id": "weird-fun-06", "title": "时间旅行，该不该被定为非法？", "talkingPoints": ["祖父悖论", "谁来执法"], "depth": "deep" },
+        { "id": "weird-fun-07", "title": "你愿意吃一颗永远不难过的药吗？", "talkingPoints": ["没有对比的喜悦", "把好的也麻木了"], "depth": "deep" },
+        { "id": "weird-fun-08", "title": "多重宇宙这个说法，靠谱吗？", "talkingPoints": ["多世界诠释", "无法证伪"], "depth": "moderate" },
+        { "id": "weird-fun-09", "title": "我们该害怕 AI，还是欢迎它？", "talkingPoints": ["工具 vs 对手", "谁在掌舵"], "depth": "moderate" },
+        { "id": "weird-fun-10", "title": "梦，算不算一段真实的经历？", "talkingPoints": ["离线时的意识", "我们赋予的意义"], "depth": "moderate" }
+      ]
+    }
+  ]
+}

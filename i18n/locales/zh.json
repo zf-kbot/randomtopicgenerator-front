@@ -1,0 +1,28 @@
+{
+  "site": {
+    "title": "随机话题生成器",
+    "tagline": "一键获取新鲜话题 —— 适用于聊天、写作、辩论与演讲。"
+  },
+  "controls": {
+    "category": "分类",
+    "all": "全部",
+    "count": "话题数量",
+    "depth": "深度",
+    "casual": "轻松",
+    "moderate": "中等",
+    "deep": "深入",
+    "generate": "生成话题"
+  },
+  "result": {
+    "copy": "复制",
+    "copied": "已复制",
+    "save": "收藏",
+    "saved": "已收藏"
+  },
+  "saved": {
+    "title": "我的收藏",
+    "empty": "还没有收藏的话题。生成几个然后点收藏吧！",
+    "clear": "清空"
+  },
+  "footer": "轻量级随机话题生成器，无需注册。"
+}
