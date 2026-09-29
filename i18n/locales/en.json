@@ -3,7 +3,13 @@
     "title": "Random Topic Generator",
     "tagline": "Get a fresh topic in one click — for conversations, writing, debates, and speeches."
   },
+  "modes": {
+    "topics": "Topics",
+    "questions": "Questions",
+    "words": "Words"
+  },
   "controls": {
+    "mode": "Mode",
     "category": "Category",
     "all": "All",
     "count": "Number of topics",

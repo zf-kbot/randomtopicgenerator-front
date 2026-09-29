@@ -35,7 +35,7 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         {
           name: 'description',
-          content: 'Generate random topics for conversations, writing, debates, and speeches. 500+ curated topics across 16 categories.'
+          content: 'Generate random Topics, Questions, and Words for conversations, writing, debates, and speeches. 17 categories, three modes, endless practice.'
         }
       ],
       script: [

@@ -3,7 +3,13 @@
     "title": "随机话题生成器",
     "tagline": "一键获取新鲜话题 —— 适用于聊天、写作、辩论与演讲。"
   },
+  "modes": {
+    "topics": "话题",
+    "questions": "问题",
+    "words": "词语"
+  },
   "controls": {
+    "mode": "模式",
     "category": "分类",
     "all": "全部",
     "count": "话题数量",

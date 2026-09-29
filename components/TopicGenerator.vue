@@ -1,16 +1,19 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { getCategories } from '@/composables/useTopics'
+import { getCategories, getPrompts, MODES, type Mode } from '@/composables/useTopics'
 
 const { locale, t } = useI18n()
 const categories = computed(() => getCategories(locale.value))
 
+const mode = ref<Mode>('topics')
 const selectedCategory = ref('all')
 const count = ref(3)
 const depth = ref('all')
-const results = ref<Array<{ cat: any; topic: any }>>([])
+const results = ref<Array<{ cat: any; prompt: any }>>([])
 const copiedId = ref('')
+
+const modeTabs = computed(() => MODES.map((m) => ({ ...m, label: t('modes.' + m.id) })))
 
 const categoryOptions = computed(() => [
   { id: 'all', icon: '🌐', name: t('controls.all') },
@@ -24,11 +27,12 @@ function generate() {
     selectedCategory.value === 'all'
       ? categories.value
       : categories.value.filter((c: any) => c.id === selectedCategory.value)
-  const pool: Array<{ cat: any; topic: any }> = []
+  const pool: Array<{ cat: any; prompt: any }> = []
   cats.forEach((c: any) => {
-    c.topics.forEach((topic: any) => {
-      if (depth.value === 'all' || topic.depth === depth.value) {
-        pool.push({ cat: c, topic })
+    const list = getPrompts(locale.value, mode.value, c.id)
+    list.forEach((p: any) => {
+      if (depth.value === 'all' || p.depth === depth.value) {
+        pool.push({ cat: c, prompt: p })
       }
     })
   })
@@ -51,9 +55,9 @@ function isSaved(id: string) {
   return saved.value.some((s) => s.id === id)
 }
 function toggleSave(item: any) {
-  const idx = saved.value.findIndex((s) => s.id === item.topic.id)
+  const idx = saved.value.findIndex((s) => s.id === item.prompt.id)
   if (idx >= 0) saved.value.splice(idx, 1)
-  else saved.value.push({ id: item.topic.id, title: item.topic.title, catId: item.cat.id })
+  else saved.value.push({ id: item.prompt.id, title: item.prompt.title, catId: item.cat.id, mode: mode.value })
   localStorage.setItem('rtg-saved', JSON.stringify(saved.value))
 }
 function clearSaved() {
@@ -70,6 +74,11 @@ async function copyTopic(title: string, id: string) {
   } catch {}
 }
 
+function switchMode(m: Mode) {
+  mode.value = m
+  generate()
+}
+
 onMounted(() => {
   loadSaved()
   generate()
@@ -78,6 +87,20 @@ onMounted(() => {
 
 <template>
   <div>
+    <div class="mode-tabs" role="tablist" :aria-label="t('controls.mode')">
+      <button
+        v-for="m in modeTabs"
+        :key="m.id"
+        class="mode-tab"
+        :class="{ active: mode === m.id }"
+        role="tab"
+        :aria-selected="mode === m.id"
+        @click="switchMode(m.id)"
+      >
+        <span class="mode-icon">{{ m.icon }}</span>{{ m.label }}
+      </button>
+    </div>
+
     <div class="panel">
       <div class="controls">
         <div class="field">
@@ -109,27 +132,27 @@ onMounted(() => {
       <button class="btn-primary" @click="generate">{{ t('controls.generate') }}</button>
 
       <div class="results" v-if="results.length">
-        <div class="card" v-for="item in results" :key="item.topic.id">
+        <div class="card" v-for="item in results" :key="item.prompt.id">
           <div class="card-top">
             <div>
               <span class="cat-tag">{{ item.cat.icon }} {{ item.cat.name }}</span>
-              <h3>{{ item.topic.title }}</h3>
+              <h3>{{ item.prompt.title }}</h3>
             </div>
             <div class="card-actions">
-              <button class="icon-btn" @click="copyTopic(item.topic.title, item.topic.id)">
-                {{ copiedId === item.topic.id ? t('result.copied') : t('result.copy') }}
+              <button class="icon-btn" @click="copyTopic(item.prompt.title, item.prompt.id)">
+                {{ copiedId === item.prompt.id ? t('result.copied') : t('result.copy') }}
               </button>
               <button
                 class="icon-btn"
-                :class="{ active: isSaved(item.topic.id) }"
+                :class="{ active: isSaved(item.prompt.id) }"
                 @click="toggleSave(item)"
               >
-                {{ isSaved(item.topic.id) ? t('result.saved') : t('result.save') }}
+                {{ isSaved(item.prompt.id) ? t('result.saved') : t('result.save') }}
               </button>
             </div>
           </div>
-          <ul v-if="item.topic.talkingPoints && item.topic.talkingPoints.length">
-            <li v-for="(p, i) in item.topic.talkingPoints" :key="i">{{ p }}</li>
+          <ul v-if="item.prompt.talkingPoints && item.prompt.talkingPoints.length">
+            <li v-for="(p, i) in item.prompt.talkingPoints" :key="i">{{ p }}</li>
           </ul>
         </div>
       </div>
@@ -144,7 +167,7 @@ onMounted(() => {
       <ul v-else>
         <li v-for="s in saved" :key="s.id">
           <span>{{ s.title }}</span>
-          <button class="link-btn" @click="toggleSave({ topic: s, cat: { id: s.catId } })">✕</button>
+          <button class="link-btn" @click="toggleSave({ prompt: s, cat: { id: s.catId } })">✕</button>
         </li>
       </ul>
     </div>
