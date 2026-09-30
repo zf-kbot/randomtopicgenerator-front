@@ -7,8 +7,7 @@
     </header>
     <TopicGenerator />
     <footer class="site-footer">
-      <p>{{ t('footer') }}</p>
-      <p class="build-info">build <code>{{ build.commit }}</code> · {{ buildTimeUtc }}</p>
+      <p>{{ t('footer') }} · <span class="build-info">build <code>{{ build.commit }}</code> · {{ buildTimeUtc }}</span></p>
     </footer>
   </div>
 </template>
@@ -28,15 +27,14 @@ const buildTimeUtc = computed(() => {
 
 <style scoped>
 .site-footer {
-  margin-top: 2.5rem;
-  padding-top: 1.25rem;
+  margin-top: 1.5rem;
+  padding-top: 0.75rem;
   border-top: 1px solid rgba(124, 58, 237, 0.15);
   text-align: center;
   color: #6b7280;
   font-size: 0.85rem;
 }
 .site-footer .build-info {
-  margin: 0.4rem 0 0;
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 0.78rem;
   color: #9ca3af;
