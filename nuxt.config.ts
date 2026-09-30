@@ -1,7 +1,30 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { execSync } from 'node:child_process'
+
+// 构建信息：commit（CF 构建取 CF_PAGES_COMMIT_SHA，本地回退 git）、构建时间
+// 写入 appConfig，SSG 时内联进页面，便于核对线上版本。
+function getBuildCommit(): string {
+  const sha = process.env.CF_PAGES_COMMIT_SHA
+  if (sha) return sha.slice(0, 7)
+  try {
+    return execSync('git rev-parse --short HEAD').toString().trim()
+  } catch {
+    return 'unknown'
+  }
+}
+
+const buildInfo = {
+  commit: getBuildCommit(),
+  time: new Date().toISOString()
+}
+
 export default defineNuxtConfig({
   compatibilityDate: '2025-01-01',
   devtools: { enabled: false },
+
+  appConfig: {
+    build: buildInfo
+  },
 
   modules: [
     '@nuxtjs/i18n',
