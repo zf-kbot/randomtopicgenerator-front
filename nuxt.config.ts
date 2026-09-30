@@ -33,6 +33,8 @@ export default defineNuxtConfig({
 
   i18n: {
     defaultLocale: 'en',
+    // SEO 文案等新增 key 目前仅 en 有译文，其余语言显式回退英文
+    fallbackLocale: 'en',
     locales: [
       { code: 'en', name: 'English', file: 'en.json' },
       { code: 'zh', name: '中文', file: 'zh.json' },
@@ -55,19 +57,15 @@ export default defineNuxtConfig({
     // TODO: 增强 i18n hreflang（xhtml:link 交替链接）— 待 @nuxtjs/sitemap v8 与 i18n 集成细调
   },
 
-  app: {
-    head: {
-      htmlAttrs: { lang: 'en' },
-      title: 'Random Topic Generator',
-      meta: [
-        { charset: 'utf-8' },
-        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        {
-          name: 'description',
-          content: 'Generate random Topics, Questions, and Words for conversations, writing, debates, and speeches. 17 categories, three modes, endless practice.'
-        },
-        { name: 'theme-color', content: '#7C3AED' }
-      ],
+    app: {
+      head: {
+        htmlAttrs: { lang: 'en' },
+        // title/description 由 pages/index.vue 的 useSeoMeta 按语言生成
+        meta: [
+          { charset: 'utf-8' },
+          { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+          { name: 'theme-color', content: '#7C3AED' }
+        ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32.png' },

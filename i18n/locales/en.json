@@ -30,5 +30,91 @@
     "empty": "No saved topics yet. Generate some and hit Save!",
     "clear": "Clear all"
   },
-  "footer": "A lightweight random topic generator. No account needed."
+  "footer": "A lightweight random topic generator. No account needed.",
+  "seo": {
+    "head": {
+      "title": "Random Topic Generator – Free Topics, Questions & Words",
+      "description": "Free random topic generator: get random topics, questions, and words for conversations, writing, debates, and speeches. 17 categories, three modes, no sign-up."
+    },
+    "intro": {
+      "h2": "What is a random topic generator?",
+      "p1": "A random topic generator gives you an instant subject to talk, write, or think about — one click, and a fresh idea appears. This free tool works in three modes (Topics, Questions, and Words) across 17 categories, from science and history to tech and hot takes, so you always have new conversation starters, writing prompts, and debate ideas within reach.",
+      "p2": "Unlike a plain random word generator, every topic comes with depth — casual icebreakers for a party, moderate questions to ask friends, or deep research prompts for essays and presentations. Nothing to install and no account needed: just pick a mode, choose a category, and generate."
+    },
+    "how": {
+      "h2": "How to use the random topic generator",
+      "steps": [
+        {
+          "title": "Pick a mode",
+          "text": "Choose Topics for random topics, Questions for conversation starters, or Words for single random words."
+        },
+        {
+          "title": "Choose a category and depth",
+          "text": "Narrow it down to one of 17 categories — or keep it on All — and set the depth from casual to deep."
+        },
+        {
+          "title": "Generate, save, and copy",
+          "text": "Click Generate for a fresh set. Copy any topic or save your favorites for later — no sign-up required."
+        }
+      ]
+    },
+    "useCases": {
+      "h2": "What can you use it for?",
+      "items": [
+        {
+          "title": "Conversations",
+          "text": "Never run out of things to talk about. Pull random conversation starters for friends, dates, or family dinners."
+        },
+        {
+          "title": "Writing & brainstorming",
+          "text": "Break writer's block with random writing prompts for journals, essays, blogs, and fiction."
+        },
+        {
+          "title": "Impromptu speaking",
+          "text": "Practice speaking for one minute on a random topic — a classic exercise for public speaking and Table Topics sessions."
+        },
+        {
+          "title": "Debates & discussions",
+          "text": "Find debate topics and hot takes that spark sharp, structured arguments in class or at work."
+        },
+        {
+          "title": "Classroom & ESL",
+          "text": "Teachers and ESL learners use random questions and topics to build speaking confidence, warm up a class, or fill the last five minutes."
+        },
+        {
+          "title": "Icebreakers & parties",
+          "text": "Generate fun icebreaker questions for meetings, team building, game nights, and parties."
+        }
+      ]
+    },
+    "faq": {
+      "h2": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Is this random topic generator free?",
+          "a": "Yes. It is completely free with no account, no sign-up, and no limits — open the page and start generating."
+        },
+        {
+          "q": "What's the difference between Topics, Questions, and Words?",
+          "a": "Topics gives you full subjects to talk or write about, Questions gives you ready-to-ask conversation starters, and Words gives you single random words for quick games and brainstorming."
+        },
+        {
+          "q": "How many categories are there?",
+          "a": "There are 17 categories, including General, Science, History, Tech, Finance, Football, Hot Takes, and more. Choose All to pull from everything at once."
+        },
+        {
+          "q": "Can I use it for speeches and classroom activities?",
+          "a": "Absolutely. It is popular for impromptu speaking practice (like Toastmasters Table Topics), classroom warm-ups, ESL speaking practice, and debate preparation."
+        },
+        {
+          "q": "Does it work in other languages?",
+          "a": "Yes — the generator supports 8 languages: English, Chinese, Spanish, German, French, Japanese, Korean, and Russian. Switch language from the selector at the top."
+        },
+        {
+          "q": "Do I need to create an account?",
+          "a": "No. Saved topics are stored locally in your browser, so there is nothing to register and nothing to install."
+        }
+      ]
+    }
+  }
 }
