@@ -51,6 +51,7 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useLocaleHead } from '#i18n'
+import enSeo from '~/i18n/locales/en.json'
 
 const { t, tm } = useI18n()
 const appConfig = useAppConfig() as any
@@ -71,11 +72,20 @@ useSeoMeta({
 const localeHead = useLocaleHead()
 useHead(() => localeHead.value)
 
-// 列表型文案取原始 message 数组（含 fallback）
-const rawList = (key: string) => (tm(key) as any[] | undefined) ?? []
-const howSteps = computed(() => rawList('seo.how.steps'))
-const useCaseItems = computed(() => rawList('seo.useCases.items'))
-const faqItems = computed(() => rawList('seo.faq.items'))
+// 列表型文案：tm() 对缺失 key 不走 fallbackLocale（非 en 语言会拿到非数组），
+// 取不到数组时直接读 en.json 兜底，与 t() 的英文回退行为保持一致
+const enSeoList = (path: string[]): any[] => {
+  let cur: any = enSeo.seo
+  for (const k of path) cur = cur?.[k]
+  return Array.isArray(cur) ? cur : []
+}
+const rawList = (key: string, enPath: string[]): any[] => {
+  const v = tm(key) as any
+  return Array.isArray(v) ? v : enSeoList(enPath)
+}
+const howSteps = computed(() => rawList('seo.how.steps', ['how', 'steps']))
+const useCaseItems = computed(() => rawList('seo.useCases.items', ['useCases', 'items']))
+const faqItems = computed(() => rawList('seo.faq.items', ['faq', 'items']))
 
 // 结构化数据：WebApplication + FAQPage（SSG 时内联进 HTML）
 const SITE_URL = 'https://randomtopicgenerator.io'
