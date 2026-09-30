@@ -1,0 +1,4038 @@
+{
+  "prompts": {
+    "deep-research": [
+      {
+        "id": "deep-research-1",
+        "title": "Briser la glace",
+        "talkingPoints": [
+          "Faire quelque chose ou dire quelque chose pour détendre l'atmosphère ou lancer la conversation, surtout entre inconnus.",
+          "Elle a raconté une blague pour briser la glace au début de la réunion.",
+          "Raconte une fois où tu as dû briser la glace avec quelqu'un que tu venais de rencontrer."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-2",
+        "title": "Mieux vaut tard que jamais",
+        "talkingPoints": [
+          "Il vaut mieux que quelque chose arrive tard que jamais.",
+          "Il s'est enfin excusé après deux ans — mieux vaut tard que jamais.",
+          "Raconte une fois où tu as fini ou dit quelque chose en retard, mais où mieux valait tard que jamais."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-3",
+        "title": "Goûter à son propre médicament",
+        "talkingPoints": [
+          "Être traité comme tu as traité les autres, surtout quand c'est désagréable.",
+          "Le farceur a fini par goûter à son propre médicament quand ses amis l'ont farci à son tour.",
+          "Raconte une fois où tu as goûté à ton propre médicament après avoir traité quelqu'un d'une certaine manière."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-4",
+        "title": "Jouer les avocats du diable",
+        "talkingPoints": [
+          "Défendre une position à laquelle on n'adhère pas forcément, pour lancer le débat ou tester une idée.",
+          "Je vais jouer l'avocat du diable : et si le projet échouait à cause du coût ?",
+          "Parle d'une fois où tu as joué les avocats du diable dans une discussion — ou où tu aurais dû le faire."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-5",
+        "title": "Balayer sous le tapis",
+        "talkingPoints": [
+          "Cacher ou ignorer un problème au lieu de le traiter.",
+          "L'entreprise a tenté de balayer les plaintes sur la sécurité sous le tapis.",
+          "Raconte une fois où un problème a été balayé sous le tapis au lieu d'être réglé comme il se devait."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-6",
+        "title": "Les léopards ne changent pas leurs taches",
+        "talkingPoints": [
+          "Le caractère fondamental d'une personne ne change pas, même si elle essaie de paraître différente.",
+          "Il a promis d'être plus honnête cette fois, mais les léopards ne changent pas leurs taches.",
+          "Raconte une fois où tu as constaté que les léopards ne changent pas leurs taches — chez toi ou chez quelqu'un d'autre."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-7",
+        "title": "La gentillesse",
+        "talkingPoints": [
+          "La qualité d'une personne aimable, généreuse et attentionnée envers les autres.",
+          "Un petit geste de gentillesse de la part d'un inconnu a égayé toute sa journée.",
+          "Raconte une fois où la gentillesse de quelqu'un t'a pris au dépourvu et a changé ton humeur."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-8",
+        "title": "Chez soi",
+        "talkingPoints": [
+          "Le lieu où l'on vit, ou un sentiment d'appartenance et de confort.",
+          "Où qu'elle voyage, ce petit appartement a toujours été comme chez elle.",
+          "Décris ce qui fait qu'un endroit est comme chez toi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-9",
+        "title": "La compassion",
+        "talkingPoints": [
+          "Une préoccupation compatissante pour la souffrance d'autrui, accompagnée du désir d'aider.",
+          "Sa compassion pour l'oiseau blessé a surpris tous les randonneurs.",
+          "Décris un moment où la compassion de quelqu'un envers toi a vraiment changé les choses."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-10",
+        "title": "L'effort",
+        "talkingPoints": [
+          "L'énergie physique ou mentale déployée pour accomplir quelque chose.",
+          "Il a fallu un vrai effort pour rester calme pendant la négociation.",
+          "Parle de quelque chose qui a demandé bien plus d'efforts que prévu."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-11",
+        "title": "L'enfance",
+        "talkingPoints": [
+          "La période de la vie qui va de la naissance à l'âge adulte.",
+          "Son enfance dans un petit village de pêcheurs a forgé son amour de la mer.",
+          "Partage un souvenir d'enfance qui influence encore qui tu es aujourd'hui."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-12",
+        "title": "La surprise",
+        "talkingPoints": [
+          "Un événement inattendu ou étonnant.",
+          "La fête surprise l'a laissé sans voix pour la première fois de sa vie.",
+          "Décris une surprise, bonne ou mauvaise, à laquelle tu ne t'attendais pas du tout."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-13",
+        "title": "L'authenticité",
+        "talkingPoints": [
+          "La qualité d'une personne sincère et fidèle à son propre caractère, plutôt qu'une copie ou une imitation.",
+          "Son authenticité sur scène donnait au public l'impression de parler à un ami.",
+          "Parle d'une fois où tu as abandonné un masque et laissé les gens voir qui tu es vraiment."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-14",
+        "title": "La transition",
+        "talkingPoints": [
+          "Le passage d'un état ou d'une situation à un autre.",
+          "La transition d'étudiant à salarié à temps plein a été plus dure qu'elle ne le pensait.",
+          "Décris une transition majeure de ta vie et ce qui t'a aidé à la traverser."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-15",
+        "title": "La compétition",
+        "talkingPoints": [
+          "L'activité qui consiste à s'efforcer d'obtenir ou de gagner quelque chose en dominant les autres.",
+          "La compétition amicale entre les deux agences a poussé les deux équipes commerciales vers de nouveaux records.",
+          "Décris comment la compétition, saine ou non, a façonné l'une de tes plus grandes réussites."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-16",
+        "title": "La nostalgie",
+        "talkingPoints": [
+          "Une mélancolie sentimentale tournée vers le passé.",
+          "L'odeur de la vieille boulangerie l'a rempli de nostalgie pour les étés chez sa grand-mère.",
+          "Décris un souvenir précis qui te remplit de nostalgie et pourquoi il compte encore pour toi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-17",
+        "title": "La solidarité",
+        "talkingPoints": [
+          "L'unité ou l'accord des sentiments ou des actions au sein d'un groupe partageant un intérêt commun.",
+          "La solidarité des travailleurs pendant la grève a maintenu le moral haut, même après des semaines sans salaire.",
+          "Parle d'un moment où tu as ressenti une vraie solidarité avec un groupe d'inconnus ou de collègues."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-18",
+        "title": "L'engagement",
+        "talkingPoints": [
+          "Le fait de se consacrer à une cause, une activité ou une relation.",
+          "Son engagement envers l'équipe n'a jamais faibli, même pendant la saison où ils ont perdu tous leurs matchs.",
+          "Décris un engagement que tu as tenu même quand il est devenu difficile à tenir."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-19",
+        "title": "L'utilitarisme",
+        "talkingPoints": [
+          "Une théorie éthique selon laquelle la meilleure action est celle qui produit le plus grand bien pour le plus grand nombre.",
+          "Le conseil municipal a invoqué l'utilitarisme pour justifier une politique qui profitait à la majorité au prix d'un petit sacrifice pour quelques-uns.",
+          "Décris une vraie décision où suivre l'utilitarisme signifierait sacrifier les intérêts d'une minorité, et dis si tu la prendrais quand même."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-20",
+        "title": "La dialectique",
+        "talkingPoints": [
+          "Une méthode de raisonnement qui résout le conflit entre idées opposées en les combinant en une compréhension plus complète.",
+          "Par la dialectique, les deux débatteurs ont découvert que leurs arguments opposés contenaient chacun une part de vérité.",
+          "Déroule un désaccord que tu as eu en le traitant comme une dialectique, et explique à quoi pourrait ressembler une synthèse des deux côtés."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-21",
+        "title": "Le récit",
+        "talkingPoints": [
+          "Un récit ou un enchaînement d'éléments servant à expliquer ou à donner du sens aux événements.",
+          "L'entreprise a changé son discours public après le scandale pour se concentrer sur la réforme.",
+          "Interroge le récit personnel que tu te racontes sur ta propre vie, et demande-toi s'il te sert toujours bien."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-22",
+        "title": "La mémoire",
+        "talkingPoints": [
+          "La capacité mentale de stocker, conserver et restituer des informations et des expériences passées.",
+          "Son souvenir de l'accident était flou, mais la peur qu'il avait laissée derrière lui était vive.",
+          "Partage un souvenir dont tu n'es plus sûr qu'il soit entièrement exact, et discute de la façon dont la mémoire évolue avec le temps."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-23",
+        "title": "Les systèmes",
+        "talkingPoints": [
+          "Des ensembles de parties interconnectées qui fonctionnent ensemble comme un tout.",
+          "Les ingénieurs étudient comment de petites pannes dans des systèmes complexes peuvent se propager en défaillances majeures.",
+          "Décris un système de ta propre vie — routine, lieu de travail ou relation — et comment un petit changement a affecté l'ensemble."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-24",
+        "title": "L'usure de compassion",
+        "talkingPoints": [
+          "L'épuisement émotionnel causé par une exposition prolongée à la souffrance d'autrui, fréquent chez les soignants et les professionnels de l'aide.",
+          "Après des années aux urgences, l'infirmière a reconnu chez elle les premiers signes de l'usure de compassion.",
+          "Discute d'une fois où tu as ressenti l'usure de compassion — en prenant soin d'une personne, d'une cause ou en suivant l'actualité — et de comment t'en es remis."
+        ],
+        "depth": "moderate"
+      }
+    ],
+    "general": [
+      {
+        "id": "general-1",
+        "title": "Mettre le doigt dessus",
+        "talkingPoints": [
+          "Décrire exactement ce qui cause une situation ou un problème ; viser juste.",
+          "Quand elle a dit que le projet avait échoué à cause d'un mauvais plan, elle a mis le doigt dessus.",
+          "Parle d'une fois où quelqu'un a mis le doigt sur le problème auquel tu étais confronté."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-2",
+        "title": "Une bénédiction déguisée",
+        "talkingPoints": [
+          "Quelque chose qui semble mauvais ou malchanceux au départ mais qui se révèle avoir une bonne issue.",
+          "Perdre mon emploi fut une bénédiction déguisée : cela m'a poussé à créer ma propre entreprise.",
+          "Partage un revers de ta vie qui s'est révélé être une bénédiction déguisée."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-3",
+        "title": "Avoir beaucoup sur la planche",
+        "talkingPoints": [
+          "Avoir beaucoup de tâches ou de responsabilités à gérer en même temps.",
+          "Je ne peux pas prendre un autre projet en ce moment — j'ai déjà beaucoup sur la planche.",
+          "Décris une période de ta vie où tu avais beaucoup sur la planche et comment tu as fait face."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-4",
+        "title": "Affronter la musique",
+        "talkingPoints": [
+          "Accepter et affronter les conséquences désagréables de ses actes.",
+          "Après avoir raté la réunion, il a dû affronter la musique avec son patron.",
+          "Raconte une fois où tu as dû affronter la musique après une erreur."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-5",
+        "title": "Sacrifier quelqu'un pour se sauver",
+        "talkingPoints": [
+          "Trahir quelqu'un pour son propre intérêt.",
+          "Il a sacrifié son coéquipier pour sauver sa propre réputation.",
+          "Raconte une fois où l'on t'a sacrifié et comment cela a changé ta façon de faire confiance au travail."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-6",
+        "title": "Trier le bon grain de l'ivraie",
+        "talkingPoints": [
+          "Distinguer ce qui a de la valeur ou est utile de ce qui ne vaut rien.",
+          "Le premier tour d'entretiens nous a aidés à trier le bon grain de l'ivraie parmi les candidats.",
+          "Partage un processus que tu as utilisé pour trier le bon grain de l'ivraie en prenant une grande décision."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "general-7",
+        "title": "L'espoir",
+        "talkingPoints": [
+          "Un sentiment d'attente et de désir qu'une chose advienne.",
+          "Même à l'hôpital, elle n'a jamais perdu espoir que les choses s'améliorent.",
+          "Parle d'une fois où tu as gardé espoir alors même que tout semblait contre toi."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-8",
+        "title": "Le rêve",
+        "talkingPoints": [
+          "Un espoir, une ambition ou une aspiration chérie ; aussi les images vécues pendant le sommeil.",
+          "Devenir médecin avait été son rêve depuis l'enfance.",
+          "Parle d'un rêve que tu poursuis encore et de ce qui t'en empêche."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "general-9",
+        "title": "L'empathie",
+        "talkingPoints": [
+          "La capacité de comprendre et de partager les sentiments d'autrui.",
+          "Son empathie pour la nouvelle employée l'a aidée à s'intégrer plus vite.",
+          "Raconte une fois où tu t'es vraiment mis à la place de quelqu'un d'autre."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-10",
+        "title": "La gentillesse",
+        "talkingPoints": [
+          "La qualité d'une personne aimable, généreuse et attentionnée envers les autres.",
+          "Un petit geste de gentillesse de la part d'un inconnu a égayé toute sa journée.",
+          "Raconte une fois où la gentillesse de quelqu'un t'a pris au dépourvu et a changé ton humeur."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-11",
+        "title": "L'amitié",
+        "talkingPoints": [
+          "Une relation étroite d'affection et de confiance mutuelles entre personnes.",
+          "Leur amitié a survécu à vingt ans et trois pays différents.",
+          "Décris une amitié qui a façonné qui tu es aujourd'hui."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "general-12",
+        "title": "Le réconfort",
+        "talkingPoints": [
+          "Un état de bien-être physique ou un sentiment de soulagement après la détresse.",
+          "La voix de sa mère au téléphone fut tout le réconfort dont elle avait besoin ce soir-là.",
+          "Parle de ce qui te réconforte pendant une semaine difficile."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-13",
+        "title": "La vulnérabilité",
+        "talkingPoints": [
+          "L'état d'être ouvert à l'exposition ou au dommage émotionnel.",
+          "Admettre qu'elle avait peur a demandé une vraie vulnérabilité devant toute son équipe.",
+          "Partage un moment où s'être montré vulnérable avec quelqu'un a en réalité renforcé la relation."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "general-14",
+        "title": "Le défi",
+        "talkingPoints": [
+          "Une tâche ou une situation qui met à l'épreuve les capacités de quelqu'un.",
+          "Apprendre une nouvelle langue sur le tard fut le plus grand défi qu'il ait relevé depuis des années.",
+          "Parle d'un défi dont tu ne pensais pas sortir et de comment tu y es parvenu."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-15",
+        "title": "La coopération",
+        "talkingPoints": [
+          "Le fait de travailler ensemble vers un même but.",
+          "La coopération entre syndicats rivaux était rare, mais elle a sauvé les deux entreprises de la fermeture.",
+          "Raconte une fois où coopérer avec quelqu'un en désaccord avec toi a mené à un meilleur résultat."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-16",
+        "title": "La perspective",
+        "talkingPoints": [
+          "Une attitude particulière envers quelque chose, ou une manière de la considérer.",
+          "Voyager seule pendant un mois a complètement changé sa perspective sur ce dont elle avait besoin pour être heureuse.",
+          "Parle d'une expérience qui t'a donné une perspective entièrement nouvelle sur ta propre vie."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "general-17",
+        "title": "La tolérance",
+        "talkingPoints": [
+          "La capacité ou la volonté d'accepter des croyances ou des comportements différents des siens.",
+          "Grandir dans un quartier mixte lui a enseigné une forme de tolérance que les livres n'auraient jamais pu lui donner.",
+          "Décris une expérience qui a élargi ta tolérance envers un point de vue très différent du tien."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-18",
+        "title": "Le doute",
+        "talkingPoints": [
+          "Un sentiment d'incertitude quant à la vérité ou à la fiabilité de quelque chose.",
+          "Le doute s'est glissé la veille de l'examen, même après des mois de préparation.",
+          "Parle d'un moment de réel doute et de comment tu l'as traversé — ou pas."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-19",
+        "title": "L'éthique des vertus",
+        "talkingPoints": [
+          "Une approche éthique centrée sur le caractère et les vertus de la personne qui agit plutôt que sur les règles ou les conséquences.",
+          "Au lieu de demander quelle règle s'appliquait, elle a utilisé l'éthique des vertus et demandé ce qu'une personne courageuse ferait.",
+          "Identifie une vertu que tu cherches activement à cultiver en toi et explique pourquoi tu l'as choisie plutôt qu'une autre."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-20",
+        "title": "La souveraineté",
+        "talkingPoints": [
+          "L'autorité d'un État ou d'un individu à se gouverner sans ingérence extérieure.",
+          "Le traité a été controversé parce que les critiques estimaient qu'il minait la souveraineté nationale.",
+          "Discute de l'endroit où, selon toi, il faut tracer la ligne entre le respect de la souveraineté d'une nation et l'intervention pour empêcher un mal."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-21",
+        "title": "Le discours",
+        "talkingPoints": [
+          "La communication, en particulier formelle ou approfondie, sur un sujet donné.",
+          "Le discours public sur le changement climatique s'est profondément transformé au cours de la dernière décennie.",
+          "Discute de la façon dont le discours public sur un sujet qui te tient à cœur pourrait devenir plus constructif."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "general-22",
+        "title": "Le trauma",
+        "talkingPoints": [
+          "Une expérience profondément pénible ou bouleversante qui laisse une empreinte psychologique durable.",
+          "Des années après l'accident, certains brins pouvaient encore raviver son trauma.",
+          "Discute, comme tu en as envie, de la façon dont les gens peuvent devenir plus forts après un trauma."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-23",
+        "title": "L'émergence",
+        "talkingPoints": [
+          "La façon dont des motifs ou comportements complexes naissent de l'interaction de parties plus simples au sein d'un système.",
+          "Le vol en nuée des oiseaux est un exemple classique d'émergence : aucun oiseau ne dirige le motif.",
+          "Partage un exemple d'émergence que tu as remarqué, où un groupe a produit quelque chose qu'aucun membre n'avait voulu ni planifié."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "general-24",
+        "title": "L'imagination morale",
+        "talkingPoints": [
+          "La capacité d'imaginer les dimensions éthiques d'une situation et d'envisager des possibilités au-delà des choix évidents.",
+          "Résoudre le différend a demandé de l'imagination morale pour trouver une solution qu'aucun camp n'avait envisagée.",
+          "Décris un conflit où l'imagination morale t'a aidé à voir des options que tu n'avais pas envisagées au départ."
+        ],
+        "depth": "deep"
+      }
+    ],
+    "random": [
+      {
+        "id": "random-1",
+        "title": "Ne pas être dans son assiette",
+        "talkingPoints": [
+          "Se sentir légèrement malade ou en dessous de sa forme habituelle.",
+          "Je suis resté à la maison parce que je ne me sentais pas dans mon assiette.",
+          "Décris la dernière fois où tu n'étais pas dans ton assiette et comment tu l'as géré."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-2",
+        "title": "Faire d'une pierre deux coups",
+        "talkingPoints": [
+          "Atteindre deux objectifs avec une seule action.",
+          "En allant au travail à vélo, je fais d'une pierre deux coups : le trajet et le sport.",
+          "Décris une fois où tu as fait d'une pierre deux coups en combinant deux tâches."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-3",
+        "title": "Casser sa pipe",
+        "talkingPoints": [
+          "Une façon informelle et souvent humoristique de dire que quelqu'un est mort.",
+          "Mon grand-père plaisantait toujours en disant qu'il ferait le tour du monde avant de casser sa pipe.",
+          "Parle de quelque chose sur ta liste de choses à faire avant de casser ta pipe."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-4",
+        "title": "Accorder le bénéfice du doute",
+        "talkingPoints": [
+          "Croire l'explication de quelqu'un ou lui faire confiance sans preuve complète, plutôt que supposer le pire.",
+          "Elle était encore en retard, mais je lui ai accordé le bénéfice du doute vu les embouteillages.",
+          "Décris une fois où tu as accordé le bénéfice du doute à quelqu'un, et comment ça s'est passé."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-5",
+        "title": "Un loup déguisé en agneau",
+        "talkingPoints": [
+          "Quelqu'un qui paraît inoffensif ou aimable mais qui est en réalité dangereux ou trompeur.",
+          "Le vendeur semblait sympathique au début, mais il s'est révélé être un loup déguisé en agneau.",
+          "Décris une fois où tu as compris que quelqu'un était un loup déguisé en agneau."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-6",
+        "title": "Se débrouiller seul",
+        "talkingPoints": [
+          "Améliorer sa situation par son propre travail et ses propres efforts, sans l'aide de personne.",
+          "Elle s'est sortie d'affaire par ses propres moyens, cumulant trois emplois pour payer ses études.",
+          "Décris une fois où tu as dû te débrouiller seul pour surmonter une situation difficile."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "random-7",
+        "title": "La confiance",
+        "talkingPoints": [
+          "Une conviction ferme dans la fiabilité, la véracité ou la capacité de quelqu'un ou de quelque chose.",
+          "Il faut des années pour bâtir la confiance et quelques secondes pour la briser.",
+          "Décris comment tu as reconstruit la confiance avec quelqu'un après l'avoir brisée."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-8",
+        "title": "L'avenir",
+        "talkingPoints": [
+          "Le temps ou la période encore à venir.",
+          "Il était nerveux mais excité à l'idée de l'avenir après la remise des diplômes.",
+          "Décris comment tu imagines ta vie dans cinq ans."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-9",
+        "title": "La créativité",
+        "talkingPoints": [
+          "L'usage de l'imagination pour produire des idées ou des choses originales.",
+          "Les ressources limitées ont en réalité poussé sa créativité plus loin qu'elle ne le pensait.",
+          "Parle d'une fois où une contrainte t'a forcé à être plus créatif."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "random-10",
+        "title": "Le jeu",
+        "talkingPoints": [
+          "Une activité pratiquée pour le plaisir et la détente plutôt qu'à des fins sérieuses.",
+          "Les enfants se sont perdus dans le jeu pendant des heures dans le jardin.",
+          "Décris une façon de jouer ou de te détendre qu'on n'attendrait pas de toi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-11",
+        "title": "La communauté",
+        "talkingPoints": [
+          "Un groupe de personnes vivant au même endroit ou partageant des intérêts communs.",
+          "La communauté s'est rassemblée pour reconstruire l'aire de jeux après l'incendie.",
+          "Parle d'une communauté à laquelle tu appartiens et de ce qu'elle représente pour toi."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-12",
+        "title": "La sécurité",
+        "talkingPoints": [
+          "L'état d'être protégé du danger ou du mal.",
+          "Il ne s'est pas senti vraiment en sécurité avant d'entendre la voix de sa fille au téléphone.",
+          "Décris un moment où tu as réalisé à quel point la sécurité — ou son absence — comptait pour toi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "random-13",
+        "title": "La responsabilisation",
+        "talkingPoints": [
+          "L'obligation d'assumer la responsabilité de ses actes et de leurs conséquences.",
+          "Le manager a incarné la responsabilité en assumant publiquement l'échec du projet.",
+          "Décris une fois où tu as dû assumer une erreur au lieu de rejeter la faute."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-14",
+        "title": "L'opportunité",
+        "talkingPoints": [
+          "Un ensemble de circonstances qui rend possible la réalisation de quelque chose.",
+          "Une conversation fortuite lors d'un congrès s'est transformée en l'opportunité de sa carrière.",
+          "Décris une opportunité que tu as failli laisser passer et ce qui t'a décidé à la saisir."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "random-15",
+        "title": "La négociation",
+        "talkingPoints": [
+          "Une discussion visant à parvenir à un accord.",
+          "Des heures de négociation ont enfin abouti à un contrat acceptable pour les deux parties.",
+          "Parle d'une négociation, grande ou petite, où tu as dû renoncer à quelque chose pour obtenir autre chose."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-16",
+        "title": "Le biais",
+        "talkingPoints": [
+          "Une tendance à pencher dans une direction particulière, souvent de façon injuste.",
+          "Il n'a pas pris conscience de son propre biais jusqu'à ce qu'on lui signale qu'il ne recrutait que des gens qui lui ressemblaient.",
+          "Décris un biais que tu as remarqué chez toi et ce que tu en as fait."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-17",
+        "title": "L'acceptation",
+        "talkingPoints": [
+          "Le fait de consentir à recevoir ou entreprendre quelque chose ; aussi, reconnaître une situation telle qu'elle est.",
+          "L'acceptation de son diagnostic, plutôt que le déni, est ce qui lui a enfin permis d'avancer.",
+          "Parle de quelque chose de difficile à propos duquel tu as fini par atteindre l'acceptation."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "random-18",
+        "title": "La conviction",
+        "talkingPoints": [
+          "Une croyance ou une opinion fermement tenue ; aussi, la fermeté de la croyance.",
+          "Sa conviction que le projet fonctionnerait a maintenu l'équipe en vie après deux prototypes ratés.",
+          "Décris une conviction si forte que tu la défendrais même si tu étais le seul."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-19",
+        "title": "L'autosatisfaction",
+        "talkingPoints": [
+          "Un sentiment de satisfaction tranquille qui conduit à ne plus percevoir les problèmes potentiels ni la nécessité de l'effort.",
+          "Des années de succès ont engendré l'autosatisfaction, et l'entreprise a été prise de court par un concurrent plus agile.",
+          "Partage une fois où l'autosatisfaction t'a coûté une opportunité, et comment tu essaies de t'en prémunir depuis."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "random-20",
+        "title": "La légitimité",
+        "talkingPoints": [
+          "La qualité d'être accepté comme légitime ou valide, souvent en référence à l'autorité ou au pouvoir.",
+          "Le nouveau gouvernement a eu du mal à établir sa légitimité après une élection contestée.",
+          "Explique ce qui rend, selon toi, une autorité légitime à tes yeux — gouvernement, patron ou règle."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-21",
+        "title": "Le pouvoir",
+        "talkingPoints": [
+          "La capacité d'influencer ou de contrôler le comportement des gens ou le cours des événements.",
+          "Le pouvoir de la sénatrice venait moins de son titre que des relations qu'elle avait bâties au fil des ans.",
+          "Parle d'une fois où tu as eu du pouvoir sur quelqu'un, même brièvement, et comment tu as essayé de l'utiliser avec responsabilité."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "random-22",
+        "title": "La guérison",
+        "talkingPoints": [
+          "Le processus de guérison d'un mal physique, émotionnel ou psychologique.",
+          "La guérison après cette perte a pris bien plus de temps qu'elle ne le pensait.",
+          "Décris à quoi a ressemblé ta guérison après une période difficile de ta vie."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "random-23",
+        "title": "Le retour",
+        "talkingPoints": [
+          "Une information sur les résultats d'une action, utilisée pour ajuster les comportements futurs.",
+          "Le coach donnait un retour immédiat après chaque exercice pour que les joueurs corrigent leur geste.",
+          "Décris un retour difficile à entendre qui t'a finalement changé en mieux."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-24",
+        "title": "La désillusion",
+        "talkingPoints": [
+          "Le sentiment de déception qui naît de la découverte que quelque chose n'est pas aussi bon qu'on le croyait.",
+          "Sa désillusion envers l'entreprise a grandi après avoir vu à quel point la direction agissait différemment à huis clos.",
+          "Partage une expérience de désillusion — envers une personne, une institution ou une croyance — et comment elle a changé ta vision."
+        ],
+        "depth": "casual"
+      }
+    ],
+    "tech-terms": [
+      {
+        "id": "tech-terms-1",
+        "title": "Coûter les yeux de la tête",
+        "talkingPoints": [
+          "Être très cher.",
+          "Ce sac de créateur m'a coûté les yeux de la tête.",
+          "Parle de quelque chose que tu as acheté qui t'a coûté les yeux de la tête, et si cela en valait la peine."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-2",
+        "title": "Être d'accord",
+        "talkingPoints": [
+          "Être d'accord avec quelqu'un ou partager la même opinion.",
+          "Ma sœur et moi ne sommes pas toujours d'accord en politique.",
+          "Parle de quelqu'un avec qui tu n'es pas toujours d'accord et comment tu gères cela."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-3",
+        "title": "Explorer toutes les pistes",
+        "talkingPoints": [
+          "Essayer toutes les façons possibles d'accomplir quelque chose ou de résoudre un problème.",
+          "Les enquêteurs ont exploré toutes les pistes à la recherche des preuves disparues.",
+          "Décris une fois où tu as exploré toutes les pistes pour résoudre un problème."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-4",
+        "title": "Avoir un atout dans sa manche",
+        "talkingPoints": [
+          "Avoir un avantage caché ou un plan secret gardé en réserve pour le bon moment.",
+          "Ne t'inquiète pas pour la négociation — j'ai un atout dans ma manche.",
+          "Parle d'une fois où tu avais un atout dans ta manche face à un défi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-5",
+        "title": "Ne pas faire de vagues",
+        "talkingPoints": [
+          "Ne rien faire ni dire qui risque de déstabiliser une situation stable ou de créer des ennuis.",
+          "Tout le monde a accepté de garder le silence et de ne pas perturber le statu quo avant la finalisation de la fusion.",
+          "Parle d'une fois où tu as choisi de ne pas faire de vagues, même si tu voulais te manifester."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-6",
+        "title": "Mordre la main qui te nourrit",
+        "talkingPoints": [
+          "Nuire ou trahir quelqu'un qui t'a aidé ou soutenu.",
+          "Critiquer publiquement l'entreprise tout en restant sur sa paie revenait à mordre la main qui te nourrit.",
+          "Parle d'une fois où tu as vu quelqu'un mordre la main qui le nourrit — ou où tu as craint de le faire."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-7",
+        "title": "La paix",
+        "talkingPoints": [
+          "Un état de calme, de silence et d'absence de conflit ou de trouble.",
+          "Elle a enfin trouvé la paix après des semaines de stress au travail.",
+          "Décris un lieu ou un moment où tu te sens entièrement en paix."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-8",
+        "title": "La réussite",
+        "talkingPoints": [
+          "L'accomplissement d'un but ou d'un objectif.",
+          "Sa réussite ne s'est pas faite du jour au lendemain ; il a d'abord fallu des années de revers.",
+          "Partage comment tu définis la réussite et un moment où tu as senti que tu l'avais atteinte."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-9",
+        "title": "L'inspiration",
+        "talkingPoints": [
+          "Quelque chose ou quelqu'un qui stimule la créativité, la motivation ou de nouvelles idées.",
+          "Voir sa mère cumuler deux emplois fut sa plus grande source d'inspiration.",
+          "Décris une personne ou un moment qui t'a véritablement inspiré."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-10",
+        "title": "Le repos",
+        "talkingPoints": [
+          "Une période de détente ou d'absence d'activité, de travail ou de stress.",
+          "Après le marathon, tout ce que son corps voulait, c'était du repos.",
+          "Parle de comment tu sais que tu as vraiment besoin de repos, et de ce qui arrive quand tu l'ignores."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-11",
+        "title": "Le voisin",
+        "talkingPoints": [
+          "Une personne qui habite à proximité ou à côté de soi.",
+          "Sa voisine âgée est devenue comme une seconde grand-mère pour elle.",
+          "Décris un voisin ou une voisine qui t'a laissé une empreinte inattendue."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-12",
+        "title": "Le sentiment d'appartenance",
+        "talkingPoints": [
+          "Le sentiment d'être accepté et valorisé comme membre d'un groupe.",
+          "Il lui a fallu des années à l'étranger avant de ressentir enfin un sentiment d'appartenance.",
+          "Partage un lieu ou un groupe où tu t'es enfin senti à ta place."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-13",
+        "title": "La responsabilité",
+        "talkingPoints": [
+          "Un devoir ou une obligation de gérer ou de prendre soin de quelque chose.",
+          "Assumer la responsabilité des jeunes joueurs a changé la façon dont le capitaine dirigeait l'équipe.",
+          "Parle d'une responsabilité que tu n'as pas demandée mais dans laquelle tu as grandi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-14",
+        "title": "L'obstacle",
+        "talkingPoints": [
+          "Une chose qui bloque le chemin ou freine le progrès.",
+          "Le manque de financement était le plus grand obstacle entre eux et le lancement du produit.",
+          "Raconte l'histoire d'un obstacle qui t'a forcé à trouver un chemin complètement différent."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-15",
+        "title": "Le compromis",
+        "talkingPoints": [
+          "Un accord obtenu par des concessions mutuelles.",
+          "Le compromis n'était parfait pour aucun des deux, mais il a maintenu le partenariat en vie.",
+          "Décris un compromis que tu as fait et dont tu n'es toujours pas sûr qu'il ait été le bon choix."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-16",
+        "title": "Le privilège",
+        "talkingPoints": [
+          "Un droit ou un avantage spécial réservé à une personne ou un groupe particulier.",
+          "Prendre conscience de son propre privilège a changé sa façon d'encadrer des étudiants de première génération.",
+          "Parle d'un privilège que tu as eu sans le remarquer pleinement avant plus tard dans la vie."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-17",
+        "title": "Le rejet",
+        "talkingPoints": [
+          "Le rejet ou le refus d'une proposition, d'une idée ou d'une personne.",
+          "Une douzaine de refus sont arrivés avant la lettre d'acceptation qui a changé sa carrière.",
+          "Décris un rejet qui a piqué sur le moment mais qui a mené quelque part de meilleur."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-18",
+        "title": "L'abandon",
+        "talkingPoints": [
+          "Le fait d'abandonner ou de cesser de résister à une force adverse, ou d'accepter une situation.",
+          "Apprendre à accepter l'aide ressemblait à une forme d'abandon à laquelle il n'était pas habitué.",
+          "Parle d'une fois où se rendre à une situation, au lieu de la combattre, a été le bon choix."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-19",
+        "title": "Le scepticisme",
+        "talkingPoints": [
+          "Une attitude consistant à douter des affirmations jusqu'à ce qu'elles soient appuyées par des preuves suffisantes.",
+          "Son scepticisme envers le nouveau complément l'a poussée à exiger des preuves avant de le recommander à ses patients.",
+          "Explique comment tu décides quand un scepticisme sain bascule vers un cynisme improductif."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-20",
+        "title": "La complicité",
+        "talkingPoints": [
+          "Une implication, souvent consciente, dans un acte répréhensible commis par autrui.",
+          "En restant silencieux sur la fraude, il en est devenu complice.",
+          "Décris une situation où ton silence ou ton inaction aurait pu te rendre complice de quelque chose avec quoi tu n'étais pas d'accord."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-21",
+        "title": "La vérité",
+        "talkingPoints": [
+          "La qualité d'être conforme aux faits ou à la réalité.",
+          "La journaliste a risqué sa carrière pour rapporter la vérité malgré les pressions pour se taire.",
+          "Discute de la question de savoir s'il existe toujours une vérité objective à trouver, ou si certaines questions n'ont pas de réponse unique vraie."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-22",
+        "title": "La justice",
+        "talkingPoints": [
+          "La qualité d'être équitable et de donner aux gens ce qu'ils méritent moralement.",
+          "La communauté a exigé justice après des années de mauvaise gestion de l'affaire.",
+          "Discute d'une affaire où tu penses que le résultat légal et la vraie justice n'étaient pas la même chose."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-23",
+        "title": "L'adaptation",
+        "talkingPoints": [
+          "Le processus d'ajustement à de nouvelles conditions ou à des circonstances changeantes.",
+          "L'adaptation de l'espèce au climat plus rude a pris des milliers de générations.",
+          "Parle d'une adaptation majeure que tu as dû faire dans ta vie et de ce qu'elle t'a appris sur ta propre flexibilité."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-24",
+        "title": "La privation de droits",
+        "talkingPoints": [
+          "L'état d'être privé d'un droit, en particulier le droit de vote ou de participation pleine à la société.",
+          "Les historiens ont étudié comment certaines lois ont conduit à la privation de droits de communautés entières.",
+          "Discute d'un groupe qui, selon toi, subit encore une privation de droits aujourd'hui, et de ce qui pourrait changer cela."
+        ],
+        "depth": "moderate"
+      }
+    ],
+    "football": [
+      {
+        "id": "football-1",
+        "title": "Tourner autour du pot",
+        "talkingPoints": [
+          "Éviter de parler directement d'un sujet, généralement parce qu'il est désagréable.",
+          "Arrête de tourner autour du pot et dis-moi ce qui s'est vraiment passé.",
+          "Raconte une fois où tu as tourné autour du pot au lieu de dire ce que tu pensais vraiment."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-2",
+        "title": "Indécis",
+        "talkingPoints": [
+          "Indécis ou incapable de choisir entre deux options.",
+          "J'hésite encore à accepter la nouvelle offre d'emploi.",
+          "Décris une décision sur laquelle tu restes assis entre deux chaises et ce qui te retient."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-3",
+        "title": "Sur la corde raide",
+        "talkingPoints": [
+          "Dans une situation risquée ou précaire où une erreur pourrait avoir de graves conséquences.",
+          "Après avoir encore manqué une échéance, il savait qu'il était sur la corde raide avec son manager.",
+          "Raconte une fois où tu t'es senti sur la corde raide avec quelqu'un, comme un patron ou un professeur."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-4",
+        "title": "Agir trop tôt",
+        "talkingPoints": [
+          "Agir trop tôt, avant le bon moment.",
+          "Nous avons tiré le signal trop tôt en annonçant le lancement avant que le produit soit prêt.",
+          "Décris une fois où tu as agi trop vite, avant le moment opportun."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-5",
+        "title": "Porter ses émotions sur la manche",
+        "talkingPoints": [
+          "Montrer ouvertement ses émotions plutôt que de les cacher.",
+          "Elle a toujours porté ses émotions sur la manche, donc on sait toujours ce qu'elle ressent.",
+          "Dis si tu as tendance à porter tes émotions sur la manche et comment cela a affecté tes relations."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-6",
+        "title": "Récolter ce que l'on sème",
+        "talkingPoints": [
+          "On récolte les conséquences, bonnes ou mauvaises, de ses propres actes passés.",
+          "Il a étudié dur tout le semestre et a récolté ce qu'il avait semé avec d'excellentes notes.",
+          "Décris une fois où tu as récolté ce que tu avais semé, en bien ou en mal."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "football-7",
+        "title": "L'amour",
+        "talkingPoints": [
+          "Un profond sentiment d'affection et d'attention pour quelqu'un ou quelque chose.",
+          "Leur amour l'un pour l'autre s'est renforcé à travers les épreuves.",
+          "Parle de quelqu'un dont l'amour a façonné qui tu es aujourd'hui."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-8",
+        "title": "Le bonheur",
+        "talkingPoints": [
+          "L'état de plaisir, de contentement ou de joie.",
+          "Le vrai bonheur pour lui, c'était de simples matins avec ses enfants.",
+          "Parle de ce qui te rend vraiment heureux, au-delà des réponses évidentes."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "football-9",
+        "title": "La motivation",
+        "talkingPoints": [
+          "La raison ou l'élan derrière les actions ou le comportement d'une personne.",
+          "Sa motivation pour finir la course venait d'une promesse faite à son père disparu.",
+          "Parle de ce qui te motive quand tu as envie d'abandonner."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-10",
+        "title": "Le travail",
+        "talkingPoints": [
+          "Une activité impliquant un effort mental ou physique pour atteindre un but, en particulier un emploi.",
+          "Il a trouvé un sens inattendu dans un travail qu'il jugeait autrefois ennuyeux.",
+          "Décris un métier ou une tâche qui t'a appris quelque chose sur toi-même."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-11",
+        "title": "L'inconnu",
+        "talkingPoints": [
+          "Une personne que l'on ne connaît pas.",
+          "Les mots aimables d'un inconnu dans le train l'ont accompagné pendant des semaines.",
+          "Raconte un moment marquant que tu as vécu avec un inconnu complet."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "football-12",
+        "title": "L'identité",
+        "talkingPoints": [
+          "Les qualités, croyances et caractéristiques qui définissent une personne ou un groupe.",
+          "Déménager dans un nouveau pays l'a forcé à repenser des pans de son identité.",
+          "Parle de quelque chose qui a façonné ton sens de l'identité."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-13",
+        "title": "Le leadership",
+        "talkingPoints": [
+          "L'action de diriger un groupe de personnes ou une organisation.",
+          "Son leadership calme pendant la crise a maintenu tout le département stable.",
+          "Décris un moment où tu as dû diriger alors que personne ne t'avait nommé."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "football-14",
+        "title": "La solution",
+        "talkingPoints": [
+          "Un moyen de résoudre un problème ou de faire face à une situation difficile.",
+          "La solution la plus simple s'est révélée être celle que tout le monde avait négligée.",
+          "Parle d'un problème que tu as résolu d'une manière à laquelle personne ne s'attendait."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-15",
+        "title": "Les limites",
+        "talkingPoints": [
+          "Des limites qui définissent un comportement acceptable ou qui séparent une chose d'une autre.",
+          "Poser des limites claires au travail lui a enfin rendu ses soirées.",
+          "Parle d'une limite que tu as dû poser avec un proche, et de sa réaction."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-16",
+        "title": "L'inégalité",
+        "talkingPoints": [
+          "Une différence de taille, de degré ou de circonstances, en particulier une différence injuste de statut ou d'opportunité.",
+          "Le rapport a mis au jour l'inégalité criante de salaires entre des départements au travail quasi identique.",
+          "Décris un exemple d'inégalité dont tu as été témoin et comment cela t'a affecté."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "football-17",
+        "title": "La validation",
+        "talkingPoints": [
+          "Une reconnaissance ou une affirmation qu'une personne ou ses sentiments sont valides ou légitimes.",
+          "Il a passé des années à courir après la validation de gens qui ne la donneraient jamais.",
+          "Parle d'une fois où tu avais besoin de la validation de quelqu'un et où tu l'as obtenue — ou où tu as appris à t'en passer."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-18",
+        "title": "L'endurance",
+        "talkingPoints": [
+          "La capacité de supporter l'épreuve ou le stress sur une longue période.",
+          "Finir le marathon relevait plus de l'endurance que de la vitesse.",
+          "Décris une longue période difficile qui a mis ton endurance à l'épreuve plus que tout instant singulier."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-19",
+        "title": "Le nihilisme",
+        "talkingPoints": [
+          "La croyance que la vie est dépourvue de sens, de but ou de valeur intrinsèques.",
+          "Son nihilisme l'empêchait de se sentir motivé par des objectifs à long terme.",
+          "Discute de la façon dont tu répondrais à quelqu'un qui affirme qu'au fond, rien n'a d'importance."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-20",
+        "title": "La culpabilité",
+        "talkingPoints": [
+          "Le degré auquel quelqu'un mérite le blâme pour un acte répréhensible.",
+          "Le tribunal a dû peser la culpabilité de chaque personne impliquée dans le montage.",
+          "Discute de la façon dont tu décides du degré de culpabilité mérité par quelqu'un qui a été poussé à mal agir par d'autres."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-21",
+        "title": "La perception",
+        "talkingPoints": [
+          "La façon dont quelque chose est compris ou interprété par les sens ou l'esprit.",
+          "Les deux témoins ont donné des récits différents parce que leur perception de l'événement divergeait.",
+          "Décris une fois où ta perception d'une personne ou d'un événement s'est révélée fausse, et ce qui t'a fait changer d'avis."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "football-22",
+        "title": "L'équité",
+        "talkingPoints": [
+          "L'équité obtenue en tenant compte des circonstances individuelles plutôt qu'en traitant tout le monde de façon identique.",
+          "Le programme de bourses a été conçu autour de l'équité, offrant plus de soutien aux étudiants aux moyens plus limités.",
+          "Explique la différence entre égalité et équité avec un exemple tiré de ta vie ou de ta communauté."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-23",
+        "title": "L'évolution",
+        "talkingPoints": [
+          "Un processus graduel de changement et de développement dans le temps.",
+          "L'évolution de la mission de l'entreprise reflétait l'évolution des attentes de ses clients.",
+          "Retrace l'évolution de l'une de tes croyances ou habitudes, depuis son origine jusqu'à aujourd'hui."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "football-24",
+        "title": "L'inégalité structurelle",
+        "talkingPoints": [
+          "Un désavantage systémique inscrit dans les politiques, les institutions ou les normes d'une société, plutôt que causé par les seules actions individuelles.",
+          "Les chercheurs ont pointé le financement inégal des écoles comme moteur de l'inégalité structurelle entre quartiers.",
+          "Décris un exemple d'inégalité structurelle que tu as observé et explique ce qu'il faudrait, selon toi, pour la corriger réellement."
+        ],
+        "depth": "deep"
+      }
+    ],
+    "science": [
+      {
+        "id": "science-1",
+        "title": "Vendre la mèche",
+        "talkingPoints": [
+          "Révéler une information secrète, souvent par accident ou avant le bon moment.",
+          "Il a vendu la mèche par accident à propos de la fête surprise.",
+          "Décris une fois où quelqu'un a vendu la mèche sur un secret que tu gardais."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-2",
+        "title": "Faire un pas de plus",
+        "talkingPoints": [
+          "Faire plus d'efforts que prévu pour accomplir ou aider à accomplir quelque chose.",
+          "Notre prof se donne toujours du mal pour aider les élèves en difficulté.",
+          "Raconte une fois où tu as fait un pas de plus pour quelqu'un — ou où quelqu'un l'a fait pour toi."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-3",
+        "title": "Voler la vedette",
+        "talkingPoints": [
+          "S'attribuer le mérite de la réussite de quelqu'un, ou attirer l'attention à sa place.",
+          "Elle a annoncé ses fiançailles à ma fête de remise de diplôme et m'a volé la vedette.",
+          "Décris une fois où quelqu'un t'a volé la vedette — ou où tu l'as fait par accident."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-4",
+        "title": "Garder ses cartes près de sa poitrine",
+        "talkingPoints": [
+          "Garder ses plans, ses intentions ou ses sentiments secrets vis-à-vis des autres.",
+          "Pendant la négociation, elle a gardé ses cartes près de sa poitrine et n'a rien révélé.",
+          "Raconte une situation où tu as gardé tes cartes près de ta poitrine au lieu de partager tes projets."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-5",
+        "title": "Aller à contre-courant",
+        "talkingPoints": [
+          "Faire quelque chose qui va à l'encontre de la façon habituelle ou attendue.",
+          "Choisir un parcours professionnel atypique allait à rebours des attentes de ma famille.",
+          "Décris une décision que tu as prise à contre-courant de ce qu'on attendait de toi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-6",
+        "title": "Donner des perles aux cochons",
+        "talkingPoints": [
+          "Offrir quelque chose de précieux à des gens qui ne le valoriseront ni ne le comprendront.",
+          "Donner ce conseil détaillé à quelqu'un qui n'écoutait pas, c'était donner des perles aux cochons.",
+          "Raconte une fois où tu as eu le sentiment de donner des perles aux cochons avec un conseil ou un effort qui n'a pas été apprécié."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "science-7",
+        "title": "La joie",
+        "talkingPoints": [
+          "Un sentiment de grand bonheur et d'allégresse.",
+          "Voir sa fille faire ses premiers pas l'a remplie de joie.",
+          "Décris un petit moment du quotidien qui te remplit d'une joie inattendue."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-8",
+        "title": "L'équilibre",
+        "talkingPoints": [
+          "Un état dans lequel les différents éléments sont égaux ou dans de justes proportions.",
+          "Trouver l'équilibre entre travail et famille lui a pris des années.",
+          "Décris une fois où ta vie s'est retrouvée déséquilibrée et comment tu l'as rétablie."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-9",
+        "title": "La discipline",
+        "talkingPoints": [
+          "La pratique de se former à suivre des règles ou un code de conduite particulier.",
+          "Se lever chaque jour à 5 h a demandé une vraie discipline.",
+          "Partage une habitude qui a exigé une vraie discipline pour s'installer."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "science-10",
+        "title": "La nourriture",
+        "talkingPoints": [
+          "Toute substance nutritive consommée pour entretenir la vie et la croissance.",
+          "La cuisine de sa grand-mère était le genre de nourriture qui fait penser à un câlin.",
+          "Parle d'un plat qui te transporte instantanément vers un souvenir précis."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-11",
+        "title": "L'animal",
+        "talkingPoints": [
+          "Un organisme vivant qui se nourrit de matière organique, généralement capable de se mouvoir et de réagir à son environnement.",
+          "L'animal recueilli s'est révélé être le chien le plus calme et le plus fidèle qu'il ait jamais eu.",
+          "Parle d'un animal, sauvage ou domestique, qui t'a appris quelque chose."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-12",
+        "title": "La mission de vie",
+        "talkingPoints": [
+          "La raison pour laquelle quelque chose est fait ou existe ; un sens ou une direction.",
+          "Le bénévolat lui a redonné un sens qu'elle n'avait plus ressenti depuis sa retraite.",
+          "Décris un moment où tu as ressenti un fort sentiment de mission."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "science-13",
+        "title": "L'innovation",
+        "talkingPoints": [
+          "L'introduction de nouvelles idées, méthodes ou produits.",
+          "La culture d'innovation de l'entreprise a poussé les ingénieurs à tester des idées folles sans peur de l'échec.",
+          "Parle d'une solution créative que tu as trouvée quand l'approche habituelle ne fonctionnait pas."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-14",
+        "title": "L'esprit critique",
+        "talkingPoints": [
+          "L'analyse et l'évaluation objectives d'une question afin de former un jugement.",
+          "L'esprit critique l'a aidée à repérer la faille du plan avant qu'elle ne coûte de l'argent à l'entreprise.",
+          "Décris une fois où ton esprit critique t'a empêché de prendre une mauvaise décision."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "science-15",
+        "title": "Les attentes",
+        "talkingPoints": [
+          "Des convictions fortes sur ce que quelque chose devrait être ou sur ce que quelqu'un devrait accomplir.",
+          "Vivre selon les attentes de sa famille lui pesait plus que le travail lui-même.",
+          "Décris une fois où les attentes de quelqu'un ne correspondaient pas aux tiennes, et comment tu as géré."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-16",
+        "title": "L'autonomisation",
+        "talkingPoints": [
+          "Le processus de devenir plus fort et plus confiant, en particulier dans la maîtrise de sa propre vie.",
+          "L'accent mis par l'atelier sur l'autonomisation a donné aux jeunes femmes des outils pour négocier leurs salaires.",
+          "Parle d'un moment où quelqu'un ou quelque chose t'a donné le pouvoir de prendre le contrôle d'une situation."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-17",
+        "title": "La reconnaissance",
+        "talkingPoints": [
+          "La reconnaissance des réalisations, des qualités ou de l'existence de quelqu'un.",
+          "La reconnaissance publique du projet a compté moins pour elle que le merci discret de son équipe.",
+          "Décris un moment de reconnaissance qui a compté plus que prévu pour toi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "science-18",
+        "title": "La patience",
+        "talkingPoints": [
+          "La capacité d'accepter le retard, le trouble ou la souffrance sans s'agacer.",
+          "Il a fallu une vraie patience pour apprendre à sa grand-mère à utiliser un smartphone pas à pas.",
+          "Parle d'une situation qui t'a forcé à pratiquer une patience dont tu ignorais l'existence."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-19",
+        "title": "L'humanisme",
+        "talkingPoints": [
+          "Une vision du monde qui privilégie la valeur humaine, la raison et la dignité sur l'autorité surnaturelle ou divine.",
+          "L'humanisme de la Renaissance plaçait le potentiel et l'accomplissement humains au centre de l'art et de la pensée.",
+          "Parle de ce que signifierait bâtir ta propre éthique principalement autour de la dignité et de la raison humaines plutôt que de la tradition ou de la religion."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "science-20",
+        "title": "La subjectivité",
+        "talkingPoints": [
+          "La qualité de reposer sur des sentiments, une perspective ou une interprétation personnels plutôt que sur des faits externes.",
+          "La critique a admis qu'une bonne part de sa note reposait sur la subjectivité plutôt que sur des critères objectifs.",
+          "Explique un domaine de ta vie — goût artistique ou sens de l'humour — où tu embrasses pleinement la subjectivité plutôt que de chercher une seule bonne réponse."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-21",
+        "title": "La réalité",
+        "talkingPoints": [
+          "L'état des choses tel qu'il existe réellement, indépendamment des idées ou croyances à leur sujet.",
+          "Malgré tous ses vœux contraires, la réalité l'a finalement forcé à accepter le diagnostic.",
+          "Discute d'un moment où ton idée de la réalité s'est heurtée aux faits, et de la façon dont tu t'es ajusté."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "science-22",
+        "title": "L'impartialité",
+        "talkingPoints": [
+          "La qualité de juger ou de traiter les gens sans favoritisme ni discrimination.",
+          "L'arbitre a été salué pour son impartialité même quand les décisions allaient contre l'équipe locale.",
+          "Décris une situation où quelque chose était techniquement conforme aux règles mais te semblait quand même injuste, et explique pourquoi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "science-23",
+        "title": "La révolution",
+        "talkingPoints": [
+          "Un changement soudain, radical ou complet, surtout dans un système politique ou un ensemble d'idées.",
+          "La révolution numérique a transformé la communication et l'accès à l'information.",
+          "Discute de la question de savoir si un système défaillant de ta vie ou de la société a besoin d'une réforme graduelle ou d'une révolution franche."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-24",
+        "title": "Le capital culturel",
+        "talkingPoints": [
+          "Les savoirs, habitudes, goûts et titres qui confèrent à une personne un avantage social au sein d'une société donnée.",
+          "Savoir quelle fourchette utiliser à un dîner formel était une forme petite mais révélatrice de capital culturel.",
+          "Discute d'une forme de capital culturel avec ou sans laquelle tu as grandi, et de la façon dont elle a façonné tes opportunités."
+        ],
+        "depth": "casual"
+      }
+    ],
+    "history": [
+      {
+        "id": "history-1",
+        "title": "Tous les trente-six du mois",
+        "talkingPoints": [
+          "Très rarement ; presque jamais.",
+          "Nous n'allons au cinéma que tous les trente-six du mois, ces temps-ci.",
+          "Parle de quelque chose que tu ne fais que tous les trente-six du mois, et pourquoi."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-2",
+        "title": "Vendre la mèche",
+        "talkingPoints": [
+          "Révéler un secret, généralement sans le vouloir.",
+          "Mon petit frère a vendu la mèche sur ma surprise d'anniversaire.",
+          "Décris une fois où tu as vendu la mèche sur quelque chose que tu n'aurais pas dû partager."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-3",
+        "title": "La goutte qui a fait déborder le vase",
+        "talkingPoints": [
+          "Le dernier petit problème d'une série qui rend une situation insupportable.",
+          "Le troisième retard fut la goutte qui a fait déborder le vase, et le client a mis fin au contrat.",
+          "Parle d'un moment qui fut la goutte qui a fait déborder le vase dans une relation ou une situation difficile."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-4",
+        "title": "Reporter à plus tard",
+        "talkingPoints": [
+          "Reporter le traitement d'un problème au lieu de le résoudre maintenant.",
+          "Le comité n'a cessé de reporter le problème au lieu de régler la question du budget.",
+          "Décris un problème de ta vie que tu repousses sans cesse à plus tard."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-5",
+        "title": "Battre le fer pendant qu'il est chaud",
+        "talkingPoints": [
+          "Profiter d'une opportunité dès qu'elle se présente.",
+          "Les ventes montaient, alors nous avons battu le fer pendant qu'il était chaud et lancé la nouvelle gamme en avance.",
+          "Parle d'une fois où tu as battu le fer pendant qu'il était chaud et saisi une opportunité rapidement."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-6",
+        "title": "L'enfer est pavé de bonnes intentions",
+        "talkingPoints": [
+          "Les bonnes intentions seules ne suffisent pas ; elles peuvent encore mener à de mauvais résultats si elles ne sont pas bien suivies.",
+          "Il voulait aider en réorganisant les dossiers, mais il a cassé le système — l'enfer est pavé de bonnes intentions.",
+          "Décris une fois où tes bonnes intentions ont mené à un mauvais résultat inattendu."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "history-7",
+        "title": "La force",
+        "talkingPoints": [
+          "La puissance physique, ou la résilience mentale et émotionnelle pour endurer l'épreuve.",
+          "Il a puisé dans sa force intérieure pour traverser la perte de son emploi.",
+          "Partage une fois où tu as découvert en toi une force que tu ne connaissais pas."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "history-8",
+        "title": "Le changement",
+        "talkingPoints": [
+          "L'acte ou le processus de devenir différent.",
+          "Déménager dans une nouvelle ville l'a forcé à accepter le changement.",
+          "Parle d'un changement que tu as d'abord combattu avant de l'accueillir."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-9",
+        "title": "La concentration",
+        "talkingPoints": [
+          "Le centre de l'attention ou l'effort concentré sur une tâche unique.",
+          "Elle a eu du mal à garder sa concentration pendant la longue séance d'étude.",
+          "Décris une fois où tu as dû te battre pour rester concentré."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-10",
+        "title": "La musique",
+        "talkingPoints": [
+          "Des sons vocaux ou instrumentaux combinés pour produire beauté de forme, harmonie et émotion.",
+          "La musique l'a aidé à traverser certaines des nuits les plus dures de cette année-là.",
+          "Partage une chanson qui a un sens profondément personnel pour toi, et pourquoi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "history-11",
+        "title": "Le jardin",
+        "talkingPoints": [
+          "Un terrain utilisé pour cultiver plantes, fleurs ou légumes.",
+          "S'occuper du jardin chaque matin est devenu sa forme de méditation.",
+          "Décris un jardin — ou tout autre espace — où tu vas pour te vider la tête."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-12",
+        "title": "La simplicité",
+        "talkingPoints": [
+          "La qualité d'être facile à comprendre ou sans complication.",
+          "Après des années à courir après plus, il a trouvé une vraie paix dans la simplicité.",
+          "Parle d'une fois où simplifier quelque chose dans ta vie l'a rendu meilleur."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-13",
+        "title": "La curiosité",
+        "talkingPoints": [
+          "Un fort désir de savoir ou d'apprendre.",
+          "Sa curiosité pour le fonctionnement des choses l'a finalement menée à l'ingénierie.",
+          "Partage une question que tu n'as pas pu cesser de creuser, et où elle t'a finalement mené."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-14",
+        "title": "La prise de décision",
+        "talkingPoints": [
+          "Le processus de prise de décision en identifiant les options et en pesant leurs issues.",
+          "La rapidité de décision sous pression a fait la différence entre les deux candidats lors de l'entretien.",
+          "Parle d'une décision difficile que tu as dû prendre avec une information incomplète."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-15",
+        "title": "Les standards",
+        "talkingPoints": [
+          "Des niveaux de qualité ou de réussite considérés comme acceptables ou souhaitables.",
+          "Le chef a refusé de baisser ses standards même quand le restaurant perdait de l'argent.",
+          "Parle d'un standard que tu t'imposes et que la plupart des gens autour de toi ne s'imposent pas."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "history-16",
+        "title": "L'autonomie",
+        "talkingPoints": [
+          "Le droit ou l'état d'autogouvernance ; l'indépendance.",
+          "Se voir confier l'entière autonomie du projet a d'abord été terrifiant, puis libérateur.",
+          "Décris une fois où l'on t'a donné une réelle autonomie et ce que tu en as fait."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-17",
+        "title": "La réputation",
+        "talkingPoints": [
+          "Les croyances ou opinions généralement portées sur quelqu'un ou quelque chose.",
+          "Il a fallu des années pour bâtir sa réputation de fiabilité, et un seul retard pour l'ébranler.",
+          "Parle de la façon dont ta réputation, au travail ou ailleurs, s'est construite et de ce qu'elle coûte à entretenir."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-18",
+        "title": "L'humilité",
+        "talkingPoints": [
+          "Une vision modeste de sa propre importance.",
+          "Malgré le prix, son humilité l'a mené à consacrer son discours à remercier tout le monde sauf lui-même.",
+          "Décris un moment qui t'a appris l'humilité, surtout après un succès."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "history-19",
+        "title": "Le déterminisme",
+        "talkingPoints": [
+          "L'idée que tous les événements, y compris les choix humains, sont ultimement causés par des événements antérieurs et n'auraient pu se produire autrement.",
+          "Si le déterminisme est vrai, certains l'argumentent, alors la vraie responsabilité morale devient difficile à justifier.",
+          "Soutiens ou conteste l'idée que tes choix sont réellement libres ou simplement le produit de tes gènes et de ton environnement."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-20",
+        "title": "L'objectivité",
+        "talkingPoints": [
+          "La qualité de reposer sur des faits observables plutôt que sur des sentiments personnels ou des biais.",
+          "Les journalistes s'efforcent d'objectivité même quand ils couvrent des événements chargés d'émotion.",
+          "Discute de la question de savoir si une véritable objectivité est possible, ou si chaque point de vue porte un biais."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "history-21",
+        "title": "L'illusion",
+        "talkingPoints": [
+          "Une idée ou croyance fausse, ou quelque chose qui paraît différent de ce qu'il est réellement.",
+          "Le tour du magicien reposait sur une simple illusion d'optique.",
+          "Partage une illusion que tu avais sur toi-même ou sur le monde, et ce qui l'a brisée."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-22",
+        "title": "La dignité",
+        "talkingPoints": [
+          "L'état d'être digne de respect, quelles que soient les circonstances.",
+          "Même dans la pauvreté, la famille exigeait d'être traitée avec dignité.",
+          "Parle d'une fois où tu as vu quelqu'un maintenir sa dignité dans une situation difficile ou humiliante."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "history-23",
+        "title": "La durabilité",
+        "talkingPoints": [
+          "La capacité de maintenir un processus ou un système sur le long terme sans épuiser les ressources dont il dépend.",
+          "La ferme est passée à la rotation des cultures pour améliorer la durabilité de son sol.",
+          "Parle d'une habitude de ta vie — rythme de travail ou dépenses — que tu suspectes de n'être pas vraiment durable à long terme."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "history-24",
+        "title": "La mobilité sociale",
+        "talkingPoints": [
+          "La capacité des individus ou des familles à passer d'un niveau social ou économique à un autre au fil du temps.",
+          "Les économistes étudient l'accès à l'éducation comme l'un des meilleurs prédicteurs de la mobilité sociale.",
+          "Parle d'un facteur qui a aidé ou entravé la mobilité sociale dans l'histoire de ta propre famille."
+        ],
+        "depth": "moderate"
+      }
+    ],
+    "tech": [
+      {
+        "id": "tech-1",
+        "title": "Retour à la case départ",
+        "talkingPoints": [
+          "Repartir du tout début, généralement après une tentative ratée.",
+          "L'accord a capoté, nous voilà revenus à la case départ pour trouver des investisseurs.",
+          "Décris un projet ou un plan qui t'a ramené à la case départ."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-2",
+        "title": "S'attaquer à plus fort que soi",
+        "talkingPoints": [
+          "Entreprendre plus de responsabilités ou de travail qu'on ne peut en gérer.",
+          "En me portant volontaire pour trois comités à la fois, je me suis vraiment mis le couteau entre les dents plus fort que je pouvais.",
+          "Parle d'une fois où tu t'es attaqué à plus fort que toi et de comment tu t'en es sorti."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-3",
+        "title": "Bâcler le travail",
+        "talkingPoints": [
+          "Faire quelque chose de la manière la plus simple ou la moins chère, souvent au détriment de la qualité.",
+          "L'entrepreneur a bâclé les matériaux, et le toit a fui dans l'année.",
+          "Partage une fois où tu as bâclé une tâche et si cela t'est revenu en pleine figure."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-4",
+        "title": "Laisser quelqu'un en plan",
+        "talkingPoints": [
+          "Abandonner quelqu'un dans une situation difficile sans aide ni préavis.",
+          "Mon associé m'a laissé en plan juste avant notre plus grande réunion client.",
+          "Parle d'une fois où quelqu'un t'a laissé en plan — ou où tu as dû en faire de même."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-5",
+        "title": "Dormir sur ses lauriers",
+        "talkingPoints": [
+          "Se montrer si satisfait de ses succès passés qu'on cesse d'essayer d'en obtenir davantage.",
+          "Après le prix, il s'est endormi sur ses lauriers et a cessé de progresser dans son art.",
+          "Décris une fois où tu t'es reposé sur tes lauriers après un succès, et ce qui s'est passé ensuite."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-6",
+        "title": "Laisser tomber ce qui doit tomber",
+        "talkingPoints": [
+          "Laisser les événements se produire naturellement sans chercher à contrôler l'issue.",
+          "J'ai tout donné pour la présentation ; maintenant je laisse tomber ce qui doit tomber.",
+          "Parle d'une fois où tu as décidé de laisser faire plutôt que de tout contrôler."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-7",
+        "title": "La sagesse",
+        "talkingPoints": [
+          "La qualité d'avoir de l'expérience, du savoir et du bon jugement.",
+          "La sagesse de sa grand-mère l'a aidée à prendre la bonne décision.",
+          "Parle d'une sagesse qu'on t'a transmise et à laquelle tu continues de penser."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-8",
+        "title": "La croissance",
+        "talkingPoints": [
+          "Le processus de développement ou de maturation physique, mentale ou émotionnelle.",
+          "Chaque échec faisait partie de sa croissance personnelle, a-t-elle compris plus tard.",
+          "Partage une expérience difficile qui a mené à une vraie croissance pour toi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-9",
+        "title": "L'action",
+        "talkingPoints": [
+          "Le processus de faire quelque chose pour atteindre un objectif.",
+          "Les paroles ne coûtaient rien ; c'est son action qui les a enfin convaincus.",
+          "Parle d'une fois où tu as choisi de passer à l'action plutôt que d'en parler."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-10",
+        "title": "La couleur",
+        "talkingPoints": [
+          "La propriété d'un objet qui produit différentes sensations lumineuses sur l'œil.",
+          "La couleur du ciel ce soir-là, elle ne l'oublierait jamais.",
+          "Décris une couleur qui porte pour toi un souvenir ou une émotion forte."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-11",
+        "title": "L'histoire",
+        "talkingPoints": [
+          "Un récit d'événements imaginaires ou réels raconté pour divertir ou informer.",
+          "L'histoire de guerre de son grand-père était celle qu'elle ne se lassait jamais d'entendre.",
+          "Partage une histoire qui se raconte encore et encore dans ta famille."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-12",
+        "title": "La curiosité",
+        "talkingPoints": [
+          "Un fort désir de savoir ou d'apprendre.",
+          "Sa curiosité pour le fonctionnement des choses l'a finalement menée à l'ingénierie.",
+          "Partage une question que tu n'as pas pu cesser de creuser, et où elle t'a finalement mené."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-13",
+        "title": "L'ambition",
+        "talkingPoints": [
+          "Un fort désir d'accomplir quelque chose, exigeant généralement détermination et travail acharné.",
+          "Son ambition d'ouvrir son propre restaurant l'a maintenu en doubles shifts pendant des années.",
+          "Décris une ambition que tu poursuis en ce moment et ce que tu es prêt à sacrifier pour elle."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-14",
+        "title": "La prise de risque",
+        "talkingPoints": [
+          "Le fait de s'engager dans des actions impliquant danger ou incertitude au service d'un objectif.",
+          "Sa propension à la prise de risque l'a menée à quitter un emploi stable et à créer sa propre entreprise.",
+          "Partage un risque que tu as pris qui n'a pas payé tout de suite mais qui t'a appris quelque chose de précieux."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-15",
+        "title": "Les valeurs",
+        "talkingPoints": [
+          "Des principes ou standards de comportement qu'une personne juge importants dans la vie.",
+          "Leurs valeurs communes, plus que leurs centres d'intérêt, ont fait durer l'amitié.",
+          "Décris une valeur que tu défends et qui t'a réellement coûté quelque chose pour vivre selon elle."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-16",
+        "title": "La dépendance",
+        "talkingPoints": [
+          "L'état de dépendre de quelqu'un ou de quelque chose d'autre pour son soutien.",
+          "Sa dépendance à l'approbation constante de son patron rendait chaque évaluation angoissante.",
+          "Parle d'une dépendance — à une personne, une habitude ou une chose — que tu as dû travailler à desserrer."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-17",
+        "title": "La perception",
+        "talkingPoints": [
+          "La manière dont quelque chose est considéré, compris ou interprété.",
+          "La perception publique de l'entreprise a basculé du jour au lendemain après que la vidéo d'excuses est devenue virale.",
+          "Décris une fois où ta perception d'une personne ou d'une situation s'est révélée complètement fausse."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-18",
+        "title": "L'arrogance",
+        "talkingPoints": [
+          "Un sentiment exagéré de sa propre importance ou de ses capacités.",
+          "Son arrogance dans la négociation a failli faire perdre le marché à l'entreprise.",
+          "Parle d'une fois où l'arrogance — la tienne ou celle de quelqu'un d'autre — a nui à quelque chose d'important."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-19",
+        "title": "Le libre arbitre",
+        "talkingPoints": [
+          "La capacité de faire des choix qui ne sont pas entièrement déterminés par des causes antérieures.",
+          "Les débats sur le libre arbitre demandent si nous aurions pu choisir autrement en un moment donné.",
+          "Décris une décision que tu as prise et soutiens si tu aurais vraiment pu choisir autrement — ou si cela était inévitable vu qui tu es."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-20",
+        "title": "L'ambiguïté",
+        "talkingPoints": [
+          "La qualité d'avoir plus d'un sens ou d'une interprétation possibles, créant de l'incertitude.",
+          "L'ambiguïté du contrat a mené les deux parties à interpréter la clause différemment.",
+          "Dis à quel point tu es à l'aise de vivre avec l'ambiguïté quand une situation n'a pas de réponse claire."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-21",
+        "title": "La certitude",
+        "talkingPoints": [
+          "L'état d'être entièrement convaincu que quelque chose est vrai.",
+          "Elle parlait avec tant de certitude que personne dans la pièce n'osait la contredire.",
+          "Discute de la question de savoir si la certitude est une vertu ou un piège pour tes propres croyances."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-22",
+        "title": "Les droits",
+        "talkingPoints": [
+          "Des droits ou libertés garantis moralement ou légalement à une personne.",
+          "Les manifestants ont défilé pour exiger l'égalité des droits devant la loi.",
+          "Discute du droit que tu défendrais le plus ardemment s'il était menacé, et pourquoi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-23",
+        "title": "La rareté",
+        "talkingPoints": [
+          "Une pénurie ou un approvisionnement insuffisant de quelque chose de nécessaire ou de désiré.",
+          "La rareté de l'eau a forcé la région à rationner son approvisionnement pendant la sécheresse.",
+          "Décris comment un état d'esprit de rareté ou d'abondance a façonné une décision majeure que tu as prise."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-24",
+        "title": "Le travail invisible",
+        "talkingPoints": [
+          "Un travail essentiel mais non reconnu, non rémunéré ou passé inaperçu, souvent de nature domestique ou émotionnelle.",
+          "Le travail invisible de gestion du planning de la maison reposait presque entièrement sur un seul parent.",
+          "Décris une forme de travail invisible que toi ou un proche accomplissez et qui est rarement reconnue."
+        ],
+        "depth": "deep"
+      }
+    ],
+    "finance": [
+      {
+        "id": "finance-1",
+        "title": "La balle est dans ton camp",
+        "talkingPoints": [
+          "C'est désormais à toi de passer à l'action ou de prendre une décision.",
+          "Je t'ai donné toutes les informations, la balle est donc dans ton camp.",
+          "Parle d'un moment où la balle était dans ton camp et de comment tu as répondu."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-2",
+        "title": "Rater le coche",
+        "talkingPoints": [
+          "Perdre une opportunité en agissant trop lentement.",
+          "Quand j'ai postulé, les postes étaient déjà pourvus — j'ai raté le coche.",
+          "Décris une opportunité que tu as sentie passer à côté."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-3",
+        "title": "Quand on parle du loup",
+        "talkingPoints": [
+          "Se dit quand la personne dont on vient de parler apparaît soudainement.",
+          "Quand on parle du loup, on en voit la queue — on venait justement de parler de toi !",
+          "Décris une coïncidence amusante où quelqu'un est apparu juste au moment où tu parlais de lui."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-4",
+        "title": "Ne pas réveiller le chat qui dort",
+        "talkingPoints": [
+          "Éviter d'interférer avec une situation qui pourrait créer des ennuis si on la remuait.",
+          "L'affaire était réglée depuis des années, mieux valait ne pas réveiller le chat qui dort.",
+          "Décris un conflit passé sur lequel tu as décidé de ne pas revenir plutôt que de le rouvrir."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-5",
+        "title": "Un feu de paille",
+        "talkingPoints": [
+          "Quelque chose d'impressionnant brièvement mais qui ne dure pas et ne mène pas à un succès durable.",
+          "Le premier tube du groupe fut un feu de paille ; ils n'ont jamais sorti une autre chanson populaire.",
+          "Parle d'un succès de ta vie qui s'est révélé être un feu de paille."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-6",
+        "title": "Une maille à temps en économise neuf",
+        "talkingPoints": [
+          "Traiter un petit problème tout de suite peut l'empêcher de devenir bien plus grand plus tard.",
+          "Réparer la petite fuite maintenant, c'est une maille à temps qui en économisera neuf plus tard.",
+          "Partage une fois où une maille à temps t'a évité un problème plus grand — ou une fois où tu l'aurais souhaité."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-7",
+        "title": "L'honnêteté",
+        "talkingPoints": [
+          "La qualité d'être véridique et sincère.",
+          "Son honnêteté sur l'erreur lui a valu le respect de son patron.",
+          "Décris une fois où être honnête était difficile mais finalement le bon choix."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-8",
+        "title": "L'apprentissage",
+        "talkingPoints": [
+          "L'acquisition de connaissances ou de compétences par l'étude ou l'expérience.",
+          "Apprendre une nouvelle langue à l'âge adulte l'a remis à sa place.",
+          "Décris quelque chose de difficile que tu as appris récemment et comment tu l'as appris."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-9",
+        "title": "La pratique",
+        "talkingPoints": [
+          "Un exercice répété dans une activité pour améliorer ou entretenir une compétence.",
+          "Des années de pratique quotidienne ont enfin payé au récital.",
+          "Décris quelque chose en quoi tu t'es amélioré uniquement parce que tu as continué de t'exercer."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-10",
+        "title": "La lumière",
+        "talkingPoints": [
+          "L'agent naturel qui rend les choses visibles ; aussi un symbole d'espoir ou de guidage.",
+          "La première lumière du matin lui donnait toujours un étrange sentiment d'espoir.",
+          "Parle d'un moment où quelqu'un ou quelque chose fut une « lumière » dans une période sombre."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-11",
+        "title": "La chanson",
+        "talkingPoints": [
+          "Un court morceau de musique avec paroles, destiné à être chanté.",
+          "Cette seule chanson pouvait la ramener instantanément dans sa chambre de cité universitaire.",
+          "Parle d'une chanson qui change ton humeur dès les premières secondes."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-12",
+        "title": "La passion",
+        "talkingPoints": [
+          "Une émotion ou un enthousiasme fort et à peine contrôlable pour quelque chose.",
+          "Sa passion pour la cuisine a fini par devenir un petit restaurant à lui.",
+          "Parle d'une passion qui est la tienne et de comment elle a commencé."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-13",
+        "title": "La détermination",
+        "talkingPoints": [
+          "La fermeté du propos ; la résolution.",
+          "Sa détermination seule l'a portée jusqu'à la ligne d'arrivée après qu'elle s'est tordu la cheville.",
+          "Parle d'une fois où ta détermination a survécu à ta motivation."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-14",
+        "title": "La vision",
+        "talkingPoints": [
+          "Une idée ou une image de ce que le futur pourrait ou devrait être.",
+          "La vision du fondateur pour l'entreprise a maintenu l'équipe concentrée même pendant les années les plus dures.",
+          "Décris la vision que tu as de ton propre avenir dans cinq ans."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-15",
+        "title": "Les principes",
+        "talkingPoints": [
+          "Des vérités ou propositions fondamentales servant de fondement au comportement.",
+          "Il a bâti toute l'entreprise sur le principe que le client passe avant le profit.",
+          "Parle d'un principe sur lequel tu as refusé de plier, même sous pression."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-16",
+        "title": "Le sacrifice",
+        "talkingPoints": [
+          "Le fait de renoncer à quelque chose de précieux au profit de quelque chose jugé plus important.",
+          "Le sacrifice des parents d'une vie confortable à l'étranger lui a donné une chance d'une meilleure éducation.",
+          "Décris un sacrifice que quelqu'un a fait pour toi — ou que tu as fait pour quelqu'un."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-17",
+        "title": "Le récit",
+        "talkingPoints": [
+          "Un récit oral ou écrit d'événements liés ; une manière particulière de présenter une situation.",
+          "Changer le récit autour du lancement raté a aidé l'équipe à le voir comme une leçon, pas comme un désastre.",
+          "Parle du récit que tu te racontes sur un chapitre difficile de ta vie."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-18",
+        "title": "L'envie",
+        "talkingPoints": [
+          "Un sentiment de désir insatisfait des avantages ou des possessions d'autrui.",
+          "L'envie s'insinuait à chaque défilement des photos de vacances d'une amie.",
+          "Décris un moment d'envie qui t'a appris quelque chose sur ce que tu veux vraiment."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-19",
+        "title": "Le dualisme",
+        "talkingPoints": [
+          "La conception selon laquelle la réalité se compose de deux sortes de substances fondamentalement différentes, le plus souvent l'esprit et le corps.",
+          "Le dualisme de Descartes séparait l'esprit pensant du corps physique.",
+          "Explique si tu penses que ton esprit est quelque chose de séparé de ton cerveau — ou simplement ce que ton cerveau fait."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-20",
+        "title": "La nuance",
+        "talkingPoints": [
+          "Une distinction subtile, ou une nuance de sens, d'attitude ou de sentiment.",
+          "Son essai capturait la nuance du débat au lieu de le réduire à deux camps simples.",
+          "Parle d'un sujet où la plupart des gens, selon toi, manquent la nuance et simplifient en deux positions extrêmes."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-21",
+        "title": "Le doute",
+        "talkingPoints": [
+          "Un sentiment d'incertitude quant à la vérité ou à la fiabilité de quelque chose.",
+          "Le doute s'est glissé la veille de l'examen, même après des mois de préparation.",
+          "Parle d'un moment de réel doute et de comment tu l'as traversé — ou pas."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-22",
+        "title": "L'obligation",
+        "talkingPoints": [
+          "Un devoir ou un engagement de faire quelque chose, souvent pour une raison morale ou légale.",
+          "Il ressentait une forte obligation de rendre la gentillesse que son mentor lui avait montrée.",
+          "Décris une obligation que tu portes et pour laquelle personne ne te blâmerait de renoncer — et explique pourquoi tu ne le fais pas."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-23",
+        "title": "L'abondance",
+        "talkingPoints": [
+          "Une très grande quantité de quelque chose, plus qu'il n'en faut pour subvenir à un besoin.",
+          "La récolte de cette année-là apporta une abondance de légumes que la famille ne pouvait consommer assez vite.",
+          "Discute d'un domaine de ta vie où tu ressens une vraie abondance, et de la différence avec ceux où tu ressens de la rareté."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-24",
+        "title": "Le privilège",
+        "talkingPoints": [
+          "Un avantage ou bénéfice non mérité accordé à certaines personnes en raison de leur position sociale, de leur identité ou de leurs circonstances.",
+          "Grandir avec un logement stable fut une forme de privilège qu'il n'avait pas reconnue avant de voir d'autres se débattre sans cela.",
+          "Réfléchis à un privilège dont tu as bénéficié sans l'avoir choisi, et à la façon dont cette conscience a — ou n'a pas — changé tes actes."
+        ],
+        "depth": "casual"
+      }
+    ],
+    "roast": [
+      {
+        "id": "roast-1",
+        "title": "S'arrêter là pour aujourd'hui",
+        "talkingPoints": [
+          "Décider de cesser de travailler sur quelque chose, généralement pour le reste de la journée.",
+          "Nous avons bien progressé, alors arrêtons-nous là et finissons demain.",
+          "Décris une fois où tu as dû arrêter là malgré le travail non fini."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-2",
+        "title": "Suivre la tendance",
+        "talkingPoints": [
+          "Rejoindre les autres dans une chose devenue populaire ou à la mode.",
+          "Une fois le régime devenu tendance, tout le monde au bureau s'y est mis.",
+          "Partage une tendance à laquelle tu t'es rallié — et si tu le regrettes."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-3",
+        "title": "Fermer les yeux",
+        "talkingPoints": [
+          "Ignorer délibérément quelque chose que l'on sait mauvais.",
+          "Le manager fermait les yeux sur les retards quotidiens des employés.",
+          "Parle d'une fois où tu as fermé les yeux sur quelque chose — ou où quelqu'un l'a fait à ta place."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-4",
+        "title": "À cheval donné on ne regarde pas la bride",
+        "talkingPoints": [
+          "Critiquer ou remettre en question quelque chose qu'on t'a donné gratuitement.",
+          "La voiture a quelques rayures, mais elle était gratuite : à cheval donné on ne regarde pas la bride.",
+          "Partage une fois où tu as failli regarder la bride du cheval donné au lieu d'être simplement reconnaissant."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-5",
+        "title": "Dorer la pilule",
+        "talkingPoints": [
+          "Ajouter une décoration ou un embellissement inutile à quelque chose qui est déjà bien suffisant.",
+          "Le dessert était parfait tel quel, ajouter trois sauces revenait à dorer la pilule.",
+          "Décris une fois où tu as enjolivé outre mesure quelque chose qui était déjà bien."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-6",
+        "title": "C'est en mangeant qu'on reconnaît le cuisinier",
+        "talkingPoints": [
+          "La vraie valeur ou qualité de quelque chose ne peut être jugée qu'en la mettant en pratique ou en l'essayant.",
+          "La nouvelle stratégie sonne bien sur le papier, mais c'est en mangeant qu'on reconnaît le cuisinier.",
+          "Décris un plan ou une idée dont la preuve n'a été faite qu'en l'essayant."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-7",
+        "title": "Le respect",
+        "talkingPoints": [
+          "De l'admiration pour quelqu'un en raison de ses capacités, qualités ou réalisations.",
+          "Le jeune coach a vite gagné le respect de ses joueurs.",
+          "Parle de quelqu'un que tu respectes profondément et explique pourquoi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-8",
+        "title": "L'enseignement",
+        "talkingPoints": [
+          "L'acte d'aider quelqu'un à acquérir des connaissances ou une compétence.",
+          "Apprendre à son petit frère à lire fut l'un de ses moments de plus grande fierté.",
+          "Parle d'une fois où tu as enseigné quelque chose à quelqu'un et de ce que tu en as appris."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-9",
+        "title": "Le sourire",
+        "talkingPoints": [
+          "Une expression du visage plaisée, aimable ou amusée, formée en recourbant la bouche vers le haut.",
+          "Le sourire d'un inconnu en journée difficile l'a rendue un peu plus légère.",
+          "Parle d'un sourire qui t'est resté, d'un inconnu ou d'un proche."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-10",
+        "title": "L'ombre",
+        "talkingPoints": [
+          "Une zone sombre créée quand un objet bloque la lumière ; aussi quelque chose qui persiste invisible.",
+          "L'ombre de la désapprobation de son père l'a suivi jusqu'à l'âge adulte.",
+          "Décris quelque chose de ton passé qui projette encore son ombre sur toi aujourd'hui."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-11",
+        "title": "La lettre",
+        "talkingPoints": [
+          "Un message écrit ou imprimé adressé à une personne ou une organisation.",
+          "La vieille lettre de sa grand-mère était devenue douce d'avoir été tant lue.",
+          "Décris une lettre, écrite ou reçue, qui a compté pour toi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-12",
+        "title": "La chaleur",
+        "talkingPoints": [
+          "La qualité d'être chaud en température, ou amical et affectueux dans les manières.",
+          "La chaleur de sa voix mettait même les inconnus à l'aise instantanément.",
+          "Décris quelqu'un dont la chaleur t'a laissé une impression durable."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-13",
+        "title": "L'assurance",
+        "talkingPoints": [
+          "Le sentiment d'assurance né de la reconnaissance de ses propres capacités.",
+          "Des années de pratique lui ont donné l'assurance de monter sur scène sans notes.",
+          "Décris un moment où tu as dû faire semblant d'avoir confiance avant de la ressentir vraiment."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-14",
+        "title": "La mission",
+        "talkingPoints": [
+          "Une mission ou un but important auquel une personne ou un groupe se consacre.",
+          "La mission de l'association — loger chaque famille du département — a guidé chaque décision.",
+          "Parle d'une mission personnelle qui guide la façon dont tu passes ton temps."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-15",
+        "title": "L'éthique",
+        "talkingPoints": [
+          "Des principes moraux qui régissent le comportement d'une personne ou la conduite d'une activité.",
+          "Le conseil a débattu de l'éthique de l'usage des données clients sans consentement explicite.",
+          "Décris une situation où tu as dû réfléchir sérieusement à l'éthique d'une décision."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-16",
+        "title": "La loyauté",
+        "talkingPoints": [
+          "Un fort sentiment de soutien ou d'allégeance.",
+          "Sa loyauté envers la petite équipe l'a retenue de prendre une offre mieux payée ailleurs.",
+          "Parle d'une fois où ta loyauté envers quelqu'un ou quelque chose a été vraiment mise à l'épreuve."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-17",
+        "title": "Le stéréotype",
+        "talkingPoints": [
+          "Une image ou idée largement répandue mais simplifiée à l'excès d'un type particulier de personne ou de chose.",
+          "Travailler à ses côtés a brisé chaque stéréotype qu'il portait inconsciemment sur son métier.",
+          "Décris un stéréotype auquel tu as cru et l'expérience qui t'a fait changer d'avis."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-18",
+        "title": "La jalousie",
+        "talkingPoints": [
+          "Un sentiment de ressentiment envers quelqu'un en raison de son succès, de son avantage ou de ses relations.",
+          "La jalousie de la promotion de son frère a mis leur relation à mal pendant des mois.",
+          "Parle d'une fois où la jalousie s'est invitée dans une relation et de comment tu l'as gérée."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-19",
+        "title": "Le relativisme moral",
+        "talkingPoints": [
+          "La conception selon laquelle les jugements moraux ne sont vrais ou faux que relativement à une culture ou un individu donné, et non universellement.",
+          "Le relativisme moral dirait qu'une pratique peut être juste dans une culture et mauvaise dans une autre.",
+          "Prends position sur la question de savoir si certaines vérités morales, comme la maltraitance de la cruauté, valent dans toutes les cultures indépendamment des croyances locales."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-20",
+        "title": "Le contexte",
+        "talkingPoints": [
+          "Les circonstances ou le contexte qui donnent du sens à un événement, une déclaration ou une idée.",
+          "Sans contexte, la citation paraissait bien plus dure que l'orateur ne l'avait voulu.",
+          "Décris une fois où l'absence de contexte t'a fait mal juger une personne ou une situation."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-21",
+        "title": "La croyance",
+        "talkingPoints": [
+          "L'acceptation que quelque chose est vrai, même sans preuve complète.",
+          "Sa croyance dans le projet a maintenu l'équipe en vie malgré des mois de revers.",
+          "Parle d'une croyance que tu portes depuis longtemps et explique quelle preuve, s'il en faut, te ferait changer d'avis."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-22",
+        "title": "Le devoir",
+        "talkingPoints": [
+          "Une responsabilité morale ou légale d'agir d'une certaine manière.",
+          "Elle voyait le soin de ses parents vieillissants comme un devoir, pas comme un fardeau.",
+          "Parle d'un devoir de ta vie qui entre parfois en conflit avec tes désirs personnels, et de comment tu gères cette tension."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-23",
+        "title": "L'arbitrage",
+        "talkingPoints": [
+          "Un arbitrage entre deux issues désirables mais conflictuelles, où obtenir l'une signifie renoncer à une part de l'autre.",
+          "Choisir un appartement plus petit plus près du travail fut un arbitrage qu'elle accepta pour raccourcir son trajet.",
+          "Décris un arbitrage majeur que tu as fait dans ta vie et explique si, avec le recul, tu choisirais de la même façon."
+        ],
+        "depth": "deep"
+      }
+    ],
+    "pitch": [
+      {
+        "id": "pitch-1",
+        "title": "Ne pas juger un livre à sa couverture",
+        "talkingPoints": [
+          "On ne doit juger ni les gens ni les choses sur les seules apparences.",
+          "Il semblait antipathique au début, mais il ne faut pas juger un livre à sa couverture — il est en réalité très gentil.",
+          "Partage une fois où tu as appris à ne pas juger un livre à sa couverture après avoir mal jugé quelqu'un."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-2",
+        "title": "Faire marcher quelqu'un",
+        "talkingPoints": [
+          "Plaisanter avec quelqu'un en lui disant quelque chose d'inexact de manière ludique.",
+          "Détends-toi, je te fais marcher — la réunion n'est pas annulée.",
+          "Décris une fois où un ami ou un membre de ta famille te faisait marcher et où tu ne l'as pas compris tout de suite."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-3",
+        "title": "Démarrer à pleine vitesse",
+        "talkingPoints": [
+          "Commencer une nouvelle activité ou un nouvel emploi avec énergie et enthousiasme dès le début.",
+          "Elle a démarré à pleine vitesse dès son premier jour, concluant deux contrats avant midi.",
+          "Décris une fois où tu as démarré à pleine vitesse dans un nouvel emploi, une école ou un projet."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-4",
+        "title": "Déplacer les poteaux",
+        "talkingPoints": [
+          "Changer injustement les règles ou les exigences d'une situation en cours de route.",
+          "D'abord ils voulaient cinq ans d'expérience, puis ils ont déplacé les poteaux à dix.",
+          "Décris une fois où quelqu'un a déplacé les poteaux après que tu avais déjà répondu aux attentes initiales."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-5",
+        "title": "Entre le marteau et l'enclume",
+        "talkingPoints": [
+          "Forcé de choisir entre deux options également désagréables ou dangereuses.",
+          "Rester dans un mauvais emploi ou démissionner sans épargne la laissait entre le marteau et l'enclume.",
+          "Partage une fois où tu t'es senti coincé entre le marteau et l'enclume."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-6",
+        "title": "Franchir le Rubicon",
+        "talkingPoints": [
+          "Franchir un pas décisif et irréversible qui t'engage dans une voie d'action.",
+          "Signer la lettre de démission signifiait qu'elle avait franchi le Rubicon ; plus de retour en arrière.",
+          "Parle d'une décision que tu as prise et qui ressemblait à franchir le Rubicon, sans retour possible."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-7",
+        "title": "La liberté",
+        "talkingPoints": [
+          "Le pouvoir ou le droit d'agir, de parler ou de penser sans contrainte.",
+          "Voyager seule lui a donné un sentiment de liberté qu'elle n'avait jamais connu.",
+          "Décris un moment où tu t'es senti vraiment libre."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-8",
+        "title": "Aider",
+        "talkingPoints": [
+          "L'acte d'assister ou de soutenir quelqu'un.",
+          "Aider son voisin à déménager des meubles s'est mué en une amitié durable.",
+          "Décris une fois où aider quelqu'un d'autre t'a aussi aidé."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-9",
+        "title": "Le rire",
+        "talkingPoints": [
+          "L'action de rire, souvent en réponse à quelque chose de drôle.",
+          "Leur rire résonnait dans la maison bien après la fin de la blague.",
+          "Partage un souvenir qui te fait encore rire chaque fois que tu y penses."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-10",
+        "title": "La pluie",
+        "talkingPoints": [
+          "De l'eau tombant en gouttes depuis les nuages.",
+          "Ils ont dansé sous la pluie comme si personne ne regardait.",
+          "Partage un souvenir lié à la pluie, bon ou mauvais."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-11",
+        "title": "Le matin",
+        "talkingPoints": [
+          "La partie précoce de la journée, du lever du soleil jusqu'à midi.",
+          "Sa routine du matin était la seule chose qu'elle ne laissait jamais quiconque interrompre.",
+          "Parle de ton matin idéal et de ce qu'il représente pour toi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-12",
+        "title": "La clarté",
+        "talkingPoints": [
+          "La qualité d'être clair, facile à comprendre ou exempt de confusion.",
+          "Il lui a fallu une longue marche en solitaire avant de trouver la clarté dont elle avait besoin.",
+          "Partage un moment où tu as soudain gagné en clarté sur une décision difficile."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-13",
+        "title": "La lucidité sur soi",
+        "talkingPoints": [
+          "Une connaissance consciente de son propre caractère, de ses sentiments, motifs et désirs.",
+          "Une conversation difficile avec un mentor lui a donné la lucidité de voir ses angles morts.",
+          "Partage quelque chose sur toi que tu n'as compris qu'après que quelqu'un te l'a signalé."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-14",
+        "title": "La mission de vie",
+        "talkingPoints": [
+          "Un sentiment de sens ou de raison d'exister ou d'agir.",
+          "Le bénévolat au refuge lui a donné un sens qu'elle n'avait plus ressenti depuis des années.",
+          "Décris un moment où tu as ressenti un fort sentiment de mission dans ce que tu faisais."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-15",
+        "title": "La moralité",
+        "talkingPoints": [
+          "Des principes concernant la distinction entre comportements bons et mauvais.",
+          "Le film soulevait des questions inconfortables sur la moralité des décisions de guerre.",
+          "Parle d'un moment où ton sens moral a été mis à l'épreuve par une situation réelle, et non hypothétique."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-16",
+        "title": "La trahison",
+        "talkingPoints": [
+          "L'acte d'être déloyal ou de briser la confiance de quelqu'un.",
+          "La trahison de son plus proche associé lui a pris des années à surmonter.",
+          "Décris une trahison, grande ou petite, et ce qu'elle t'a appris sur la confiance."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-17",
+        "title": "L'attente",
+        "talkingPoints": [
+          "Une forte conviction que quelque chose va se produire ou que quelqu'un devrait agir d'une certaine manière.",
+          "Sa propre attente de perfection la rongeait plus que n'importe quel critique.",
+          "Parle d'une attente que tu t'étais fixée et que tu as fini par devoir lâcher."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-18",
+        "title": "Le pardon",
+        "talkingPoints": [
+          "L'action de cesser d'éprouver du ressentiment envers quelqu'un pour une offense.",
+          "Le pardon est venu lentement, des années après la dispute qui avait divisé la famille.",
+          "Décris un moment de pardon — donné ou reçu — qui a changé une relation."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-19",
+        "title": "Le contrat social",
+        "talkingPoints": [
+          "L'accord implicite entre les membres d'une société de coopérer pour un bénéfice mutuel, souvent en acceptant certaines règles et autorités.",
+          "Les philosophes décrivent le paiement des impôts comme une partie du contrat social que les citoyens acceptent en échange de protection et de services.",
+          "Discute de ce que, selon toi, les citoyens doivent à leur État — et de ce qu'un État doit faire pour tenir sa part du contrat social."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-20",
+        "title": "L'agentivité",
+        "talkingPoints": [
+          "La capacité d'un individu à agir de façon indépendante et à faire ses propres choix.",
+          "Le programme a été conçu pour donner aux jeunes plus d'agentivité sur leur propre éducation.",
+          "Réfléchis à un domaine de ta vie où tu sens une vraie agentivité — et à un autre où tu te sens contraint."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-21",
+        "title": "Le sens",
+        "talkingPoints": [
+          "La signification, le but ou la valeur que quelque chose représente pour une personne.",
+          "Elle a trouvé un nouveau sens à son travail après avoir été bénévole au refuge.",
+          "Explique où tu trouves actuellement le plus de sens dans ta vie — et si cela a changé au fil du temps."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-22",
+        "title": "La vertu",
+        "talkingPoints": [
+          "Un trait de caractère positif jugé moralement bon, comme l'honnêteté ou le courage.",
+          "La patience fut la vertu qu'il a eu le plus de mal à développer.",
+          "Identifie la vertu que tu admires le plus chez les autres mais qui t'est la plus difficile à pratiquer — et explique pourquoi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-23",
+        "title": "Le coût d'opportunité",
+        "talkingPoints": [
+          "La valeur de la meilleure alternative suivante à laquelle on renonce en faisant un choix.",
+          "Le coût d'opportunité d'aller en études supérieures était le salaire qu'il aurait pu gagner à plein temps.",
+          "Parle d'une décision où le coût d'opportunité a été plus difficile à accepter que la décision elle-même."
+        ],
+        "depth": "casual"
+      }
+    ],
+    "conspiracy": [
+      {
+        "id": "conspiracy-1",
+        "title": "À quelque chose malheur est bon",
+        "talkingPoints": [
+          "Même les situations difficiles ou désagréables ont un aspect positif.",
+          "Perdre ce travail fut dur, mais à quelque chose malheur est bon — cela m'a mené à une meilleure carrière.",
+          "Décris une période difficile de ta vie où à quelque chose malheur fut bon."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-2",
+        "title": "Prendre avec des pincettes",
+        "talkingPoints": [
+          "Ne pas croire entièrement quelque chose et le prendre avec un peu de scepticisme.",
+          "Il exagère beaucoup, alors prends ses histoires avec des pincettes.",
+          "Parle d'un conseil ou d'une nouvelle que tu as dû prendre avec des pincettes."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-3",
+        "title": "Jeter l'éponge",
+        "talkingPoints": [
+          "Abandonner ou admettre la défaite.",
+          "Après trois tentatives ratées, il a fini par jeter l'éponge et demander de l'aide.",
+          "Partage un moment où tu as failli jeter l'éponge mais as continué — ou où tu as vraiment abandonné."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-4",
+        "title": "S'enfermer tout seul",
+        "talkingPoints": [
+          "Se mettre dans une situation difficile sans issue facile, généralement par ses propres choix.",
+          "En promettant au client une échéance impossible, il s'est enfermé tout seul.",
+          "Parle d'une fois où tu t'es enfermé tout seul et de comment tu as trouvé une sortie."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-5",
+        "title": "Jeter le bébé avec l'eau du bain",
+        "talkingPoints": [
+          "Se débarrasser de quelque chose de précieux en tentant d'éliminer quelque chose d'indésirable.",
+          "Annuler tout le programme à cause d'un seul défaut, c'est jeter le bébé avec l'eau du bain.",
+          "Décris une fois où tu as failli jeter le bébé avec l'eau du bain en réagissant de façon excessive à un problème."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-6",
+        "title": "Le talon d'Achille",
+        "talkingPoints": [
+          "Le point faible ou la vulnérabilité d'une personne, malgré sa force générale.",
+          "Son orgueil était son talon d'Achille, le menant souvent à ignorer les bons conseils.",
+          "Décris ton propre talon d'Achille et comment il t'a affecté."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-7",
+        "title": "La justice",
+        "talkingPoints": [
+          "Un traitement et un comportement équitables selon ce qui est moralement juste.",
+          "La communauté s'est mobilisée pour exiger justice pour la victime.",
+          "Partage ton avis sur une fois où tu as vu justice rendre — ou déniée."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-8",
+        "title": "Le don",
+        "talkingPoints": [
+          "L'acte de fournir ou de donner quelque chose aux autres.",
+          "Donner son vieux vélo au gamin du quartier lui a fait plus de bien que de le garder.",
+          "Partage une fois où donner quelque chose t'a plus appris que de le garder."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-9",
+        "title": "L'émerveillement",
+        "talkingPoints": [
+          "Un sentiment d'émerveillement ou de curiosité provoqué par quelque chose de beau ou d'inconnu.",
+          "L'enfant fixait les étoiles dans un émerveillement complet.",
+          "Décris la dernière fois où quelque chose t'a rempli d'un véritable émerveillement."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-10",
+        "title": "Le soleil",
+        "talkingPoints": [
+          "L'étoile au centre du système solaire qui fournit lumière et chaleur à la Terre.",
+          "Le premier soleil du printemps a fait sortir tout le quartier.",
+          "Parle de la façon dont le soleil — ou son absence — affecte ton humeur."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-11",
+        "title": "Le soir",
+        "talkingPoints": [
+          "La période de temps à la fin de la journée, avant la nuit.",
+          "Leurs meilleures conversations avaient toujours lieu sur le porche en soirée.",
+          "Décris une soirée qui s'est révélée plus significative que prévu."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-12",
+        "title": "L'énergie",
+        "talkingPoints": [
+          "La force ou la vitalité requise pour une activité physique ou mentale soutenue.",
+          "Son énergie dans la pièce pouvait remonter l'humeur de tout le monde en quelques secondes.",
+          "Parle de ce qui te redonne généralement de l'énergie quand tu te sens vidé."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-13",
+        "title": "La pleine conscience",
+        "talkingPoints": [
+          "La qualité d'être pleinement présent et engagé dans l'instant présent.",
+          "Une pratique quotidienne de pleine conscience l'a aidée à rester calme sous les échéances constantes.",
+          "Parle d'un moment où ralentir et prêter attention a changé ta façon de gérer quelque chose."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-14",
+        "title": "L'héritage",
+        "talkingPoints": [
+          "L'impact durable ou ce qu'une personne ou une génération transmet.",
+          "L'héritage de générosité de son grand-père a façonné la façon dont il traitait chaque employé.",
+          "Parle de l'héritage que tu aimerais laisser — et pourquoi il compte pour toi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-15",
+        "title": "La philosophie",
+        "talkingPoints": [
+          "Une théorie ou une attitude qui guide le comportement ; aussi l'étude des questions fondamentales sur l'existence.",
+          "Sa philosophie personnelle d'arriver en avance est devenue la colonne vertébrale de sa carrière.",
+          "Décris une philosophie personnelle à laquelle tu vis et comment tu y es arrivé."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-16",
+        "title": "La rédemption",
+        "talkingPoints": [
+          "L'acte de racheter une erreur ou une faute passée.",
+          "Sa rédemption est venue des années plus tard, quand la communauté qu'il avait déçue l'a accueilli de nouveau.",
+          "Parle d'un moment de rédemption dans ta vie, où tu as racheté quelque chose que tu regrettais."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-17",
+        "title": "La pression",
+        "talkingPoints": [
+          "L'usage de la persuasion ou de l'intimidation pour faire agir quelqu'un ; un sentiment de stress.",
+          "La pression de se produire devant des investisseurs a failli lui faire oublier son propre pitch.",
+          "Décris un moment de forte pression et comment tu as réussi à rester stable."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-18",
+        "title": "L'existentialisme",
+        "talkingPoints": [
+          "Une approche philosophique qui met l'accent sur l'existence individuelle, la liberté et le choix.",
+          "L'existentialisme soutient que nous créons le sens par nos propres choix, et non par un but préétabli.",
+          "Explique, avec tes mots, si tu penses que la vie a un sens inhérent — ou si nous le créons nous-mêmes."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-19",
+        "title": "La dissonance cognitive",
+        "talkingPoints": [
+          "L'inconfort mental ressenti quand on porte deux croyances contradictoires ou quand les actes contredisent les croyances.",
+          "Il a ressenti une dissonance cognitive après avoir prêché l'honnêteté en racontant un petit mensonge pour éviter un conflit.",
+          "Décris une fois où tu as vécu une dissonance cognitive entre ce que tu croyais et ce que tu faisais — et comment tu l'as résolue."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-20",
+        "title": "L'autonomie",
+        "talkingPoints": [
+          "Le droit ou la capacité de se gouverner soi-même et de prendre des décisions indépendantes.",
+          "Les adolescents réclament souvent plus d'autonomie en cherchant à faire leurs propres choix.",
+          "Discute de la façon dont tu équilibres ta propre autonomie avec tes responsabilités envers ceux qui dépendent de toi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-21",
+        "title": "L'interprétation",
+        "talkingPoints": [
+          "L'acte d'expliquer ou de comprendre la signification de quelque chose d'une manière particulière.",
+          "Différents critiques ont proposé des interprétations radicalement divergentes de la fin du film.",
+          "Partage une œuvre, un texte ou un événement dont tu contestes fortement l'interprétation, et défends ta propre lecture."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-22",
+        "title": "Le caractère",
+        "talkingPoints": [
+          "L'ensemble des qualités qui forment la nature morale et mentale d'un individu.",
+          "Perdre le championnat a révélé plus du caractère de l'équipe qu'aucune victoire n'aurait pu le faire.",
+          "Décris un moment qui a mis ton caractère à l'épreuve et explique ce qu'il a révélé de qui tu es vraiment."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-23",
+        "title": "L'action collective",
+        "talkingPoints": [
+          "Un effort coordonné d'un groupe de personnes travaillant ensemble vers un objectif commun.",
+          "Il a fallu l'action collective d'un quartier entier pour rendre le carrefour plus sûr.",
+          "Décris une fois où tu as vu l'action collective réussir là où l'effort individuel seul aurait échoué."
+        ],
+        "depth": "moderate"
+      }
+    ],
+    "worst-take": [
+      {
+        "id": "worst-take-1",
+        "title": "Se pieuter",
+        "talkingPoints": [
+          "Aller au lit ou s'endormir.",
+          "Je suis épuisé, alors je vais me pieuter tôt ce soir.",
+          "Parle de ta routine habituelle avant de te pieuter chaque soir."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-2",
+        "title": "Dégénérer",
+        "talkingPoints": [
+          "Devenir difficile à contrôler.",
+          "La fête a dégénéré quand davantage de gens sont arrivés sans invitation.",
+          "Décris une situation qui a dégénéré et comment tu l'as remise sous contrôle."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-3",
+        "title": "Se tromper complètement de cible",
+        "talkingPoints": [
+          "Poursuivre une voie erronée fondée sur une mauvaise hypothèse.",
+          "Si tu penses que j'ai mangé ton déjeuner, tu te trompes complètement de cible.",
+          "Décris une fois où tu cherchais du mauvais côté en essayant de résoudre un problème."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-4",
+        "title": "Refiler la patate chaude",
+        "talkingPoints": [
+          "Rejeter le blâme ou la responsabilité sur quelqu'un d'autre.",
+          "Au lieu de corriger l'erreur, il a refilé le bébé au stagiaire.",
+          "Décris une fois où quelqu'un t'a refilé la patate chaude — ou où tu l'as refilée à quelqu'un."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-5",
+        "title": "Couper le vêtement selon l'étoffe",
+        "talkingPoints": [
+          "Vivre ou gérer selon les limites de ce qu'on possède réellement, surtout financièrement.",
+          "Après avoir perdu son emploi, il a appris à couper le vêtement selon l'étoffe et à réduire les dépenses inutiles.",
+          "Parle d'une fois où tu as dû couper le vêtement selon l'étoffe et vivre selon tes moyens."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-6",
+        "title": "Le choix de Tartuffe",
+        "talkingPoints": [
+          "Une situation où tu sembles avoir le choix mais où tu n'as en réalité qu'une seule vraie option.",
+          "Avec tous les autres magasins fermés, acheter dans la dernière boutique était un choix de Tartuffe.",
+          "Partage une fois où tu as fait face à un choix de Tartuffe : des options en théorie, une seule en réalité."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-7",
+        "title": "La vérité",
+        "talkingPoints": [
+          "Ce qui est factuellement correct ou conforme à la réalité.",
+          "Il lui a enfin dit la vérité après des mois à la cacher.",
+          "Parle d'une fois où dire la vérité t'a coûté quelque chose — mais en valait la peine."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-8",
+        "title": "Le partage",
+        "talkingPoints": [
+          "L'acte de diviser quelque chose et d'en donner une part aux autres.",
+          "Partager un repas avec des inconnus pendant le voyage est devenu le moment fort de son périple.",
+          "Parle d'une fois où le partage de quelque chose, grand ou petit, a rapproché les gens."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-9",
+        "title": "Le silence",
+        "talkingPoints": [
+          "L'absence totale de son ; un état de calme ou d'immobilité.",
+          "Le silence après l'orage paraissait presque plus fort que l'orage lui-même.",
+          "Parle d'une fois où le silence a dit plus que les mots n'auraient pu le faire."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-10",
+        "title": "Le vent",
+        "talkingPoints": [
+          "Le mouvement perceptible de l'air dans la nature.",
+          "Un fort vent a renversé la tente lors de leur premier camping.",
+          "Décris un moment où être dehors dans le vent t'a fait sentir particulièrement vivant."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-11",
+        "title": "Le week-end",
+        "talkingPoints": [
+          "La période du vendredi soir ou du samedi au dimanche, en particulier comme temps de repos.",
+          "Il a passé tous ses week-ends cet été-là à apprendre à cuisiner.",
+          "Partage comment tu passes généralement tes week-ends — et si cela a changé au fil des ans."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-12",
+        "title": "La voix",
+        "talkingPoints": [
+          "Le son produit par la bouche d'une personne, ou son droit d'exprimer des opinions.",
+          "Apprendre à se servir de sa voix en réunion a pris des années de pratique.",
+          "Décris une fois où tu as trouvé le courage de prendre la parole quand cela comptait."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-13",
+        "title": "La réflexion",
+        "talkingPoints": [
+          "Une pensée ou une considération sérieuse, souvent sur des expériences passées.",
+          "Un week-end de réflexion tranquille l'a aidé à décider qu'il était temps de changer de carrière.",
+          "Décris ce que prendre du recul et réfléchir sur une grande décision t'a appris."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-14",
+        "title": "L'impact",
+        "talkingPoints": [
+          "Un effet ou une influence marquante.",
+          "L'impact de la professeure sur ses élèves a duré bien après leur départ de sa classe.",
+          "Décris le moment où tu as réalisé l'impact que tu avais eu sur la vie de quelqu'un."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-15",
+        "title": "La psychologie",
+        "talkingPoints": [
+          "L'étude scientifique de l'esprit humain et de ses fonctions, en particulier le comportement.",
+          "Comprendre la psychologie de base l'a aidée à désamorcer les disputes avant qu'elles n'enveniment.",
+          "Parle de quelque chose que tu as appris sur ta propre psychologie par l'expérience plutôt que par un livre."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-16",
+        "title": "La réinvention",
+        "talkingPoints": [
+          "Le processus de changer quelque chose — surtout soi-même — en une nouvelle forme ou un nouveau rôle.",
+          "Sa réinvention de comptable à céramiste a commencé par un seul cours de poterie pris sur un coup de tête.",
+          "Décris une réinvention de toi-même que tu as traversée — et ce qui t'a poussé à commencer."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-17",
+        "title": "Le burn-out",
+        "talkingPoints": [
+          "Un état d'épuisement physique ou émotionnel causé par un stress prolongé.",
+          "Le burn-out s'est installé en elle doucement, jusqu'à ce qu'elle ne puisse plus traverser une seule réunion sans le redouter.",
+          "Parle d'une fois où tu as reconnu le burn-out chez toi et de ce que tu en as fait."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-18",
+        "title": "La responsabilisation",
+        "talkingPoints": [
+          "L'obligation d'assumer la responsabilité de ses actes et de leurs conséquences.",
+          "La manager s'est tenue responsable de l'échec du projet au lieu d'accuser son équipe.",
+          "Décris un moment où te tenir responsable a été plus dur que de trouver une excuse — et ce que tu en as appris."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-19",
+        "title": "La transcendance",
+        "talkingPoints": [
+          "L'état de s'élever au-delà ou de dépasser les limites ordinaires physiques ou terrestres.",
+          "Elle a décrit le concert comme un moment de transcendance qui l'a soustraite aux soucis du quotidien.",
+          "Partage une expérience qui a été pour toi une transcendance, et essaie d'expliquer ce qui l'a rendue telle."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-20",
+        "title": "L'aliénation",
+        "talkingPoints": [
+          "Un sentiment d'isolement ou d'étrangeté vis-à-vis des autres, de la société ou de son propre travail.",
+          "Les ouvriers à la chaîne décrivaient parfois une profonde aliénation vis-à-vis des produits qu'ils fabriquaient.",
+          "Partage une fois où tu as ressenti de l'aliénation — au travail, à l'école ou dans une relation — et ce qui t'a finalement aidé à te reconnecter."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-21",
+        "title": "La représentation",
+        "talkingPoints": [
+          "La représentation ou le portrait de quelqu'un ou de quelque chose d'une manière particulière, surtout dans les médias ou la politique.",
+          "La série a été saluée pour sa représentation authentique des familles immigrées.",
+          "Discute de pourquoi la représentation — dans les médias, la politique ou le travail — compte personnellement pour toi."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-22",
+        "title": "L'intégrité",
+        "talkingPoints": [
+          "La qualité d'être honnête et de porter des principes moraux forts et constants.",
+          "Elle a gardé son intégrité en refusant de falsifier le rapport, même sous la pression de son chef.",
+          "Partage une fois où garder ton intégrité t'a coûté quelque chose de réel — et si tu referais le même choix."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-23",
+        "title": "L'incitation",
+        "talkingPoints": [
+          "Quelque chose qui motive ou encourage une personne à agir d'une manière particulière.",
+          "L'entreprise a offert une prime comme incitation à atteindre l'objectif commercial en avance.",
+          "Discute d'une incitation dans ta propre vie — financière ou autre — que tu suspectes d'orienter discrètement tes décisions dans la mauvaise direction."
+        ],
+        "depth": "deep"
+      }
+    ],
+    "hot-takes": [
+      {
+        "id": "hot-takes-1",
+        "title": "Un jeu d'enfant",
+        "talkingPoints": [
+          "Quelque chose de très facile à faire.",
+          "L'examen fut un jeu d'enfant après toutes ces révisions.",
+          "Décris une tâche qui s'est révélée un jeu d'enfant, même si tu la pensais difficile."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-2",
+        "title": "Jeter de l'huile sur le feu",
+        "talkingPoints": [
+          "Aggraver une mauvaise situation, une dispute ou une émotion.",
+          "Rappeler les vieilles erreurs n'a fait qu'ajouter de l'huile sur le feu pendant notre dispute.",
+          "Partage un moment où tes mots ou tes actes ont jeté de l'huile sur le feu dans un conflit."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-3",
+        "title": "Une arme à double tranchant",
+        "talkingPoints": [
+          "Quelque chose qui a à la fois des conséquences positives et négatives.",
+          "Les réseaux sociaux sont une arme à double tranchant — ils nous connectent mais peuvent aussi nous isoler.",
+          "Parle de quelque chose dans ta vie qui a été une arme à double tranchant."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-4",
+        "title": "Mettre les pieds dans le plat",
+        "talkingPoints": [
+          "Dire quelque chose d'embarrassant ou de maladroit sans le vouloir.",
+          "J'ai vraiment mis les pieds dans le plat en demandant si elle était enceinte — elle ne l'était pas.",
+          "Partage un moment embarrassant où tu as mis les pieds dans le plat devant les autres."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-5",
+        "title": "Retourner le hochet",
+        "talkingPoints": [
+          "Perdre du temps et des efforts sur quelque chose qui n'a aucune chance de réussir.",
+          "Essayer de le convaincre encore, c'est retourner le hochet — il a déjà décidé.",
+          "Décris une situation où tu as continué à retourner le hochet au lieu de passer à autre chose."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-6",
+        "title": "Ne pas mettre la charrue avant les bœufs",
+        "talkingPoints": [
+          "Ne pas faire les choses dans le mauvais ordre, en traitant une étape ultérieure avant une étape préalable nécessaire.",
+          "Il a commencé à concevoir l'appli avant de définir le problème qu'elle résoudrait — il mettait la charrue avant les bœufs.",
+          "Décris une fois où tu as mis la charrue avant les bœufs et où tu as dû revenir en arrière."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-7",
+        "title": "La beauté",
+        "talkingPoints": [
+          "La qualité d'être agréable aux sens ou à l'esprit.",
+          "Il y avait une beauté tranquille dans la façon dont la brume s'installait sur les collines.",
+          "Décris une chose ordinaire que tu trouves étonnamment belle."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-8",
+        "title": "L'écoute",
+        "talkingPoints": [
+          "L'acte de prêter attention et d'essayer de comprendre ce que quelqu'un dit.",
+          "Parfois, écouter tranquillement a fait plus pour son amie que n'importe quel conseil.",
+          "Décris une fois où écouter simplement a compté plus que parler."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-9",
+        "title": "La nature",
+        "talkingPoints": [
+          "Le monde physique et tout ce qu'il contient qui n'est pas fait par les humains.",
+          "Un week-end dans la nature l'a aidé à se réinitialiser après un mois stressant.",
+          "Décris un lieu dans la nature qui t'apaise toujours."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-10",
+        "title": "L'océan",
+        "talkingPoints": [
+          "Un vaste plan d'eau salée couvrant la majeure partie de la surface de la Terre.",
+          "Se tenir au bord de l'océan rendait tous ses problèmes minuscules.",
+          "Parle de la façon d'être près de l'océan — ou de l'eau en général — qui t'affecte."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-11",
+        "title": "Les vacances",
+        "talkingPoints": [
+          "Une période prolongée de loisirs ou de voyage loin du travail ou de la routine quotidienne.",
+          "Leurs vacances à la montagne se sont révélées plus mémorables que n'importe quel séjour à la plage.",
+          "Parle de vacances qui ne se sont pas passées comme prévu mais qui ont été géniales quand même."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-12",
+        "title": "La résilience",
+        "talkingPoints": [
+          "La capacité de se remettre rapidement des difficultés ; la ténacité.",
+          "Sa résilience l'a aidée à rebondir après la perte de son emploi.",
+          "Décris un revers dont tu es remis et ce qu'il t'a appris sur ta propre résilience."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-13",
+        "title": "La transformation",
+        "talkingPoints": [
+          "Un changement complet ou spectaculaire de forme, d'apparence ou de caractère.",
+          "La transformation du quartier, de terrains vides à marché florissant, a pris une décennie.",
+          "Parle d'une transformation personnelle que tu as traversée — et de ce qui l'a déclenchée."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-14",
+        "title": "L'influence",
+        "talkingPoints": [
+          "La capacité d'avoir un effet sur le caractère ou les actions de quelqu'un ou de quelque chose.",
+          "L'influence de son premier mentor façonne encore sa façon de diriger les réunions aujourd'hui.",
+          "Parle d'une personne dont l'influence a changé la direction de ta vie."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-15",
+        "title": "La culture",
+        "talkingPoints": [
+          "Les coutumes, les arts et les comportements sociaux d'un groupe ou d'une société particulière.",
+          "La culture de feedback ouvert de la start-up donnait même aux jeunes employés le sentiment d'être entendus.",
+          "Décris un aspect d'une culture — professionnelle ou autre — qui a façonné qui tu es."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-16",
+        "title": "L'élan",
+        "talkingPoints": [
+          "L'élan gagné par un processus ou un cours d'événements, qui le pousse en avant.",
+          "Une première victoire a donné à la campagne l'élan nécessaire pour garder les bénévoles motivés.",
+          "Parle d'un projet où l'élan s'est accumulé jusqu'à sembler irrésistible — ou s'est éteint avant de démarrer."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-17",
+        "title": "La convalescence",
+        "talkingPoints": [
+          "Le processus de retour à un état normal de santé, d'esprit ou de force.",
+          "Sa convalescence après la blessure a pris deux fois plus de temps que prévu par les médecins.",
+          "Décris une convalescence — physique ou autre — qui t'a appris quelque chose sur la patience."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-18",
+        "title": "La polarisation",
+        "talkingPoints": [
+          "Le processus par lequel les opinions ou les groupes se scindent en deux extrêmes nettement opposés.",
+          "La polarisation politique rend plus difficile le compromis des partis opposés sur les politiques de base.",
+          "Discute de la question de savoir si la polarisation croissante dans ta communauté ou ton pays peut encore s'inverser — et de ce qu'il faudrait."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-19",
+        "title": "La conscience",
+        "talkingPoints": [
+          "L'état d'être conscient de sa propre existence, de ses pensées et de son environnement, et capable d'y réfléchir.",
+          "Les scientifiques débattent encore de la façon dont les processus physiques du cerveau donnent naissance à la conscience.",
+          "Explique pourquoi, selon toi, la conscience est si difficile à expliquer scientifiquement, même si nous la vivons directement à chaque instant."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-20",
+        "title": "L'émancipation",
+        "talkingPoints": [
+          "L'acte de libérer quelqu'un de restrictions légales, sociales ou politiques.",
+          "L'émancipation des personnes réduites en esclavage n'a pas apporté immédiatement l'égalité complète.",
+          "Discute d'une forme d'émancipation — personnelle ou politique — qui, selon toi, reste à accomplir aujourd'hui."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-21",
+        "title": "Le symbole",
+        "talkingPoints": [
+          "Un objet, une image ou un mot qui représente autre chose, souvent une idée ou une qualité.",
+          "La colombe est devenue un symbole de paix après la guerre.",
+          "Décris un objet de ta propre vie devenu un symbole personnel de quelque chose d'important pour toi."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-22",
+        "title": "Le progrès",
+        "talkingPoints": [
+          "Un mouvement en avant vers un état meilleur ou plus développé.",
+          "L'équipe mesurait le progrès non pas à la vitesse mais à la qualité de ce qu'elle construisait.",
+          "Discute d'un domaine de ta vie où tu doutes que le changement récent compte réellement comme progrès."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-23",
+        "title": "La rationalité",
+        "talkingPoints": [
+          "La qualité de reposer sur la raison claire et la logique plutôt que sur l'émotion.",
+          "Les économistes supposent souvent un niveau de rationalité qui ne correspond pas au comportement réel des gens.",
+          "Partage une décision où tu croyais être pleinement rationnel, mais où tu as ensuite réalisé que l'émotion jouait un rôle plus grand que prévu."
+        ],
+        "depth": "casual"
+      }
+    ],
+    "millennial": [
+      {
+        "id": "millennial-1",
+        "title": "Prendre son courage à deux mains",
+        "talkingPoints": [
+          "Se forcer à faire quelque chose de difficile ou de désagréable que l'on évitait.",
+          "Je déteste aller chez le dentiste, mais j'ai fini par prendre mon courage à deux mains et prendre rendez-vous.",
+          "Partage une fois où tu as dû prendre ton courage à deux mains et affronter quelque chose que tu repoussais."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-2",
+        "title": "Veiller tard",
+        "talkingPoints": [
+          "Travailler tard dans la nuit sur quelque chose.",
+          "Elle a veillé tard une semaine entière pour finir sa thèse à temps.",
+          "Décris une fois où tu as dû veiller tard pour tenir une échéance."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-3",
+        "title": "Brûler la chandelle par les deux bouts",
+        "talkingPoints": [
+          "Travailler ou rester occupé du petit matin jusqu'à tard le soir, s'épuisant ainsi.",
+          "Entre deux emplois et les cours du soir, elle brûlait la chandelle par les deux bouts.",
+          "Décris une période où tu brûlais la chandelle par les deux bouts — et comment cela t'a affecté."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-4",
+        "title": "Plomber l'ambiance",
+        "talkingPoints": [
+          "Gâcher les projets ou la bonne humeur de quelqu'un.",
+          "Je déteste plomber l'ambiance, mais la salle est déjà réservée pour cette date.",
+          "Décris une fois où quelqu'un a plombé ton moral — ou où tu as dû le faire à quelqu'un d'autre."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-5",
+        "title": "Défier tout ce qu'on enseigne",
+        "talkingPoints": [
+          "Contredire clairement quelque chose ou aller à son encontre, comme le bon sens ou les règles admises.",
+          "Sa décision de démissionner sans plan de secours défiait tout ce qu'on lui avait enseigné.",
+          "Partage une décision que tu as prise en contradiction avec les conseils des autres."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-6",
+        "title": "Jeter la prudence aux vents",
+        "talkingPoints": [
+          "Agir hardiment sans se soucier du risque ni des conséquences.",
+          "Elle a jeté le froid au vent et démissionné de son emploi stable pour voyager dans le monde.",
+          "Parle d'une fois où tu as jeté la prudence aux vents et pris un grand risque."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-7",
+        "title": "La santé",
+        "talkingPoints": [
+          "L'état d'être exempt de maladie et bien portant physiquement ou mentalement.",
+          "Il a changé son alimentation après son alerte santé l'an dernier.",
+          "Parle d'un changement que tu as fait et qui a amélioré ta santé — physique ou mentale."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-8",
+        "title": "La compréhension",
+        "talkingPoints": [
+          "Une conscience ou une compréhension compatissante de la situation ou des sentiments d'autrui.",
+          "Il a fallu une vraie compréhension pour qu'il voie le point de vue de sa sœur.",
+          "Parle d'un moment où tu as enfin compris quelqu'un après avoir vu les choses à sa manière."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-9",
+        "title": "Le temps",
+        "talkingPoints": [
+          "La progression continue de l'existence mesurée en moments, heures et années.",
+          "Elle a compris trop tard à quel point elle avait peu de temps passé avec son grand-père.",
+          "Parle de la façon dont ta relation au temps a changé en vieillissant."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-10",
+        "title": "La montagne",
+        "talkingPoints": [
+          "Une grande élévation naturelle de la surface terrestre s'élevant brusquement depuis le niveau environnant.",
+          "Atteindre le sommet de la montagne donnait l'impression de conquérir plus que le sentier.",
+          "Décris une « montagne », littérale ou figurée, dont tu es fier d'avoir gravi le sommet."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-11",
+        "title": "La célébration",
+        "talkingPoints": [
+          "Un rassemblement ou une activité sociale organisés pour marquer une occasion spéciale.",
+          "Toute la rue s'est jointe à la fête quand l'équipe locale a gagné.",
+          "Décris une célébration qui a été particulièrement signifiante pour toi."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-12",
+        "title": "La persévérance",
+        "talkingPoints": [
+          "Une persévérance constante dans une voie d'action malgré la difficulté ou le retard dans l'atteinte du succès.",
+          "Sa persévérance à travers des années de refus a fini par payer quand son roman a été publié.",
+          "Parle d'un objectif que tu as failli abandonner — et du moment où tu as décidé de continuer."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-13",
+        "title": "L'évolution",
+        "talkingPoints": [
+          "Le développement graduel de quelque chose d'un état simple vers un état plus complexe.",
+          "L'évolution de sa carrière, de stagiaire à directrice, s'est faite une petite prise de risque à la fois.",
+          "Décris comment ta réflexion sur un sujet important a évolué au fil des ans."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-14",
+        "title": "La connexion",
+        "talkingPoints": [
+          "Une relation dans laquelle les gens sont liés ou associés les uns aux autres.",
+          "Une seule conversation honnête sur un long vol est devenue un lien pour la vie.",
+          "Décris une connexion inattendue établie avec quelqu'un qui est devenue quelque chose de significatif."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-15",
+        "title": "La tradition",
+        "talkingPoints": [
+          "Une coutume ou une croyance de longue date transmise au sein d'un groupe.",
+          "La tradition du dîner dominical dans sa famille commençait toujours par quelqu'un racontant une histoire.",
+          "Parle d'une tradition que tu maintiens en vie — et d'une que tu as choisi d'abandonner."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-16",
+        "title": "La stagnation",
+        "talkingPoints": [
+          "Un état de croissance ou de développement faible ou nul.",
+          "L'entreprise a glissé dans la stagnation une fois qu'elle a cessé d'investir dans de nouvelles idées.",
+          "Décris une période de stagnation dans ta vie — et ce qui t'en a finalement sorti."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-17",
+        "title": "Le renouveau",
+        "talkingPoints": [
+          "L'action de reprendre ou de rétablir quelque chose après une interruption ; un nouveau départ.",
+          "Une semaine entièrement hors ligne lui a donné le renouveau dont elle manquait depuis des mois.",
+          "Parle d'un moment de renouveau dans ta vie, où tu as senti que tu repartais de zéro."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-18",
+        "title": "La réconciliation",
+        "talkingPoints": [
+          "Le rétablissement d'une relation amicale après un conflit ou un désaccord.",
+          "Les deux nations ont œuvré à la réconciliation des décennies après la fin de la guerre.",
+          "Parle d'une relation de ta vie qui a eu besoin de réconciliation — et de ce qui a rendu le pardon possible ou impossible."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-19",
+        "title": "L'idéologie",
+        "talkingPoints": [
+          "Un ensemble structuré de croyances et de valeurs qui façonne la manière dont une personne ou un groupe interprète le monde et forme des buts politiques.",
+          "L'idéologie du parti a façonné chaque politique proposée, de la fiscalité à l'éducation.",
+          "Réfléchis à la part de ta vision du monde que tu as choisie délibérément versus absorbée de l'idéologie qui t'entourait en grandissant."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-20",
+        "title": "L'oppression",
+        "talkingPoints": [
+          "L'exercice injuste ou cruel du pouvoir sur un groupe de personnes.",
+          "Le roman dépeint la longue lutte d'une communauté contre l'oppression politique.",
+          "Parle d'une forme d'oppression dont tu as été témoin ou que tu as étudiée — et de ce que, selon toi, les gens ordinaires peuvent faire."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-21",
+        "title": "Le mythe",
+        "talkingPoints": [
+          "Un récit traditionnel, expliquant souvent un phénomène naturel ou social, qu'une culture tient pour porteur d'une vérité plus profonde même s'il n'est pas littéralement factuel.",
+          "Le mythe du milliardaire autodidacte ignore le rôle de la chance et du privilège.",
+          "Choisis un mythe largement cru dans ta culture ou ton industrie et explique pourquoi, selon toi, il persiste malgré les preuves contraires."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-22",
+        "title": "La régression",
+        "talkingPoints": [
+          "Un retour à un état antérieur, généralement moins avancé ou moins développé.",
+          "Après la blessure, sa convalescence a connu une régression qui a frustré toute l'équipe médicale.",
+          "Décris une fois où tu as vécu une régression après un vrai progrès — et comment tu as réagi au revers."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-23",
+        "title": "L'irrationalité",
+        "talkingPoints": [
+          "Un comportement ou une pensée qui ne repose pas sur la logique ou le raisonnement clair.",
+          "L'achat panique pendant la pénurie fut un cas évident d'irrationalité collective.",
+          "Décris une peur ou une habitude irrationnelle que tu as — et explique pourquoi la logique seule n'a pas suffi à la changer."
+        ],
+        "depth": "moderate"
+      }
+    ],
+    "gen-z": [
+      {
+        "id": "gen-z-1",
+        "title": "La partie émergée de l'iceberg",
+        "talkingPoints": [
+          "La petite partie visible d'un problème ou d'une situation bien plus grand.",
+          "Les erreurs trouvées dans le rapport n'étaient que la partie émergée de l'iceberg.",
+          "Décris un problème de ta vie qui s'est révélé n'être que la partie émergée de l'iceberg."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-2",
+        "title": "Coincé entre l'arbre et l'écorce",
+        "talkingPoints": [
+          "Confronté à deux choix difficiles, dont aucun n'est bon.",
+          "Il était coincé entre l'arbre et l'écorce : décevoir son patron ou manquer le récital de sa fille.",
+          "Parle d'une fois où tu t'es senti coincé entre l'arbre et l'écorce."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-3",
+        "title": "La fin est dans les cartons",
+        "talkingPoints": [
+          "Il y a des signes clairs que quelque chose de mauvais ou un échec va se produire.",
+          "Quand les ventes continuaient de chuter chaque mois, la fin était déjà dans les cartons pour le magasin.",
+          "Partage une fois où tu as vu les signes avant qu'une chose ne se termine ou ne change."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-4",
+        "title": "Taper sur le système",
+        "talkingPoints": [
+          "Irriter ou agacer quelqu'un, souvent sans le vouloir.",
+          "Ses interruptions constantes me tapent vraiment sur le système.",
+          "Parle d'une habitude ou d'un comportement qui te tape sur le système."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-5",
+        "title": "Les imbéciles perdent vite leur argent",
+        "talkingPoints": [
+          "Un dicton signifiant que les gens qui dépensent sans réflexion perdent vite leur argent.",
+          "Il achetait trois tickets de loterie par jour — les imbéciles perdent vite leur argent.",
+          "Décris un achat regretté qui t'a fait penser au dicton : les imbéciles perdent vite leur argent."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-6",
+        "title": "Le courage",
+        "talkingPoints": [
+          "La capacité de faire quelque chose qui t'effraie ; la force mentale ou morale de faire face à la difficulté.",
+          "Il lui a fallu un vrai courage pour prendre la parole en réunion.",
+          "Parle d'un moment où tu as dû trouver le courage de faire quelque chose qui t'effrayait."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-7",
+        "title": "L'amitié",
+        "talkingPoints": [
+          "Une relation étroite d'affection et de confiance mutuelles entre personnes.",
+          "Leur amitié a survécu à vingt ans et trois pays différents.",
+          "Décris une amitié qui a façonné qui tu es aujourd'hui."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-8",
+        "title": "Le pardon",
+        "talkingPoints": [
+          "L'acte de pardonner à quelqu'un une erreur ou une faute.",
+          "Le pardon n'est pas venu facilement, mais il l'a libérée de années de colère.",
+          "Partage une fois où tu as pardonné — ou été pardonné — et ce que cela a changé."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-9",
+        "title": "La mémoire",
+        "talkingPoints": [
+          "La faculté de conserver et de restituer des expériences passées, ou un souvenir précis.",
+          "L'odeur du pain frais ramène toujours un souvenir de la cuisine de son enfance.",
+          "Partage un souvenir qui reste vivant peu importe le temps qui passe."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-10",
+        "title": "Le voyage",
+        "talkingPoints": [
+          "L'acte de voyager d'un lieu à un autre, ou un long processus de changement.",
+          "Son chemin vers la guérison a pris bien plus de temps que prévu.",
+          "Parle d'un voyage, littéral ou personnel, qui a changé la façon dont tu te vois."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-11",
+        "title": "La tradition",
+        "talkingPoints": [
+          "Une coutume ou une croyance transmise à travers les générations.",
+          "Leur tradition du dîner du dimanche n'a jamais rompu une seule fois, même les années difficiles.",
+          "Parle d'une tradition familiale ou culturelle que tu espères continuer de transmettre."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-12",
+        "title": "L'adaptabilité",
+        "talkingPoints": [
+          "La qualité de pouvoir s'ajuster à de nouvelles conditions.",
+          "L'adaptabilité de l'équipe leur a permis de pivoter de stratégie du jour au lendemain quand le marché a basculé.",
+          "Partage une fois où tes plans se sont effondrés — et décris comment tu t'es adapté sur le moment."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-13",
+        "title": "Le progrès",
+        "talkingPoints": [
+          "Un mouvement en avant vers une destination ou un objectif.",
+          "Le progrès du projet était lent, mais chaque petite victoire gardait l'équipe motivée.",
+          "Partage un objectif où tu as dû mesurer le progrès en petits pas plutôt qu'en grands bonds."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-14",
+        "title": "La communication",
+        "talkingPoints": [
+          "La transmission ou l'échange d'informations ou d'idées.",
+          "Une meilleure communication entre les deux équipes a réduit de moitié les retards du projet.",
+          "Partage une fois où un malentendu t'a appris quelque chose sur ta façon de communiquer."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-15",
+        "title": "La modernité",
+        "talkingPoints": [
+          "La qualité d'être actuel ou contemporain, surtout en contraste avec la tradition.",
+          "La course de la ville vers la modernité a laissé peu de place à la survie de ses vieux marchés.",
+          "Décris un moment où modernité et tradition se sont heurtées dans ta propre vie."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-16",
+        "title": "Le mentorat",
+        "talkingPoints": [
+          "Le guidage et le soutien fournis par une personne plus expérimentée ou plus savante.",
+          "Son mentorat des jeunes ingénieurs est devenu aussi gratifiant que son propre travail de code.",
+          "Parle d'un mentor qui a changé ton chemin — ou d'une fois où tu as encadré quelqu'un."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-17",
+        "title": "La routine",
+        "talkingPoints": [
+          "Une séquence d'actions régulièrement suivie ; un programme fixe.",
+          "Une simple routine du matin fut la seule chose qui l'a gardée ancrée pendant une année chaotique.",
+          "Décris une routine qui a discrètement façonné ta vie, en bien ou en mal."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-18",
+        "title": "Le pragmatisme",
+        "talkingPoints": [
+          "Une approche qui juge les idées et les actions à leurs conséquences pratiques plutôt qu'à une théorie abstraite.",
+          "Son pragmatisme l'a menée à choisir la solution imparfaite qui fonctionnait plutôt que l'idéale qui échouait.",
+          "Plaide pour ou contre l'idée que le pragmatisme devrait toujours l'emporter sur le principe quand les deux entrent en conflit."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-19",
+        "title": "L'hégémonie",
+        "talkingPoints": [
+          "La domination d'un groupe, d'une nation ou d'un ensemble d'idées sur les autres, souvent exercée par l'influence plutôt que par la force.",
+          "Les historiens étudient comment l'hégémonie économique peut façonner la politique mondiale sans qu'un seul coup de feu soit tiré.",
+          "Discute d'un exemple d'hégémonie culturelle ou économique remarqué dans ta propre vie — et de la façon dont elle façonne ce que les gens considèrent comme normal."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-20",
+        "title": "La résistance",
+        "talkingPoints": [
+          "L'acte de s'opposer ou de lutter contre quelque chose, en particulier une autorité ou une force.",
+          "Le journal clandestin est devenu un symbole de résistance pendant l'occupation.",
+          "Décris une fois où tu as résisté à la pression de suivre quelque chose que tu jugeais mauvais."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-21",
+        "title": "Le rituel",
+        "talkingPoints": [
+          "Une séquence d'actions réalisée régulièrement, portant souvent une signification symbolique ou cérémonielle.",
+          "Le rituel du café du matin lui donnait un sentiment de calme avant le début de la journée de travail.",
+          "Décris un rituel personnel qui compte pour toi — et ce qui serait perdu si tu devais y renoncer."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-22",
+        "title": "L'entropie",
+        "talkingPoints": [
+          "Une tendance à l'accroissement du désordre ou au déclin d'un système dans le temps.",
+          "Sans entretien régulier, la vieille machine a lentement cédé à l'entropie.",
+          "Discute d'un domaine de ta vie — une relation ou un projet — où tu as dû lutter activement contre l'entropie pour éviter qu'il ne s'effondre."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-23",
+        "title": "Le biais",
+        "talkingPoints": [
+          "Une tendance à favoriser une perspective, un groupe ou une issue — souvent inconsciemment — au détriment d'une évaluation objective.",
+          "Le comité de recrutement s'est formé à reconnaître son propre biais inconscient avant d'examiner les candidatures.",
+          "Identifie un biais sur lequel tu t'es surpris à agir — et décris ce qui t'a aidé à le remarquer."
+        ],
+        "depth": "deep"
+      }
+    ],
+    "eli5": [
+      {
+        "id": "eli5-1",
+        "title": "Les actes parlent plus fort que les mots",
+        "talkingPoints": [
+          "Ce que les gens font réellement compte plus que ce qu'ils disent qu'ils feront.",
+          "Il promettait sans cesse d'aider, mais les actes parlent plus fort que les mots : il n'est jamais venu.",
+          "Parle d'une personne de ta vie dont les actes ont vraiment parlé plus fort que les mots."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-2",
+        "title": "Ne pas mettre tous ses œufs dans le même panier",
+        "talkingPoints": [
+          "On ne doit pas tout risquer sur un seul plan ou une seule option.",
+          "Elle a postulé à cinq universités parce qu'il ne faut pas mettre tous ses œufs dans le même panier.",
+          "Décris une décision où tu as suivi — ou ignoré — le conseil de ne pas mettre tous tes œufs dans le même panier."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-3",
+        "title": "Dire chaud et froid",
+        "talkingPoints": [
+          "Changer sans cesse d'opinion ou d'attitude sur quelque chose, être incohérent.",
+          "Il n'arrête pas de dire chaud et froid sur la promotion qu'il veut.",
+          "Décris une fois où tu as dit chaud et froid sur une décision avant de t'engager enfin."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-4",
+        "title": "Se tirer une balle dans le pied",
+        "talkingPoints": [
+          "Faire quelque chose qui aggrave involontairement sa propre situation.",
+          "En insultant l'intervieweur, il s'est tiré une balle dans le pied avant même d'avoir le poste.",
+          "Décris une fois où tu t'es tiré une balle dans le pied en empirant ta propre situation."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-5",
+        "title": "Le raisin trop vert",
+        "talkingPoints": [
+          "Faire semblant de ne pas vouloir quelque chose après avoir échoué à l'obtenir, par dépit.",
+          "Il a dit qu'il ne voulait de toute façon pas la promotion, mais tout le monde savait que c'était le raisin trop vert.",
+          "Parle d'une fois où toi — ou quelqu'un que tu connais — avez réagi à une déception comme au raisin trop vert."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-6",
+        "title": "La patience",
+        "talkingPoints": [
+          "La capacité d'accepter ou de tolérer le retard, le trouble ou la souffrance sans s'agacer.",
+          "Il a attendu en file pendant deux heures sans perdre patience.",
+          "Décris une situation qui a mis ta patience à l'épreuve et comment tu l'as traversée."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-7",
+        "title": "La famille",
+        "talkingPoints": [
+          "Un groupe de personnes liées par le sang, le mariage ou des liens étroits.",
+          "La famille s'est réunie de tout le pays pour les retrouvailles.",
+          "Parle d'une tradition de ta famille qui compte beaucoup pour toi."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-8",
+        "title": "La gratitude",
+        "talkingPoints": [
+          "La qualité d'être reconnaissant et appréciatif.",
+          "Tenir un journal de gratitude a changé sa façon de voir le quotidien.",
+          "Parle d'une petite chose pour laquelle tu es reconnaissant et que la plupart des gens négligent."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-9",
+        "title": "L'habitude",
+        "talkingPoints": [
+          "Une pratique ou une routine régulière, en particulier difficile à abandonner.",
+          "Regarder son téléphone dès le réveil est devenu une dure habitude à casser.",
+          "Décris une habitude que tu as essayé de changer — et où ça en est."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-10",
+        "title": "L'aventure",
+        "talkingPoints": [
+          "Une expérience inhabituelle, excitante ou audacieuse.",
+          "Quitter son emploi pour voyager sac à dos fut l'aventure de sa vie.",
+          "Décris une aventure que tu as vécue — ou une que tu veux encore vivre."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-11",
+        "title": "Le cadeau",
+        "talkingPoints": [
+          "Une chose donnée volontairement sans paiement, souvent pour montrer affection ou appréciation.",
+          "Le cadeau fait main lui a compté plus que tout ce que le commerce aurait pu offrir.",
+          "Partage l'histoire d'un cadeau donné ou reçu qui t'est vraiment resté."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-12",
+        "title": "L'intégrité",
+        "talkingPoints": [
+          "La qualité d'être honnête et de porter de forts principes moraux.",
+          "Elle a refusé de truquer les chiffres, choisissant l'intégrité plutôt qu'un raccourci facile.",
+          "Décris un moment où faire la bonne chose t'a coûté quelque chose — et pourquoi tu l'as fait quand même."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-13",
+        "title": "La stagnation",
+        "talkingPoints": [
+          "Un état de croissance ou de développement faible ou nul.",
+          "L'entreprise a glissé dans la stagnation une fois qu'elle a cessé d'investir dans de nouvelles idées.",
+          "Décris une période de stagnation dans ta vie — et ce qui t'en a finalement sorti."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-14",
+        "title": "La collaboration",
+        "talkingPoints": [
+          "L'action de travailler avec quelqu'un pour produire ou créer quelque chose.",
+          "La fresque fut le fruit d'une collaboration entre six artistes différents.",
+          "Parle d'un projet qui n'a fonctionné que grâce à une vraie collaboration, pas à l'effort solo."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-15",
+        "title": "L'histoire",
+        "talkingPoints": [
+          "L'étude des événements passés, ou le récit de ce qui s'est produit au fil du temps.",
+          "Connaître l'histoire du quartier a changé sa façon de voir chaque bâtiment de la rue.",
+          "Parle d'un pan d'histoire — personnel ou partagé — qui a changé ta vision du présent."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-16",
+        "title": "La rivalité",
+        "talkingPoints": [
+          "Un état ou une situation de compétition avec quelqu'un pour le même objectif.",
+          "La rivalité amicale entre les deux frères et sœurs a poussé chacun à s'entraîner plus dur.",
+          "Décris une rivalité — amicale ou non — qui t'a poussé à t'améliorer."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-17",
+        "title": "La spontanéité",
+        "talkingPoints": [
+          "La qualité d'être fait ou survenant sans planification.",
+          "Une spontanéité qui l'effrayait autrefois est devenue ce qu'il aimait le plus dans les voyages.",
+          "Parle d'une décision spontanée devenue l'un de tes souvenirs préférés."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-18",
+        "title": "Le stoïcisme",
+        "talkingPoints": [
+          "Une philosophie antique qui enseigne à garder le calme et l'acceptation rationnelle face à l'épreuve.",
+          "Il a pratiqué le stoïcisme en refusant de laisser le vol retardé gâcher son humeur.",
+          "Réfléchis à la question de savoir si le stoïcisme t'aide à affronter les revers — ou t'empêche parfois de traiter honnêtement tes émotions."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-19",
+        "title": "Le paradoxe",
+        "talkingPoints": [
+          "Une déclaration ou une situation qui semble se contredire tout en pouvant être vraie.",
+          "C'est un paradoxe : plus nous avons de choix, moins nous sommes souvent satisfaits de nos décisions.",
+          "Partage un paradoxe remarqué dans ta vie ou ton domaine — et essaie d'expliquer comment les deux côtés peuvent être vrais à la fois."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-20",
+        "title": "La solidarité",
+        "talkingPoints": [
+          "L'unité et le soutien mutuel entre personnes partageant des intérêts ou des buts communs.",
+          "Les travailleurs de toute la ville ont montré leur solidarité en rejoignant la grève même si ce n'était pas leur usine.",
+          "Partage une expérience où montrer de la solidarité avec la cause de quelqu'un t'a coûté quelque chose — et si cela en valait la peine."
+        ],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-21",
+        "title": "L'identité",
+        "talkingPoints": [
+          "L'ensemble des caractéristiques, croyances et expériences qui définissent qui est une personne.",
+          "Déménager dans un nouveau pays l'a forcé à reconsidérer des pans de sa propre identité.",
+          "Parle d'une part de ton identité qui a beaucoup changé au fil des ans — et de ce qui a causé le changement."
+        ],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-22",
+        "title": "La complexité",
+        "talkingPoints": [
+          "L'état d'avoir de nombreuses parties interconnectées, rendant quelque chose difficile à comprendre ou prédire pleinement.",
+          "La complexité de la chaîne logistique signifiait qu'un seul retard pouvait se propager à toute l'entreprise.",
+          "Parle d'un problème que tu croyais simple mais dont tu as découvert la complexité bien plus grande que prévu."
+        ],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-23",
+        "title": "L'empathie",
+        "talkingPoints": [
+          "La capacité de comprendre et de partager les sentiments d'autrui.",
+          "Son empathie pour la nouvelle employée l'a aidée à s'intégrer plus vite.",
+          "Raconte une fois où tu t'es vraiment mis à la place de quelqu'un d'autre."
+        ],
+        "depth": "casual"
+      }
+    ]
+  }
+}

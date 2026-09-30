@@ -1,0 +1,3086 @@
+{
+  "prompts": {
+    "deep-research": [
+      {
+        "id": "deep-research-1",
+        "title": "日常を良くした小さな習慣は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-2",
+        "title": "一番好きな映画は何で、なぜですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-3",
+        "title": "好きな一日の過ごし方は？ 忙しいか、ゆったりか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-4",
+        "title": "もっと頻繁に使われるべきだと思う言葉は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-5",
+        "title": "他人が見落とすかもしれないのに、あなたはいつも気づくことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-6",
+        "title": "若い頃の自分が誇りに思うことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-7",
+        "title": "最近した小さな勇気ある行動は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-8",
+        "title": "朝の一番良いところはどこですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-9",
+        "title": "遠くにいる人との関係をどう維持していますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-10",
+        "title": "あなたをより動かすのは、失敗への恐れか、成功への欲求か？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-11",
+        "title": "自分を優先しても良いのはいつですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-12",
+        "title": "進歩が遅く感じるとき、どうやって希望を持ち続けますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-13",
+        "title": "頑固なのか、それとも信念に基づいているのか、どう見分けますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-14",
+        "title": "自分が十分にやっているかどうかをどう測りますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-15",
+        "title": "まだ手放すことを学んでいることは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-16",
+        "title": "個人のアイデンティティと文化的遺産の関係とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-17",
+        "title": "不正なシステムの中で倫理的に生きることは可能ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-18",
+        "title": "行動の結果が予測不可能なとき、どう責任を持って行動すべきですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-19",
+        "title": "世俗的な生活における儀式の役割とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-20",
+        "title": "不完全な情報のもとで、どう倫理的な選択をしますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-21",
+        "title": "自分自身に果たすべきで、いつも果たせずにいることは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-22",
+        "title": "人間であることの最も難しい点は何で、なぜそれが最も意味深いことにもなり得るのですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-23",
+        "title": "やることが時間を超えるとき、どう時間を管理しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-24",
+        "title": "仕事でした失敗と、その後に何をしたか教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-25",
+        "title": "仕事で大きな変化に素早く適応しなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-26",
+        "title": "自分と性格が大きく衝突する人と緊密に働かなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-27",
+        "title": "細部に深く入り込んでいても、全体像を俯瞰して見るにはどうしていますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-28",
+        "title": "真のチームプレーヤーであることと、自分のアイデアを強く主張することの間の緊張をどう乗り越えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-29",
+        "title": "上司や経営陣を単に知らせるだけでなく、影響を与えなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-30",
+        "title": "厳しい真実が口にされない場にならないよう、チームに心理的安全性をどう作りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "general": [
+      {
+        "id": "general-1",
+        "title": "もし一つの技術を瞬時に習得できるなら、何を、なぜ選びますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-2",
+        "title": "完璧な一日を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-3",
+        "title": "内緒でとても得意なことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-4",
+        "title": "クラスで教えたいことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-5",
+        "title": "自分の言語にあってほしいと思う、他言語の言葉は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-6",
+        "title": "人に親切にする一番好きな方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-7",
+        "title": "見知らぬ人がしてくれた一番優しいことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-8",
+        "title": "困難な状況に直面したとき、ストレスをどう処理しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-9",
+        "title": "多くの人が反対するのに、あなたが信じていることは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-10",
+        "title": "嫉妬が湧いたとき、どう対処しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-11",
+        "title": "置いていくことを選んだものと、その理由は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-12",
+        "title": "前に進むために再構成しなければならなかった過去の一部は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-13",
+        "title": "人生で繰り返し起きる課題と、それにどう取り組むか教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-14",
+        "title": "他者に価値を感じるが、自分ではまだ育てている最中のことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-15",
+        "title": "良く生きられた人生の意味とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-16",
+        "title": "幸福の追求と苦しみの受容のバランスをどう取るべきですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-17",
+        "title": "選ばなかったが恩恵を受けている歴史の部分と、どう向き合うべきですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-18",
+        "title": "自分自身に本当に正直でいることは可能か、それとも自己欺瞞には必要な役割があるか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-19",
+        "title": "選ばなかった道、生きられなかった人生とどう和解しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-20",
+        "title": "自然世界を道徳的関心事として真剣に受け止めるとはどういうことか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-21",
+        "title": "強い意見を持ちつつ、それを自分のアイデンティティにしないことは可能ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-22",
+        "title": "あなたの最大の強みは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-23",
+        "title": "今積極的に改善しようとしている職務上のスキルは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-24",
+        "title": "単調で刺激のないタスクのとき、どうやってやる気を保ちますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-25",
+        "title": "失敗した時と、そこから具体的に何を学んだか教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-26",
+        "title": "誰も評価してくれないとき、自分が本当に良い仕事をしているかどうかをどう測りますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-27",
+        "title": "まったく知識のない人に本当に複雑なことを説明しなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-28",
+        "title": "正しいことをすることが本当の職務上の代償を伴った時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-29",
+        "title": "周囲が混乱し不安定なとき、どうやって仕事に意味を持たせますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-30",
+        "title": "組織の必要とチームの必要の間で選ばなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "random": [
+      {
+        "id": "random-1",
+        "title": "理想の朝のルーティンを教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-2",
+        "title": "楽しんでいる趣味は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-3",
+        "title": "これまでにもらった最高のプレゼントは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-4",
+        "title": "あなたの性格を一番表していると思う動物は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-5",
+        "title": "子供の頃の一番好きな遊びや活動は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-6",
+        "title": "いつも温かい気持ちにさせる記憶は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-7",
+        "title": "客を歓迎するあなた独特の方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-8",
+        "title": "最近考えを変えたことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-9",
+        "title": "重要な決断はどう下しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-10",
+        "title": "自分について受け入れなければならなかった厳しい真実は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-11",
+        "title": "挫折の後、どうやって立ち直りますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-12",
+        "title": "会話で本当にその場にいる（臨在する）とはどういうことですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-13",
+        "title": "口を開くべきか、黙るべきかをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-14",
+        "title": "短期的なプレッシャーが勝っても、長期的なビジョンをどう明確に保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-15",
+        "title": "今の自分となりたい自分をどう調和させますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-16",
+        "title": "人とのつながりの本質とは何で、なぜ私たちはそれを必要とするのですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-17",
+        "title": "行動の多くが自分外の力に形作られているとき、自由とはどういうことですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-18",
+        "title": "人間の判断をアルゴリズムの決定に置き換えるとき、何を失いますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-19",
+        "title": "連帯とは実際に私たちに何を求めるものですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-20",
+        "title": "個人を責任を持たせつつ、彼らを形作ったシステムも理解するにはどうすればよいですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-21",
+        "title": "最も深い価値観が、他者に対する武器になるのをどう防ぎますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-22",
+        "title": "最大の弱点は何で、それに対して具体的に何をしてきましたか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-23",
+        "title": "仕事で直面した課題と、それをどう扱ったか教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-24",
+        "title": "あなたにとって本当に生産的な一日の仕事はどんな姿ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-25",
+        "title": "本当にこれまで経験したことのない問題にどう取り組みますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-26",
+        "title": "本当の時間的プレッシャーの中で複雑なことを急速に習得しなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-27",
+        "title": "大きな職務上の挫折の後、ただ先に進むのではなく本当にどう回復しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-28",
+        "title": "自分よりずっと技術的に優れた人々を、信頼を失わずにどう導きますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-29",
+        "title": "より大きなもののために、自分が築いた・深く信じたものから立ち去らなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-30",
+        "title": "急性ではなく長引くストレスの下で、どう自己認識を保ちますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "tech-terms": [
+      {
+        "id": "tech-terms-1",
+        "title": "長い一日の後、一番好きなリラックス方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-2",
+        "title": "毎日楽しんでいるささやかな喜びは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-3",
+        "title": "どこかの街に1年住めるなら、どこにしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-4",
+        "title": "今学ぶのを楽しみにしていることは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-5",
+        "title": "自分のためにだけやっていることは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-6",
+        "title": "最近した中で一番面白かった会話は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-7",
+        "title": "よく繰り返し浮かぶ白昼夢は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-8",
+        "title": "個人的な人生で成功をどう定義しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-9",
+        "title": "最近自分に立てた目標は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-10",
+        "title": "いつ人を許すべきか、どう分かりますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-11",
+        "title": "あなたの経験では、忍耐と妥協の違いは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-12",
+        "title": "友情が自然に終わりを迎えたとどう分かりますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-13",
+        "title": "今のあなたの人生で野心（アンビション）はどういう姿ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-14",
+        "title": "実際より自信を持って行動した時はいつですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-15",
+        "title": "自由と責任の関係とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-16",
+        "title": "死すべき存在として、意味をどう見つけますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-17",
+        "title": "確信と教条（ドグマ）をどう区別しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-18",
+        "title": "死について語ることを避ける文化の中で、自分の死すべき性とどう向き合うべきですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-19",
+        "title": "悲しみと感謝を同時にどう抱きしめますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-20",
+        "title": "規律（ディシプリン）と罰の違いは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-21",
+        "title": "本当の理解における沈黙の役割とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-22",
+        "title": "5年後に自分をプロとしてどう見ていますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-23",
+        "title": "複数の責任を管理するとき、どうやって整理していますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-24",
+        "title": "演出的ではなく正直に、プロとして自分をどう説明しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-25",
+        "title": "チーム内の対立を管理しなければならなかった状況を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-26",
+        "title": "職務上の目標をどう立て、どう自分に課すか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-27",
+        "title": "反対しながらも黙って集団に従った時を描いてください。何が起きましたか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-28",
+        "title": "大きく目に見える失敗の後、ゼロから何かを始めなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-29",
+        "title": "何かについて公に大きく間違っていたとき、どう対処しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-30",
+        "title": "長期的に信じるもののために、短期的に本当のものを犠牲にしなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "football": [
+      {
+        "id": "football-1",
+        "title": "これまでに受けた最高のアドバイスは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-2",
+        "title": "1週間一つの食べ物しか食べられないなら、何にしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-3",
+        "title": "学校以外で覚えたスキルは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-4",
+        "title": "故郷の一番好きなところは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-5",
+        "title": "今のルーティンの一番良いところは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-6",
+        "title": "強い記憶を呼び起こす匂いは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-7",
+        "title": "5年後に楽しみにしていることは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-8",
+        "title": "報われた冒険（リスク）は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-9",
+        "title": "めったに譲らない価値観は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-10",
+        "title": "あなたにとって弱さ（vulnerability）とは何で、いつそれを許しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-11",
+        "title": "意識的に変えようとした関係の動き（ダイナミクス）は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-12",
+        "title": "求めているのにまだ追求することを許していないことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-13",
+        "title": "より寛容になった面と、より寛容でなくなった面はそれぞれ何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-14",
+        "title": "人生の変化が必要なのか、単に魅力的なだけなのか、どう分かりますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-15",
+        "title": "苦しみや困難な経験にどう意味を見つけますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-16",
+        "title": "本当に無私（selfless）であることは可能か、それともすべての親切は結局自己奉仕なのか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-17",
+        "title": "無知が知識より道徳的に望ましいことはありますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-18",
+        "title": "感謝と不満の関係とは何か——両方を完全に感じることはできますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-19",
+        "title": "知性と知恵の関係とは何か、なぜよく分かれるのか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-20",
+        "title": "人やアイデアや仕事への愛がもはや苦もなく感じられなくなったとき、どう維持しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-21",
+        "title": "共犯（complicity）をどう考えるか——それはどこで始まり、どこで終わるか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-22",
+        "title": "仕事で一番あなたを動かすのは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-23",
+        "title": "似た背景の人とプロとして何が違うか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-24",
+        "title": "苦労している同僚を支えた時を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-25",
+        "title": "誰かに厳しいフィードバックを伝えなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-26",
+        "title": "仕事で何かを断り、その決断を貫かなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-27",
+        "title": "短期的なフィードバックがなくても、長期プロジェクトへの集中をどう維持しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-28",
+        "title": "結果が自分以外の人々に大きく影響するとき、どう重大な決断をしますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-29",
+        "title": "信頼や士気を壊さずに、失敗についてチームに責任を持たせなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-30",
+        "title": "責任を持つチームがあなたの進路への自信を失ったとき、どうリードしますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "science": [
+      {
+        "id": "science-1",
+        "title": "3人と夕食を食べられるなら、誰にしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-2",
+        "title": "安心できる定番の番組や映画は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-3",
+        "title": "一番好きな時間帯はいつで、なぜですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-4",
+        "title": "食べて美味しかった中で一番変わった食べ物は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-5",
+        "title": "瞬時に流暢になれる言語があれば、どれを選びますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-6",
+        "title": "今年もっとやりたいことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-7",
+        "title": "すぐに決めてうまくいった決断は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-8",
+        "title": "長期目標に向かって働くとき、どうやる気を保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-9",
+        "title": "やり抜くべきか、諦めるべきかをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-10",
+        "title": "自分の価値観が他人と衝突する状況をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-11",
+        "title": "何を戦う価値があるかをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-12",
+        "title": "創造的または職務的なバーンアウトからどう回復しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-13",
+        "title": "今の自分となりたい自分の差をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-14",
+        "title": "あなたの人間関係での責任（accountability）はどういう姿ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-15",
+        "title": "意識の本質とは何で、何が私たちを私たちにしているのですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-16",
+        "title": "会うことのない未来の世代に何を負っているかをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-17",
+        "title": "誰かを愛することと、彼らを必要とすることの違いは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-18",
+        "title": "正当な怒りと破壊的な激怒をどう区別しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-19",
+        "title": "怒りなしで正義を気にかけることは可能か——そしてそもそも試みるべきか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-20",
+        "title": "許しがたい行為というものがあるか、それとも原則的に許しは常に可能か？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-21",
+        "title": "真に人間的な教育制度は何を優先するでしょうか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-22",
+        "title": "ストレスとプレッシャーをどう扱いますか——実例をたどって教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-23",
+        "title": "到底間に合わない締め切りをどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-24",
+        "title": "人事評価で同意できない点を指摘されたとき、どう対応しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-25",
+        "title": "判断を常に疑う上司の下でどう働きますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-26",
+        "title": "指示が曖昧で誰も答えを持っていないとき、どう機能しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-27",
+        "title": "信じて推進したことが最終的に失敗した時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-28",
+        "title": "制度的な重みを持つプロセスや方針や決定に異議を唱えなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-29",
+        "title": "公平性と実用主義が本当に衝突するとき、どう決断しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-30",
+        "title": "立場が根本的に対立する人々の間に本当の合意を築かなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "history": [
+      {
+        "id": "history-1",
+        "title": "誰もが読むべき本は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-2",
+        "title": "読書や考え事をする一番好きな場所を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-3",
+        "title": "他人が奇妙に思うかもしれないあなたの癖は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-4",
+        "title": "1日だけどんな仕事でもできるなら、何を試しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-5",
+        "title": "やってみたい創造的な趣味は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-6",
+        "title": "考え事をしたりリラックスしたりする一番好きな場所はどこですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-7",
+        "title": "自分の一番好きなところは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-8",
+        "title": "もっと早く知っていればよかったと思うことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-9",
+        "title": "5年前は持っていなかった、今のあなたの信念は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-10",
+        "title": "自分でも驚いたことをしたことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-11",
+        "title": "誰も評価していないと知っていたら、何を違うやり方でしますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-12",
+        "title": "人生を大きく良くしたマインドセットの転換は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-13",
+        "title": "現代生活で本当に苦労していることは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-14",
+        "title": "意外だった意味の源泉は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-15",
+        "title": "個人の欲求と集合的な善のバランスをどう取るべきですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-16",
+        "title": "意味のある人生と単に快適な人生の違いは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-17",
+        "title": "世界をあるがまま受け入れることと、それを変えようと働くことの緊張をどう抱えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-18",
+        "title": "希望は現実主義の一形態か、それとも不確実性に対処する戦略か？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-19",
+        "title": "愛するものを、それを祝うことから生じる注目そのものからどう守りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-20",
+        "title": "安全と自由のトレードオフを、偽の選択に陥らずにどう評価しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-21",
+        "title": "信じていることと実際の振る舞いの差をどう乗り越えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-22",
+        "title": "理想の職場環境を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-23",
+        "title": "一緒に働いたことのない人に、自分の職業倫理をどう説明しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-24",
+        "title": "上司に反対するとき、本当は何をするか——すべきだと思うことではなく？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-25",
+        "title": "不完全な情報で重大な決断を下さなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-26",
+        "title": "仕事で信頼を損ない、どう回復させたか教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-27",
+        "title": "尊敬する同僚と本当に意見が合わず、関係を損なわずにどう付き合いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-28",
+        "title": "圧力が本当に極限のとき、冷静を保たなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-29",
+        "title": "人気がないと知りつつ決断し、やり遂げなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-30",
+        "title": "倫理的に正しいことと商業的に賢いことが直接衝突する状況をどう乗り越えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "tech": [
+      {
+        "id": "tech-1",
+        "title": "一番好きな季節はいつで、なぜですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-2",
+        "title": "最後に笑ったことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-3",
+        "title": "今いる部屋で一番面白いものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-4",
+        "title": "心に残った褒め言葉は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-5",
+        "title": "今の季節の一番好きなところは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-6",
+        "title": "他人のためにしている小さなことで、あなたにとって大きな意味があるものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-7",
+        "title": "誰もが覚えるべきだと思う生活スキルは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-8",
+        "title": "友人や家族との意見の不一致をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-9",
+        "title": "失敗が今のものの対処法をどう形作りましたか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-10",
+        "title": "強い感情をどう処理しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-11",
+        "title": "まだ鍛え直している意見は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-12",
+        "title": "深く尊敬する人との意見の不一致をどう乗り越えますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-13",
+        "title": "単純にならずに楽観主義をどう保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-14",
+        "title": "あなたを傷つけたけれどそれを知らない人にどう近づきますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-15",
+        "title": "人間の人生における芸術と美の役割とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-16",
+        "title": "他者の経験を本当に理解できるか、それとも常に推測しているだけか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-17",
+        "title": "効率を優先する社会は、正義でもあり得ますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-18",
+        "title": "良き先祖（祖先）であるとはどういうことですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-19",
+        "title": "本物の謝罪を何が作るのですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-20",
+        "title": "意味のある人生における疑念の役割とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-21",
+        "title": "省察された人生は常に省察されない人生より良いですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-22",
+        "title": "独立して働くのとチームの一員として働くの、どちらが好きで、なぜですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-23",
+        "title": "これまでやったことのないことを学ぶときどうアプローチしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-24",
+        "title": "仕事で新しいツールやプロセスを素早く覚えなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-25",
+        "title": "新しい同僚との信頼をどう築くか——実際のアプローチは？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-26",
+        "title": "自信と謙遜を同時に、どちらも演出せずにどう保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-27",
+        "title": "不可能だったはずの条件下で意味のあるものを成し遂げた時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-28",
+        "title": "意図的にあなたを妨害する人と隣で働くのはどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-29",
+        "title": "本当に正解のない状況をどう乗り越えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-30",
+        "title": "リーダーシップのアプローチを単に適応するだけでなく根本的に変えなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "finance": [
+      {
+        "id": "finance-1",
+        "title": "あなたにとって完璧な週末を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-2",
+        "title": "自由な午後があったら、どう過ごしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-3",
+        "title": "料理したくないときの定番の食事は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-4",
+        "title": "子供の頃信じていたけれど間違いだったことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-5",
+        "title": "最後に勧める本、ポッドキャスト、記事は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-6",
+        "title": "一番好きな地元のレストランやカフェと、いつも注文するものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-7",
+        "title": "毎日して本当の喜びをもたらすことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-8",
+        "title": "一番学んだ失敗は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-9",
+        "title": "忠誠は実際にあなたにとって何を意味しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-10",
+        "title": "予想より大変だったやめた習慣は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-11",
+        "title": "長期的な関係や親しい友情の中で、どう自分らしさを保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-12",
+        "title": "静かに諦めた目標と、それについてどう感じているか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-13",
+        "title": "日常でよく話さないトレードオフは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-14",
+        "title": "誰かの例のおかげで違うやり方を始めたことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-15",
+        "title": "何が道徳的に正しいか間違っているかをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-16",
+        "title": "権力のシステムは何が真実だと信じるかをどう形作るか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-17",
+        "title": "会うことのないが、私たちの選択に影響される人々に何を負っているか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-18",
+        "title": "個人の自由と集合的な義務の緊張をどう乗り越えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-19",
+        "title": "文化とアイデンティティについて、何を保存し何を進化させるかをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-20",
+        "title": "本物の道徳的進歩とその幻影をどう区別しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-21",
+        "title": "理解されたい欲求と、神秘的なままでいる価値のバランスをどう取りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-22",
+        "title": "以前の同僚はあなたの働き方をどう説明するでしょうか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-23",
+        "title": "仕事で大きな変化に適応しなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-24",
+        "title": "長期プロジェクトの進捗が見えなくても、何がやる気を保たせますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-25",
+        "title": "頼まれずに意味のある行動をとった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-26",
+        "title": "職務記述書の範囲外だったが意味のあることをした時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-27",
+        "title": "優先順位を（繰り返し、予告なしに）変えられたとき、どう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-28",
+        "title": "与えてくれない環境で信頼を築かなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-29",
+        "title": "本当の不確実性や危機の時期を、回避するのではなく通してリードした時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-30",
+        "title": "失敗が隠されるものではなく学びになるチーム文化をどう作りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "roast": [
+      {
+        "id": "roast-1",
+        "title": "いつもあなたを笑わせるものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-2",
+        "title": "今週楽しみにしていることは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-3",
+        "title": "最近起きた一番面白いことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-4",
+        "title": "小さな成功を祝う一番好きな方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-5",
+        "title": "日常で役立つ過小評価されているスキルは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-6",
+        "title": "今も考えている子供の頃の夢は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-7",
+        "title": "今の気分を表す言葉やフレーズは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-8",
+        "title": "仕事・勉強と私生活のバランスをどう取りますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-9",
+        "title": "最後に居心地の良い場所（コンフォートゾーン）を出たのはいつで、何が起きましたか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-10",
+        "title": "目標のために犠牲にしたものは何で、価値がありましたか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-11",
+        "title": "今懸命にやっているが、ほとんどの人が見ていないことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-12",
+        "title": "あなたにとって「自分に親切にする」とは実際にどういう姿ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-13",
+        "title": "あなたに問題も引き起こした個人的な強みは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-14",
+        "title": "すでに知っているべきだと感じるとき、どう好奇心を保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-15",
+        "title": "真実と知覚（perception）の関係とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-16",
+        "title": "壊れたシステムを内部から変えるのと完全に拒絶するの、どちらが倫理的ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-17",
+        "title": "苦しみは本質的に意味があるか、それとも後から意味を与えているだけか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-18",
+        "title": "複雑な人間の経験をデータに還元するとき、何を失いますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-19",
+        "title": "苦しみを通じてのみ得られる知識というものはありますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-20",
+        "title": "誰も見ていないときに勇敢であるとはどういうことですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-21",
+        "title": "自分の知らないことについて言える最も正直なことは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-22",
+        "title": "すべてが緊急に感じるとき、タスクの優先順位をどうつけますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-23",
+        "title": "仕事で会ったばかりの人と本物の関係をどう築きますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-24",
+        "title": "ワークライフバランスは実際にあなたにとって本当に何を意味しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-25",
+        "title": "うまくいかなかったプロジェクトを描いてください。何が間違い、あなたは何をしましたか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-26",
+        "title": "重要性が高く、物事が横滑りしているとき、どう冷静を保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-27",
+        "title": "疑いや不信から始めて誰かの信頼を得なければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-28",
+        "title": "自分の盲点が決断に影響するのをどう積極的に防ぎますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-29",
+        "title": "失敗を恐れる文化を作らずに、チームに責任感をどう築きますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-30",
+        "title": "求められて伝えていたが個人的に疑っていた方向を伝えなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "pitch": [
+      {
+        "id": "pitch-1",
+        "title": "一番好きな音楽の種類は何で、いつ聴きますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-2",
+        "title": "子供の頃の一番好きなおやつは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-3",
+        "title": "1日だけ超能力が持てるなら、何にしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-4",
+        "title": "誰にでも勧める映画や番組は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-5",
+        "title": "一番好きな料理やお菓子作りは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-6",
+        "title": "日常で美しいと思うものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-7",
+        "title": "何をもって覚えられたいですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-8",
+        "title": "自分について改善しようとしていることは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-9",
+        "title": "人が気づく以上の勇気を要したことをしたことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-10",
+        "title": "誰かがあなたのアイデンティティや価値観に挑むとき、どう対応しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-11",
+        "title": "直感と恐れをどう区別しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-12",
+        "title": "一番正直でいるのが難しいのはいつですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-13",
+        "title": "すべてが緊急に感じるとき、時間を何に使うかをどう選びますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-14",
+        "title": "最近より受け入れるようになった自分の一部は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-15",
+        "title": "一見ランダムな宇宙にどう意味を見つけますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-16",
+        "title": "意図しなかった害に対して責任を負うとはどういうことですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-17",
+        "title": "生き残りが妥協を要求しているように見えるとき、どう誠実さを保ちますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-18",
+        "title": "正義は害を完全に修復できるか、それともいくらかの損害は関係なく残るか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-19",
+        "title": "多くの人の尊厳が日常的に侵されている世界で、尊厳をどう考えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-20",
+        "title": "確実性の追求そのものが知的失敗の一形態ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-21",
+        "title": "私たちのするほとんどが忘れられるという知識とどう生きますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-22",
+        "title": "これまでの最大の職務上の成果は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-23",
+        "title": "専門外のタスクを割り当てられたとき、何をしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-24",
+        "title": "今のキャリアにどうやって本当に（飾った版ではなく本当の）辿り着いたのか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-25",
+        "title": "チームの前で明らかに間違っていたとき、どう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-26",
+        "title": "自分と全く違うやり方の人と緊密に協力しなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-27",
+        "title": "求められていることと正しいと信じることが緊張していた状況を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-28",
+        "title": "利害関係者に本当に壊滅的な知らせを伝えなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-29",
+        "title": "職務上の判断を公に疑われた時を描いてください。どう対応しましたか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-30",
+        "title": "逆境に押し続けるべきか、方針転換が賢い選択かをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "conspiracy": [
+      {
+        "id": "conspiracy-1",
+        "title": "どこへでも旅できるなら、どこに行きますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-2",
+        "title": "自分を改名できるなら、どんな名前にしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-3",
+        "title": "好きな伝統は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-4",
+        "title": "新しい人と会うときのあなたのアプローチは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-5",
+        "title": "これまでで一番平和な場所はどこですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-6",
+        "title": "無視して後でしなければよかったと思った最高のアドバイスは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-7",
+        "title": "新しい人とつながる一番好きな方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-8",
+        "title": "失敗や挫折をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-9",
+        "title": "自分の目的を見つけたとどう分かりますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-10",
+        "title": "苦労して学ばなければならなかった教訓は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-11",
+        "title": "楽なことと正しいことの間で選ばなければならなかった瞬間は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-12",
+        "title": "他人の失敗を見て学んだことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-13",
+        "title": "義務感からしたけれど意味深くなったことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-14",
+        "title": "批判が自己疑念になるのをどう防ぎますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-15",
+        "title": "時間の本質とは何で、どう私たちの経験を形作るのですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-16",
+        "title": "一人の苦しみと多くの者の利益をどう秤にかけますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-17",
+        "title": "記憶とアイデンティティの関係とは何か——すべての記憶を失ったら、あなたはまだあなたですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-18",
+        "title": "行動の結果が何世代も経たないと分からないとき、その倫理をどう評価しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-19",
+        "title": "深く聴く（listen deeply）とはどういうことで、なぜそれほど稀なのですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-20",
+        "title": "もう認識できない自分のバージョンとどう向き合いますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-21",
+        "title": "恐怖と無関係の勇気という形態はありますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-22",
+        "title": "フィードバックや批判（肯定的も否定的も）をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-23",
+        "title": "頼まれずに主体性を示した時を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-24",
+        "title": "時間を忘れるような仕事はどんなもので、それはあなたについて何を物語りますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-25",
+        "title": "優先度の高い複数のタスクを、うまくこなす方法もなく抱えなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-26",
+        "title": "手を抜かずに本当に不可能な締め切りにどうアプローチしますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-27",
+        "title": "仕事に実際に必要なより少ないリソースで結果を出さなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-28",
+        "title": "今日必要なことと、長期で築こうとしていることのバランスをどう取りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-29",
+        "title": "厳しい・人気のない決断をするとき、チームの信頼をどう保ちますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-30",
+        "title": "問題の原因が環境でもチームでもなく自分だと気づいた時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "worst-take": [
+      {
+        "id": "worst-take-1",
+        "title": "これまでで一番良かった食事は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-2",
+        "title": "悪い日を少し良くする小さなことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-3",
+        "title": "最近楽しさを発見したことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-4",
+        "title": "もっと時間があればいいと思う趣味は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-5",
+        "title": "エネルギーを回復するためにすることは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-6",
+        "title": "あなたにとって贅沢に感じる簡単な活動は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-7",
+        "title": "世界の見方を変えた経験は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-8",
+        "title": "人生の方向を変えた決断は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-9",
+        "title": "これまでで一番言うのが難しかった「ノー」は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-10",
+        "title": "野望が満足感を圧倒しないようどうしていますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-11",
+        "title": "他人の前で間違っていたときどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-12",
+        "title": "自分のアイデンティティを達成からどう切り離しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-13",
+        "title": "行き詰まった感覚をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-14",
+        "title": "価値観を反映する習慣は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-15",
+        "title": "進歩と伝統の保存のバランスをどう取りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-16",
+        "title": "幸福には意味が必要か、それとも意味は幸福なしでも存在できるか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-17",
+        "title": "世界観の根本的な違いを越えて愛は維持できるか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-18",
+        "title": "富と知恵の関係とは何か——一方が他方を可能にするか、堕落させるか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-19",
+        "title": "生活を犠牲にして人生を最適化する罠をどう避けますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-20",
+        "title": "短期的な報酬のために作られた世界で、長期思考を本当に優先するとはどういうことか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-21",
+        "title": "日常がそれを鈍らせるとき、道徳的想像力をどう生き生きと保ちますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-22",
+        "title": "あなたの最高の部分を引き出すマネージャーはどんなタイプですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-23",
+        "title": "本当に一緒に働きにくい同僚をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-24",
+        "title": "キャリアにおける意味のある次の一歩はどういう姿か——そして間違った選択をしたとどう分かりますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-25",
+        "title": "仕事が単調または無意味に感じるとき、本当のやる気をどう保ちますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-26",
+        "title": "チームの誰かの成長を助けた時を描いてください——実際に何をしましたか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-27",
+        "title": "互いに真っ向から矛盾する二人の人から指示を受けたとき、どう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-28",
+        "title": "妥協への職務上の圧力が重大で持続するとき、どう自分の原則を保ちますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-29",
+        "title": "アプローチの基盤にしていた一連の仮定を完全に捨てなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-30",
+        "title": "周囲の人を育てつつ、それが自分の成果を犠牲にする理由にならないようどうリードしますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "hot-takes": [
+      {
+        "id": "hot-takes-1",
+        "title": "覚えたいスキルは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-2",
+        "title": "一番好きな天気は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-3",
+        "title": "見知らぬ人との会話を始める一番好きな方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-4",
+        "title": "最近自分について驚いたことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-5",
+        "title": "最近達成した目標は何ですか（大きくても小さくても）？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-6",
+        "title": "感傷的な価値がある所有物は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-7",
+        "title": "人がよくあなたを過小評価する点は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-8",
+        "title": "優先順位をどう決めますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-9",
+        "title": "誰を信頼するかをどう決めますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-10",
+        "title": "誤解されていると感じたとき、何をしますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-11",
+        "title": "誠実に生きるとはあなたにとってどういうことですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-12",
+        "title": "他者があなたに持っていたが、応えないことを選んだ期待は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-13",
+        "title": "休息はあなたにとって何を意味し、実際にそれを許していますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-14",
+        "title": "自己改善と自己受容のバランスをどう考えますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-15",
+        "title": "言語と思考の関係とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-16",
+        "title": "文化や言語が消えるとき何を失い、誰が責任を負うか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-17",
+        "title": "道徳的進歩をどう考えますか——生き方には本当に他より優れたものがありますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-18",
+        "title": "操作（manipulation）が巧妙になった世界で、どう信頼を築きますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-19",
+        "title": "世界に適応することとそれに降伏することの違いはありますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-20",
+        "title": "孤立して良い人でいられるか、それとも徳には共同体が必要か？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-21",
+        "title": "謙遜と自信の関係とは何か——両方を十分に持つことはできますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-22",
+        "title": "チームの一員としてうまく働いた時を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-23",
+        "title": "職場であなたにとって譲れない価値観は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-24",
+        "title": "あなたと緊密に働き、友達ではない人が言う、あなたの最も過小評価されている資質は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-25",
+        "title": "権限のない人を通じて結果を出さなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-26",
+        "title": "時間的プレッシャーが極限のとき、仕事の質をどう守りますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-27",
+        "title": "期待されていたことに反発した時を描いてください——そしてそれの代償を。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-28",
+        "title": "自分が主導した取り組みが完全に失敗した時を教えてください。次に何をし、何を違うやり方ですればよかったと思いますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-29",
+        "title": "問題が自分で解くべきか、受け入れて適応すべきかをどう分かりますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-30",
+        "title": "プロとして誰かに言うのが最も難しかったことは何ですか——そして実際にどう言いましたか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "millennial": [
+      {
+        "id": "millennial-1",
+        "title": "一番好きな休日の思い出を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-2",
+        "title": "いつもバッグやポケットに入っているものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-3",
+        "title": "なくては生きていけない技術は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-4",
+        "title": "スマホで一番便利なアプリは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-5",
+        "title": "今の人生の段階の一番好きなところは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-6",
+        "title": "尊敬する人から身につけた習慣は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-7",
+        "title": "一番よく使う絵文字と、それがあなたについて何を語るか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-8",
+        "title": "情熱を持っていることと、その理由は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-9",
+        "title": "忘れ（アンラーン）なければならなかったことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-10",
+        "title": "まだ手探りだと感じる人生の分野は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-11",
+        "title": "最近守り始めた個人的な境界線は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-12",
+        "title": "人にもっと聞いてほしいことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-13",
+        "title": "成功について挑戦しなければならなかった信念は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-14",
+        "title": "多くの人があなたについて誤解していると思うことは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-15",
+        "title": "科学的な理解と精神的な経験をどう調和させますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-16",
+        "title": "野心は美徳か悪徳か——それとも何への野心か完全に依存するか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-17",
+        "title": "良く生きられた人生における美の役割とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-18",
+        "title": "自分の信念に深くコミットしつつ、本当に間違いを受け入れられることは可能ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-19",
+        "title": "個人主義が支配的な価値のとき、どう共同体を築きますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-20",
+        "title": "感じるがまだ言語化できないことについて、どう語りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-21",
+        "title": "私たちより前にいた人々への義務をどう考えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-22",
+        "title": "短期的なキャリア目標は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-23",
+        "title": "期待を大きく超えた時を教えてください。",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-24",
+        "title": "職務上本当に価値を感じるとは、日々の実感としてあなたにとってどういう姿ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-25",
+        "title": "十分な資格のないことを引き受けるときどうアプローチしますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-26",
+        "title": "プロジェクトの途中で完全に方向転換しなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-27",
+        "title": "これまでで最も難しい職務上の決断は何で、何がそれほど難しかったのか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-28",
+        "title": "何をすべきかはっきり見えるのに、それを実現する権限がないとき、どう効果的に動きますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-29",
+        "title": "約束したものを出せないと明らかなとき、期待を管理しなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-30",
+        "title": "直感が一方を指し、証拠が別の方を指した時を描いてください。どちらを信じ、何が起きましたか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "gen-z": [
+      {
+        "id": "gen-z-1",
+        "title": "一番好きな運動方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-2",
+        "title": "一日に1時間足せるなら、何をしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-3",
+        "title": "どこからでも働けるなら、どこを選びますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-4",
+        "title": "家のように感じた訪れた場所はどこですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-5",
+        "title": "以前は嫌いだったけれど今は好きなことは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-6",
+        "title": "雨の日の一番好きなところは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-7",
+        "title": "やろうと思いつつ先延ばしにしていることは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-8",
+        "title": "未来への不確実性をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-9",
+        "title": "すべてが混乱しているとき、どう地に足をつけていますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-10",
+        "title": "成長しているのか、単に変化しているだけなのかをどう分かりますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-11",
+        "title": "取り消せない決断とどう和解しますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-12",
+        "title": "単調や平凡なタスクにどう意味を見つけますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-13",
+        "title": "結果がどうなるか分からない不確実性をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-14",
+        "title": "優先順位を変えた人生の瞬間は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-15",
+        "title": "人間の成長と発達における苦しみの役割とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-16",
+        "title": "価値観が本当に自分のものか、それとも単に環境から受け継いだものかをどう知りますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-17",
+        "title": "慣れを真実と誤るのをどう避けますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-18",
+        "title": "寛容と受容の違いは何で、その区別は重要ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-19",
+        "title": "権力と腐敗の関係とは何か——腐敗する傾向は構造的か、個人的か？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-20",
+        "title": "創造性と制約の関係とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-21",
+        "title": "アイデアを真剣に受け止めるとはどういうことですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-22",
+        "title": "仕事での成功を個人的にどう定義しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-23",
+        "title": "自分のコミュニケーションスタイルをどう説明しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-24",
+        "title": "誰も頼まなくても最も自然に解決に引き寄せられる問題はどんな種類ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-25",
+        "title": "人気のない決断を下し、その結果と共に生きなければならなかった時を教えてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-26",
+        "title": "必死に推進したことが承認されなかったとき、どう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-27",
+        "title": "誰かが強く個人的に感じていることについて、その人の立場を変えなければならなかった時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-28",
+        "title": "組織には正しいがチームには本当に厳しい決断をした時を描いてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-29",
+        "title": "本当に間違っていると思うことをするよう頼まれたとき、どう対応しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "eli5": [
+      {
+        "id": "eli5-1",
+        "title": "今感謝していることは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-2",
+        "title": "飽きることのない歌は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-3",
+        "title": "いつも良い気分にさせるものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-4",
+        "title": "日曜日を過ごす一番好きな方法は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-5",
+        "title": "フィクションのキャラクターに会えるなら、誰にしますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-6",
+        "title": "死ぬまでにしたいことリストの中で、達成可能に感じるものは何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-7",
+        "title": "人をいつも感心させる知っている雑学は何ですか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-8",
+        "title": "乗り越えて強くなった挑戦は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-9",
+        "title": "あなたを大きく変えた関係は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-10",
+        "title": "最初は痛かったけれど最終的に役立ったフィードバックは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-11",
+        "title": "将来の自分が感謝してくれると思う、今していることは何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-12",
+        "title": "誰かの言葉があなたの軌道を変えた瞬間は何ですか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-13",
+        "title": "避けてきた会話と、何が足を止めているか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-14",
+        "title": "圧倒されたと感じるとき、問題にどうアプローチしますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-15",
+        "title": "人間の進歩をどう定義し測定しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-16",
+        "title": "正義と許しの関係とは何か——両方を持つことはできますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-17",
+        "title": "確実性の代償とは何ですか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-18",
+        "title": "神経科学が「私たち」の多くが無意識だと示唆するとき、自己をどう考えますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-19",
+        "title": "共感は訓練できるか、その届く限界は何か？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-20",
+        "title": "美に対して、それを商品化しない形でどう応答しますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-21",
+        "title": "どんな世界を実現する手助けをするかをどう選びますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-22",
+        "title": "なぜこのキャリアパスを選びましたか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-23",
+        "title": "両方が同じくらい緊急に感じるとき、競合する優先順位をどう扱いますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-24",
+        "title": "準備ができていないと感じる状況に踏み出す前に、心と実践の両面でどう準備しますか？",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-25",
+        "title": "間違っていると思う厳しいフィードバックを受けたとき、どう扱いますか？",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-26",
+        "title": "他の人に見えるようになる前に問題を早期発見した時を描いてください。",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-27",
+        "title": "フィードバックに基づいて運用方法を根本的に変えた時を教えてください——そしてそれが実際にあなたにどんな代償をもたらしたか。",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-28",
+        "title": "最も簡単な進路がそれを犠牲にすることを要求するとき、どう誠実さを保ちますか？",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-29",
+        "title": "完全に自分のせいではないことについて、公に責任を取った時を教えてください。",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ]
+  }
+}

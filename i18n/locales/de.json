@@ -1,0 +1,34 @@
+{
+  "site": {
+    "title": "Zufälliger Themen-Generator",
+    "tagline": "Mit einem Klick ein neues Thema — für Gespräche, Texte, Debatten und Reden."
+  },
+  "modes": {
+    "topics": "Themen",
+    "questions": "Fragen",
+    "words": "Wörter"
+  },
+  "controls": {
+    "mode": "Modus",
+    "category": "Kategorie",
+    "all": "Alle",
+    "count": "Anzahl der Themen",
+    "depth": "Tiefe",
+    "casual": "Locker",
+    "moderate": "Moderat",
+    "deep": "Tief",
+    "generate": "Generieren"
+  },
+  "result": {
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "save": "Speichern",
+    "saved": "Gespeichert"
+  },
+  "saved": {
+    "title": "Meine gespeicherten Themen",
+    "empty": "Noch keine Themen gespeichert. Erzeuge welche und klicke auf Speichern!",
+    "clear": "Alle löschen"
+  },
+  "footer": "Ein leichtgewichtiger zufälliger Themen-Generator. Kein Konto nötig."
+}

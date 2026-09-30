@@ -1,0 +1,34 @@
+{
+  "site": {
+    "title": "Generador de Temas Aleatorios",
+    "tagline": "Obtén un tema nuevo con un solo clic — para conversaciones, escritura, debates y discursos."
+  },
+  "modes": {
+    "topics": "Temas",
+    "questions": "Preguntas",
+    "words": "Palabras"
+  },
+  "controls": {
+    "mode": "Modo",
+    "category": "Categoría",
+    "all": "Todas",
+    "count": "Número de temas",
+    "depth": "Profundidad",
+    "casual": "Casual",
+    "moderate": "Moderado",
+    "deep": "Profundo",
+    "generate": "Generar"
+  },
+  "result": {
+    "copy": "Copiar",
+    "copied": "¡Copiado!",
+    "save": "Guardar",
+    "saved": "Guardado"
+  },
+  "saved": {
+    "title": "Mis temas guardados",
+    "empty": "Aún no hay temas guardados. ¡Genera algunos y pulsa Guardar!",
+    "clear": "Borrar todo"
+  },
+  "footer": "Un generador de temas aleatorios ligero. Sin necesidad de cuenta."
+}

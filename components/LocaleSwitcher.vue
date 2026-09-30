@@ -11,7 +11,13 @@ function withTrailingSlash(p: string): string {
 
 const locales = [
   { code: 'en', label: 'EN' },
-  { code: 'zh', label: '中文' }
+  { code: 'zh', label: '中文' },
+  { code: 'es', label: 'ES' },
+  { code: 'de', label: 'DE' },
+  { code: 'fr', label: 'FR' },
+  { code: 'ja', label: '日本語' },
+  { code: 'ko', label: '한국어' },
+  { code: 'ru', label: 'Русский' }
 ]
 </script>
 

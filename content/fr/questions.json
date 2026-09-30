@@ -1,0 +1,3086 @@
+{
+  "prompts": {
+    "deep-research": [
+      {
+        "id": "deep-research-1",
+        "title": "Quelle petite habitude a amélioré ton quotidien ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-2",
+        "title": "Quel est ton film préféré et pourquoi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-3",
+        "title": "Quel type de journée préfères-tu — bien remplie ou tranquille ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-4",
+        "title": "Quel mot les gens devraient-ils utiliser plus souvent, à ton avis ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-5",
+        "title": "Qu'est-ce que tu remarques toujours et que les autres risquent de manquer ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-6",
+        "title": "Quelle chose rendrait fier ton toi plus jeune ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-7",
+        "title": "Quel petit acte de courage as-tu accompli récemment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-8",
+        "title": "Quelle est la meilleure partie de ton matin ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-9",
+        "title": "Comment entretiens-tu les relations avec les gens éloignés ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-10",
+        "title": "Qu'est-ce qui te motive le plus — la peur de l'échec ou l'envie de réussir ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-11",
+        "title": "Quand est-il acceptable de se mettre soi-même en premier ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-12",
+        "title": "Comment gardes-tu espoir quand le progrès semble lent ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-13",
+        "title": "Comment distingues-tu l'obstination de la fermeté de principe ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-14",
+        "title": "Comment mesures-tu si tu en fais assez ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-15",
+        "title": "Qu'est-ce que tu apprends encore à lâcher prise ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-16",
+        "title": "Quelle est la relation entre identité individuelle et héritage culturel ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-17",
+        "title": "Est-il possible de vivre éthiquement dans un système injuste ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-18",
+        "title": "Comment agir de manière responsable quand les conséquences de nos actes sont inconnaissables ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-19",
+        "title": "Quel est le rôle du rituel dans une vie laïque ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-20",
+        "title": "Comment faire des choix éthiques face à une information incomplète ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-21",
+        "title": "Que nous devons-nous à nous-mêmes et que nous ne parvenons jamais à donner ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-22",
+        "title": "Quelle est la chose la plus difficile dans le fait d'être humain — et pourquoi est-ce aussi souvent la plus porteuse de sens ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-23",
+        "title": "Comment gères-tu ton temps quand tu as plus à faire que le temps ne le permet ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-24",
+        "title": "Parle-moi d'une erreur que tu as faite au travail et de ce que tu as fait ensuite.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "deep-research-25",
+        "title": "Décris une fois où tu as dû t'adapter rapidement à un changement majeur au travail.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-26",
+        "title": "Décris une fois où tu as dû travailler en étroite collaboration avec quelqu'un dont la personnalité entrait fortement en conflit avec la tienne.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-27",
+        "title": "Comment gardes-tu une vue d'ensemble quand tu es plongé dans les détails ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "deep-research-28",
+        "title": "Comment gères-tu la tension entre être un vrai joueur d'équipe et défendre ardemment tes propres idées ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-29",
+        "title": "Parle-moi d'une fois où tu as dû influencer ton manager ou la direction — pas simplement les informer.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "deep-research-30",
+        "title": "Comment crées-tu un climat de sécurité psychologique dans une équipe sans en faire un espace où les vérités difficiles restent non dites ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "general": [
+      {
+        "id": "general-1",
+        "title": "Si tu pouvais maîtriser une compétence instantanément, laquelle serait-ce et pourquoi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-2",
+        "title": "Décris ta journée parfaite.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-3",
+        "title": "Quelle est la chose pour laquelle tu es secrètement très doué ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-4",
+        "title": "Sur quoi donnerais-tu un cours ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-5",
+        "title": "Quel mot d'une autre langue aimerais-tu qu'existe dans la tienne ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-6",
+        "title": "Quelle est ta façon préférée d'être bienveillant envers quelqu'un ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-7",
+        "title": "Quelle est la plus belle chose qu'un inconnu ait faite pour toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-8",
+        "title": "Comment gères-tu le stress face à une situation difficile ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-9",
+        "title": "En quoi crois-tu alors que beaucoup de gens sont en désaccord ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-10",
+        "title": "Comment gères-tu la jalousie ou l'envie quand elle se manifeste ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-11",
+        "title": "Qu'as-tu choisi de laisser derrière toi et pourquoi ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-12",
+        "title": "Quelle partie de ton passé as-tu dû recadrer pour avancer ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-13",
+        "title": "Quel défi récurrent rencontres-tu dans ta vie et comment l'abordes-tu ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-14",
+        "title": "Quelle qualité apprécies-tu chez les autres et que tu développes encore en toi ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-15",
+        "title": "Quel est le sens d'une vie bien vécue ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-16",
+        "title": "Comment concilier la quête du bonheur et l'acceptation de la souffrance ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-17",
+        "title": "Comment devrions-nous nous rapporter aux pans de l'histoire dont nous profitons sans les avoir choisis ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-18",
+        "title": "Est-il possible d'être vraiment honnête avec soi-même, ou le mensonge à soi-même remplit-il une fonction nécessaire ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-19",
+        "title": "Comment faire la paix avec les vies non vécues — les chemins que nous n'avons pas choisis ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-20",
+        "title": "Que signifierait prendre le monde naturel au sérieux comme préoccupation morale ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-21",
+        "title": "Est-il possible d'avoir des opinions fortes sans les laisser devenir partie de son identité ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-22",
+        "title": "Quelles sont tes plus grandes forces ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-23",
+        "title": "Quelle compétence professionnelle travailles-tu activement à améliorer en ce moment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-24",
+        "title": "Comment restes-tu impliqué quand une tâche est répétitive ou peu stimulante ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "general-25",
+        "title": "Parle-moi d'un échec que tu as vécu et de ce que tu en as concrètement appris.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-26",
+        "title": "Comment mesures-tu si tu fais réellement du bon travail quand personne ne te le dit ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-27",
+        "title": "Parle-moi d'une fois où tu as dû expliquer quelque chose de vraiment complexe à quelqu'un sans aucune connaissance du domaine.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "general-28",
+        "title": "Décris une fois où faire la bonne chose a eu un réel coût professionnel.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-29",
+        "title": "Comment gardes-tu ton travail porteur de sens quand l'environnement autour de toi est chaotique et instable ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "general-30",
+        "title": "Décris une fois où tu as dû choisir entre ce dont l'organisation avait besoin et ce dont ton équipe avait besoin.",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "random": [
+      {
+        "id": "random-1",
+        "title": "Décris ta routine matinale idéale.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-2",
+        "title": "Quel loisir apprécies-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-3",
+        "title": "Quel est le plus beau cadeau que tu aies reçu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-4",
+        "title": "Quel animal représente le mieux ta personnalité, à ton avis ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-5",
+        "title": "Quel était ton jeu ou activité préféré dans l'enfance ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-6",
+        "title": "Quel souvenir te réchauffe toujours le cœur ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-7",
+        "title": "Quelle est ta façon signature de faire se sentir bienvenus les invités ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-8",
+        "title": "Sur quoi as-tu changé d'avis récemment ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-9",
+        "title": "Comment prends-tu les décisions importantes ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-10",
+        "title": "Quelle vérité difficile as-tu dû accepter sur toi-même ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-11",
+        "title": "Comment te reconstruis-tu après un revers ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-12",
+        "title": "Que signifie être vraiment présent dans une conversation ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-13",
+        "title": "Comment décides-tu quand prendre la parole plutôt que se taire ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-14",
+        "title": "Comment gardes-tu ta vision long terme claire quand les pressions à court terme prennent le dessus ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-15",
+        "title": "Comment réconcilies-tu la personne que tu es avec celle que tu veux devenir ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-16",
+        "title": "Quelle est la nature du lien humain et pourquoi en avons-nous besoin ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-17",
+        "title": "Que signifie être libre quand tant de notre comportement est façonné par des forces extérieures à nous ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-18",
+        "title": "Que perdons-nous quand nous remplaçons le jugement humain par des décisions algorithmiques ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-19",
+        "title": "Que la solidarité exige-t-elle réellement de nous ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-20",
+        "title": "Comment tenir les individus responsables tout en comprenant les systèmes qui les ont façonnés ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-21",
+        "title": "Comment empêcher nos valeurs les plus profondes de devenir des armes que nous retournons contre les autres ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-22",
+        "title": "Quelle est ta plus grande faiblesse — et qu'as-tu activement fait pour y remédier ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-23",
+        "title": "Parle-moi d'un défi relevé au travail et de la façon dont tu l'as géré.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-24",
+        "title": "À quoi ressemble pour toi une journée de travail véritablement productive ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "random-25",
+        "title": "Comment abordes-tu un problème que tu n'as vraiment jamais rencontré ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-26",
+        "title": "Parle-moi d'une fois où tu as dû assimiler quelque chose de complexe sous une vraie pression temporelle.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-27",
+        "title": "Comment récupères-tu réellement — et pas seulement passer à autre chose — après un revers professionnel majeur ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "random-28",
+        "title": "Comment diriges-tu des personnes bien plus compétentes techniquement que toi sans perdre en crédibilité ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-29",
+        "title": "Décris une fois où tu as dû renoncer à quelque chose que tu avais bâti ou en quoi tu croyais profondément, pour quelque chose de plus grand.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "random-30",
+        "title": "Comment restes-tu lucide sur toi-même sous un stress prolongé — et pas seulement aigu ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "tech-terms": [
+      {
+        "id": "tech-terms-1",
+        "title": "Quelle est ta façon préférée de te détendre après une longue journée ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-2",
+        "title": "Quel simple plaisir savoures-tu chaque jour ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-3",
+        "title": "Si tu pouvais vivre un an dans la ville de ton choix, laquelle choisirais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-4",
+        "title": "Qu'as-tu hâte d'apprendre en ce moment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-5",
+        "title": "Qu'est-ce que tu fais rien que pour toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-6",
+        "title": "Quelle est la conversation la plus intéressante que tu aies eue récemment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-7",
+        "title": "Quel rêve éveillé revient-il souvent chez toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-8",
+        "title": "Comment définis-tu la réussite dans ta vie personnelle ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-9",
+        "title": "Quel objectif t'es-tu fixé récemment ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-10",
+        "title": "Comment sais-tu quand pardonner à quelqu'un ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-11",
+        "title": "Quelle est la différence entre la patience et la résignation, selon ton expérience ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-12",
+        "title": "Comment sais-tu qu'une amitié a fait son temps ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-13",
+        "title": "À quoi ressemble l'ambition dans ta vie en ce moment ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-14",
+        "title": "Raconte une fois où tu as agi avec plus d'assurance que tu n'en ressentais.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-15",
+        "title": "Quelle est la relation entre liberté et responsabilité ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-16",
+        "title": "Comment trouver du sens face à la mortalité ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-17",
+        "title": "Comment distinguer conviction et dogme ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-18",
+        "title": "Comment devrions-nous nous rapporter à notre propre mortalité dans une culture qui évite de parler de la mort ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-19",
+        "title": "Comment porter le deuil et la gratitude en même temps ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-20",
+        "title": "Quelle est la différence entre discipline et punition ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-21",
+        "title": "Quel est le rôle du silence dans la compréhension véritable ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-22",
+        "title": "Où te vois-tu professionnellement dans cinq ans ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-23",
+        "title": "Comment restes-tu organisé quand tu gères plusieurs responsabilités ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-24",
+        "title": "Comment te décris-tu professionnellement de façon honnête plutôt que performative ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-terms-25",
+        "title": "Décris une situation où tu as dû gérer un conflit au sein de ton équipe.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-26",
+        "title": "Comment te fixes-tu des objectifs professionnels — et comment te tiens-tu à eux ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-27",
+        "title": "Décris une fois où tu es resté silencieux et suis le groupe malgré ton désaccord. Qu'est-il arrivé ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-terms-28",
+        "title": "Parle-moi d'une fois où tu as dû repartir de zéro après un échec majeur et visible.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-29",
+        "title": "Comment gères-tu le fait d'avoir eu publiquement et largement tort sur un sujet ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-terms-30",
+        "title": "Parle-moi d'une fois où tu as dû sacrifier quelque chose de réel à court terme pour quelque chose en quoi tu croyais à long terme.",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "football": [
+      {
+        "id": "football-1",
+        "title": "Quel est le meilleur conseil qu'on t'ait jamais donné ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-2",
+        "title": "Si tu ne pouvais manger qu'un seul plat pendant une semaine, lequel serait-ce ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-3",
+        "title": "Quelle compétence as-tu apprise en dehors de l'école ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-4",
+        "title": "Qu'aimes-tu le plus dans ta ville natale ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-5",
+        "title": "Quelle est la meilleure partie de ta routine actuelle ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-6",
+        "title": "Quelle odeur évoque en toi un souvenir puissant ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-7",
+        "title": "Qu'attends-tu avec impatience dans cinq ans ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-8",
+        "title": "Quel risque as-tu pris qui a payé ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-9",
+        "title": "Quelle valeur défends-tu sur laquelle tu fais rarement de compromis ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-10",
+        "title": "Que signifie pour toi la vulnérabilité — et quand te la permets-tu ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-11",
+        "title": "Quelle dynamique relationnelle as-tu consciemment essayé de changer ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-12",
+        "title": "Qu'est-ce que tu désires mais ne t'es pas encore permis de poursuivre ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-13",
+        "title": "Dans quel domaine es-tu devenu plus tolérant — et dans lequel moins ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-14",
+        "title": "Comment distingues-tu un changement nécessaire d'un changement simplement séduisant ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-15",
+        "title": "Comment trouves-tu du sens dans la souffrance ou les épreuves ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-16",
+        "title": "Est-il possible d'être vraiment désintéressé, ou tout acte de générosité sert-il en fin de compte ses propres intérêts ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-17",
+        "title": "L'ignorance est-elle parfois moralement préférable au savoir ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-18",
+        "title": "Quelle est la relation entre gratitude et insatisfaction — peut-on pleinement ressentir les deux ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-19",
+        "title": "Quelle est la relation entre intelligence et sagesse — et pourquoi divergent-elles si souvent ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-20",
+        "title": "Comment entretenir l'amour — pour des personnes, des idées ou un travail — quand il cesse d'être naturel ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-21",
+        "title": "Comment penser la complicité — où commence-t-elle et où s'arrête-t-elle ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-22",
+        "title": "Qu'est-ce qui te motive le plus au travail ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-23",
+        "title": "Qu'est-ce qui te distingue professionnellement de quelqu'un au profil similaire ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-24",
+        "title": "Parle-moi d'une fois où tu as soutenu un collègue en difficulté.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "football-25",
+        "title": "Parle-moi d'une fois où tu as dû donner un retour difficile à quelqu'un.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-26",
+        "title": "Décris une fois où tu as dû dire non au travail et assumer ce refus.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-27",
+        "title": "Comment maintiens-tu ta concentration sur un projet long terme quand aucun retour à court terme ne t'indique que ça marche ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "football-28",
+        "title": "Comment prends-tu des décisions à forts enjeux quand le résultat affectera considérablement d'autres personnes que toi ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-29",
+        "title": "Parle-moi d'une fois où tu as dû demander des comptes à ton équipe pour un échec sans détruire la confiance ni le moral.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "football-30",
+        "title": "Comment diriges-tu quand l'équipe dont tu es responsable a perdu confiance dans la direction que tu prends ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "science": [
+      {
+        "id": "science-1",
+        "title": "Si tu pouvais dîner avec trois personnes de ton choix, qui seraient-elles ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-2",
+        "title": "Quelle est ta série ou ton film réconfortant de prédilection ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-3",
+        "title": "Quel est ton moment préféré de la journée et pourquoi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-4",
+        "title": "Quel est le plat le plus inhabituel que tu aies goûté et apprécié ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-5",
+        "title": "Si tu pouvais devenir instantanément bilingue dans une langue, laquelle choisirais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-6",
+        "title": "Qu'aimerais-tu faire davantage cette année ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-7",
+        "title": "Quelle décision prise à la vite s'est révélée bonne ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-8",
+        "title": "Comment restes-tu motivé quand tu travailles vers un objectif à long terme ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-9",
+        "title": "Comment décides-tu quand persévérer et quand abandonner ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-10",
+        "title": "Comment gères-tu une situation où tes valeurs entrent en conflit avec celles de quelqu'un ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-11",
+        "title": "Comment décides-tu de ce qui mérite qu'on se batte pour ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-12",
+        "title": "Comment te remets-tu d'un épuisement créatif ou professionnel ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-13",
+        "title": "Comment gères-tu l'écart entre qui tu es et qui tu veux être ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-14",
+        "title": "À quoi ressemble la responsabilité dans tes relations ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-15",
+        "title": "Quelle est la nature de la conscience — et qu'est-ce qui fait que nous sommes qui nous sommes ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-16",
+        "title": "Comment décides-tu de ce que tu dois aux générations futures que tu ne rencontreras jamais ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-17",
+        "title": "Quelle est la différence entre aimer quelqu'un et en avoir besoin ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-18",
+        "title": "Comment distinguer la colère juste de la rage destructrice ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-19",
+        "title": "Est-il possible de se soucier de la justice sans colère — et devrions-nous même essayer ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-20",
+        "title": "Existe-t-il des actes impardonnables, ou le pardon est-il toujours possible en principe ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-21",
+        "title": "Que prioriserait un système éducatif réellement humain ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-22",
+        "title": "Comment gères-tu stress et pression — déroule-moi un exemple concret.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-23",
+        "title": "Comment gères-tu une échéance qui semble impossible à tenir ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-24",
+        "title": "Comment réagis-tu quand une évaluation met en lumière un point avec lequel tu n'es pas d'accord ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "science-25",
+        "title": "Comment gères-tu le fait de travailler sous un manager dont tu contestes régulièrement le jugement ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-26",
+        "title": "Comment fonctionnes-tu quand les consignes sont vagues et que personne n'a les réponses ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-27",
+        "title": "Parle-moi d'une fois où quelque chose en quoi tu croyais et que tu défendais a fini par échouer.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "science-28",
+        "title": "Décris une fois où tu as dû contester un processus, une politique ou une décision adossée à un poids institutionnel.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-29",
+        "title": "Comment prends-tu des décisions quand l'équité et le pragmatisme sont réellement en conflit ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "science-30",
+        "title": "Décris une fois où tu as dû créer une véritable convergence entre des personnes aux positions fondamentalement opposées.",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "history": [
+      {
+        "id": "history-1",
+        "title": "Quel livre tout le monde devrait-il lire ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-2",
+        "title": "Décris ton endroit préféré pour lire ou réfléchir.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-3",
+        "title": "Qu'est-ce que tu fais et que d'autres pourraient trouver étrange ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-4",
+        "title": "Si tu pouvais occuper le métier de ton choix pour une seule journée, lequel essayerais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-5",
+        "title": "Quel loisir créatif aimerais-tu essayer ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-6",
+        "title": "Quel est ton coin préféré pour réfléchir ou décompresser ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-7",
+        "title": "Qu'apprécies-tu le plus chez toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-8",
+        "title": "Qu'aimerais-tu avoir su plus tôt dans la vie ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-9",
+        "title": "En quoi crois-tu aujourd'hui alors que ce n'était pas le cas il y a cinq ans ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-10",
+        "title": "Qu'as-tu fait qui t'a surpris même toi-même ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-11",
+        "title": "Que ferais-tu différemment si tu savais que personne ne te jugeait ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-12",
+        "title": "Quel changement de mentalité a considérablement amélioré ta vie ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-13",
+        "title": "Qu'est-ce qui te pose vraiment problème dans la vie moderne ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-14",
+        "title": "Quelle source de sens t'a surpris ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-15",
+        "title": "Comment concilier les besoins individuels et le bien collectif ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-16",
+        "title": "Quelle est la différence entre une vie porteuse de sens et une vie simplement agréable ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-17",
+        "title": "Comment porter la tension entre accepter le monde tel qu'il est et œuvrer à le changer ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-18",
+        "title": "L'espoir est-il une forme de réalisme ou une stratégie pour affronter l'incertitude ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-19",
+        "title": "Comment protéger ce que nous aimons de l'attention même que suscite sa célébration ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-20",
+        "title": "Comment évaluer les arbitrages entre sécurité et liberté sans tomber dans les faux dilemmes ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-21",
+        "title": "Comment naviguer l'écart entre ce que nous croyons et comment nous agissons réellement ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-22",
+        "title": "Décris ton environnement de travail idéal.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-23",
+        "title": "Comment décrirais-tu ton éthique de travail à quelqu'un qui n'a jamais travaillé avec toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-24",
+        "title": "Que fais-tu réellement — et non ce que tu devrais faire — quand tu n'es pas d'accord avec ton manager ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "history-25",
+        "title": "Décris une fois où tu as dû prendre une décision importante avec une information incomplète.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-26",
+        "title": "Parle-moi d'une fois où tu as abîmé la confiance au travail et de la façon dont tu l'as reconstruite.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-27",
+        "title": "Comment exprimer un vrai désaccord avec un collègue que tu respectes sans abîmer la relation ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "history-28",
+        "title": "Parle-moi d'une fois où tu as dû garder ton calme quand la pression était réellement extrême.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-29",
+        "title": "Décris une fois où tu as pris une décision que tu savais impopulaire et où tu as dû la mener jusqu'au bout.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "history-30",
+        "title": "Comment gères-tu les situations où faire ce qui est éthique et faire ce qui est commercialement raisonnable s'opposent frontalement ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "tech": [
+      {
+        "id": "tech-1",
+        "title": "Quelle est ta saison préférée et pourquoi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-2",
+        "title": "Quelle est la dernière chose qui t'a fait sourire ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-3",
+        "title": "Quelle est la chose la plus intéressante dans la pièce où tu te trouves ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-4",
+        "title": "Quel compliment reçu t'est-il resté en mémoire ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-5",
+        "title": "Qu'aimes-tu le plus dans la saison actuelle ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-6",
+        "title": "Quelle petite chose fais-tu pour les autres qui compte beaucoup pour toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-7",
+        "title": "Quelle compétence de vie, selon toi, tout le monde devrait apprendre ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-8",
+        "title": "Comment gères-tu les désaccords avec tes amis ou ta famille ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-9",
+        "title": "Comment un échec a-t-il façonné ta façon d'aborder les choses aujourd'hui ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-10",
+        "title": "Comment traites-tu les émotions fortes ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-11",
+        "title": "Quelle opinion défends-tu et que tu affine encore ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-12",
+        "title": "Comment gères-tu un désaccord avec quelqu'un que tu respectes profondément ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-13",
+        "title": "Comment gardes-tu l'optimisme sans être naïf ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-14",
+        "title": "Comment abordes-tu quelqu'un qui t'a blessé sans le savoir ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-15",
+        "title": "Quel est le rôle de l'art et de la beauté dans la vie humaine ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-16",
+        "title": "Peut-on vraiment comprendre l'expérience d'autrui, ou ne fait-on que deviner ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-17",
+        "title": "Une société qui priorise l'efficacité peut-elle aussi être juste ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-18",
+        "title": "Que signifie être un bon ancêtre ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-19",
+        "title": "Qu'est-ce qui rend une excuse sincère ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-20",
+        "title": "Quel est le rôle du doute dans une vie porteuse de sens ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-21",
+        "title": "La vie examinée est-elle toujours meilleure que la vie non examinée ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-22",
+        "title": "Préfères-tu travailler de façon autonome ou en équipe — et pourquoi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-23",
+        "title": "Comment abordes-tu l'apprentissage de quelque chose que tu n'as jamais fait ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-24",
+        "title": "Parle-moi d'une fois où tu as dû apprendre rapidement un nouvel outil ou processus au travail.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "tech-25",
+        "title": "Comment bâtis-tu la confiance avec de nouveaux collègues — quelle est ta vraie méthode ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-26",
+        "title": "Comment porter assurance et humilité en même temps sans jouer la comédie de l'une ni de l'autre ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-27",
+        "title": "Décris une fois où tu as livré quelque chose de significatif dans des conditions qui auraient dû le rendre impossible.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "tech-28",
+        "title": "Comment gères-tu le fait de travailler avec quelqu'un qui te sabote activement et délibérément ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-29",
+        "title": "Comment traverses-tu les situations où il n'y a vraiment pas de bonne réponse ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "tech-30",
+        "title": "Parle-moi d'une fois où ton approche de direction a dû changer fondamentalement — pas seulement s'adapter, mais changer.",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "finance": [
+      {
+        "id": "finance-1",
+        "title": "Décris un week-end parfait pour toi.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-2",
+        "title": "Si tu avais un après-midi libre, comment le passerais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-3",
+        "title": "Quel est ton repas de secours quand tu ne veux pas cuisiner ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-4",
+        "title": "En quoi croyais-tu enfant et qui s'est révélé faux ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-5",
+        "title": "Quel est le dernier livre, podcast ou article que tu recommanderais ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-6",
+        "title": "Quel est ton restaurant ou café de quartier préféré — et que commandes-tu toujours ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-7",
+        "title": "Quelle chose fais-tu chaque jour qui t'apporte une vraie joie ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-8",
+        "title": "De quelle erreur as-tu le plus appris ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-9",
+        "title": "Que signifie la loyauté pour toi, concrètement ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-10",
+        "title": "Quelle habitude as-tu brisée — plus difficile que prévu ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-11",
+        "title": "Comment préserves-tu ton sens de soi dans une relation longue ou une amitié proche ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-12",
+        "title": "Quel objectif as-tu discrètement abandonné — et comment le vis-tu ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-13",
+        "title": "Quel arbitrage fais-tu au quotidien et dont tu parles rarement ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-14",
+        "title": "Qu'est-ce que tu as commencé à faire différemment grâce à l'exemple de quelqu'un ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-15",
+        "title": "Comment déterminons-nous ce qui est moralement bien ou mal ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-16",
+        "title": "Comment les systèmes de pouvoir façonnent-ils ce que nous croyons vrai ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-17",
+        "title": "Que devons-nous aux personnes que nous ne rencontrerons jamais mais dont la vie est affectée par nos choix ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-18",
+        "title": "Comment naviguer la tension entre liberté individuelle et obligation collective ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-19",
+        "title": "Comment décider ce qu'il faut préserver et ce qu'il faut laisser évoluer, pour la culture et l'identité ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-20",
+        "title": "Comment distinguer un véritable progrès moral de son illusion ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-21",
+        "title": "Comment concilier le désir d'être compris et la valeur du mystère préservé ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-22",
+        "title": "Comment un ancien collègue décrirait-il ta façon de travailler ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-23",
+        "title": "Parle-moi d'une fois où tu as dû t'adapter à un changement important au travail.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-24",
+        "title": "Qu'est-ce qui te motive quand l'avancement d'un projet long est invisible ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "finance-25",
+        "title": "Parle-moi d'une fois où tu as pris une initiative significative sans qu'on te le demande.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-26",
+        "title": "Décris une fois où tu as fait quelque chose de significatif qui échappait techniquement à ta fiche de poste.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-27",
+        "title": "Comment gères-tu quand tes priorités sont changées à ta place — de façon répétée et sans prévenir ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "finance-28",
+        "title": "Décris une fois où tu as dû établir ta crédibilité dans un environnement réticent à te l'accorder.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-29",
+        "title": "Parle-moi d'une fois où tu as dirigé à travers une période de vraie incertitude ou de crise — non pas en l'esquivant, mais en la traversant.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "finance-30",
+        "title": "Comment crées-tu une culture d'équipe où l'échec devient apprentissage plutôt que chose à cacher ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "roast": [
+      {
+        "id": "roast-1",
+        "title": "Qu'est-ce qui te fait toujours rire ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-2",
+        "title": "Qu'attends-tu avec impatience cette semaine ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-3",
+        "title": "Quelle est la chose la plus drôle qui t'arrive récemment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-4",
+        "title": "Quelle est ta façon préférée de célébrer une petite victoire ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-5",
+        "title": "Quelle compétence sous-estimée t'aide au quotidien ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-6",
+        "title": "Quel rêve d'enfance as-tu encore en tête ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-7",
+        "title": "Quel mot ou expression décrit ton humeur du moment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-8",
+        "title": "Comment équilibres-tu travail/études et vie personnelle ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-9",
+        "title": "Quand as-tu pour la dernière fois sorti de ta zone de confort — et qu'est-il arrivé ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-10",
+        "title": "À quoi as-tu renoncé pour un objectif — et cela en valait-il la peine ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-11",
+        "title": "À quoi travailles-tu dur en ce moment sans que la plupart des gens le voient ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-12",
+        "title": "À quoi ressemble concrètement, pour toi, « être bienveillant envers soi-même » ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-13",
+        "title": "Quelle force personnelle t'a aussi causé des problèmes ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-14",
+        "title": "Comment restes-tu curieux quand tu as le sentiment que tu devrais déjà savoir ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-15",
+        "title": "Quelle est la relation entre vérité et perception ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-16",
+        "title": "Est-il plus éthique de réformer un système défaillant de l'intérieur ou de le rejeter entièrement ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-17",
+        "title": "La souffrance a-t-elle un sens en soi, ou ne lui en attribuons-nous un qu'a posteriori ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-18",
+        "title": "Que perd-on quand on réduit des expériences humaines complexes à des données ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-19",
+        "title": "Existe-t-il un savoir qui ne peut s'acquérir que par la souffrance ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-20",
+        "title": "Que signifie être courageux quand personne ne regarde ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-21",
+        "title": "Quelle est la chose la plus honnête que tu puisses dire sur ce que tu ignores ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-22",
+        "title": "Comment hiérarchises-tu tes tâches quand tout semble urgent ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-23",
+        "title": "Comment construis-tu de vraies relations avec des personnes que tu viens de rencontrer au travail ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-24",
+        "title": "Que signifie réellement pour toi, en pratique, l'équilibre vie pro/vie perso ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "roast-25",
+        "title": "Décris un projet qui a mal tourné. Qu'est-ce qui a échoué, et qu'as-tu fait ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-26",
+        "title": "Comment gardes-tu ton calme quand les enjeux sont élevés et que tout part de travers ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-27",
+        "title": "Parle-moi d'une fois où tu as dû gagner la confiance de quelqu'un à partir d'un scepticisme ou d'une méfiance initiale.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "roast-28",
+        "title": "Comment te prémunis-tu activement de tes propres angles morts dans tes décisions ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-29",
+        "title": "Comment instaurer la responsabilisation dans une équipe sans créer une culture où les gens ont peur d'échouer ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "roast-30",
+        "title": "Décris une fois où tu as dû communiquer une orientation qu'on te demandait d'appliquer mais sur laquelle tu avais des doutes personnels.",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "pitch": [
+      {
+        "id": "pitch-1",
+        "title": "Quel genre de musique préfères-tu — et quand l'écoutes-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-2",
+        "title": "Quel était ton goûter préféré dans l'enfance ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-3",
+        "title": "Si tu avais un super-pouvoir pour une journée, lequel serait-ce ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-4",
+        "title": "Quel film ou quelle série recommanderais-tu à tout le monde ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-5",
+        "title": "Qu'aimes-tu le plus cuisiner ou pâtisser ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-6",
+        "title": "Qu'est-ce que tu trouves beau dans la vie de tous les jours ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-7",
+        "title": "Pour quoi aimerais-tu qu'on te retienne ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-8",
+        "title": "Sur quoi travailles-tu pour t'améliorer ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-9",
+        "title": "Qu'as-tu fait qui demandait plus de courage qu'on ne le croit ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-10",
+        "title": "Comment réagis-tu quand quelqu'un remet en cause ton identité ou tes valeurs ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-11",
+        "title": "Comment distingues-tu l'intuition de la peur ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-12",
+        "title": "Quand te paraît-il le plus difficile d'être honnête ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-13",
+        "title": "Comment choisis-tu où consacrer ton temps quand tout semble urgent ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-14",
+        "title": "Quelle partie de toi-même as-tu récemment appris à mieux accepter ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-15",
+        "title": "Comment trouver du sens dans un univers en apparence aléatoire ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-16",
+        "title": "Que signifie assumer la responsabilité d'un préjudice que tu n'as pas voulu ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-17",
+        "title": "Comment préserver son intégrité quand la survie semble exiger des compromis ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-18",
+        "title": "La justice peut-elle réparer pleinement le préjudice, ou certains dommages persistent-ils malgré tout ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-19",
+        "title": "Comment penser la dignité dans un monde où celle de tant de gens est bafouée quotidiennement ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-20",
+        "title": "La quête de certitude est-elle elle-même une forme d'échec intellectuel ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-21",
+        "title": "Comment vivre avec le savoir que l'essentiel de ce que nous faisons sera oublié ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-22",
+        "title": "Quelle est ta plus grande réussite professionnelle à ce jour ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-23",
+        "title": "Que fais-tu quand on te confie une tâche hors de ton domaine d'expertise ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-24",
+        "title": "Comment as-tu réellement abouti à la carrière que tu poursuis — pas la version lissée, la vraie ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "pitch-25",
+        "title": "Comment gères-tu le fait d'avoir visiblement tort devant ton équipe ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-26",
+        "title": "Parle-moi d'une fois où tu as dû collaborer étroitement avec quelqu'un qui fonctionnait très différemment de toi.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-27",
+        "title": "Décris une situation où ce qu'on te demandait et ce que tu croyais juste étaient en tension.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "pitch-28",
+        "title": "Parle-moi d'une fois où tu as dû annoncer une nouvelle réellement dévastatrice aux parties prenantes.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-29",
+        "title": "Décris une fois où ton jugement professionnel a été ouvertement remis en cause. Comment as-tu réagi ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "pitch-30",
+        "title": "Comment décides-tu quand continuer à affronter l'adversité et quand changer de cap est le choix le plus malin ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "conspiracy": [
+      {
+        "id": "conspiracy-1",
+        "title": "Si tu pouvais voyager n'importe où, où irais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-2",
+        "title": "Si tu pouvais te renommer, quel prénom choisirais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-3",
+        "title": "Quelle tradition aimes-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-4",
+        "title": "Quelle est ton approche pour faire de nouvelles rencontres ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-5",
+        "title": "Quel est l'endroit le plus paisible où tu aies jamais été ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-6",
+        "title": "Quel est le meilleur conseil que tu aies ignoré — et que tu aurais ensuite regretté d'avoir ignoré ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-7",
+        "title": "Quelle est ta façon préférée de créer un lien avec quelqu'un de nouveau ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-8",
+        "title": "Comment gères-tu l'échec ou les revers ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-9",
+        "title": "Comment sais-tu que tu as trouvé ta voie ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-10",
+        "title": "Quelle leçon as-tu dû apprendre à tes dépens ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-11",
+        "title": "Quel moment as-tu dû choisir entre la facilité et ce qui était juste ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-12",
+        "title": "Qu'as-tu appris en observant l'erreur de quelqu'un d'autre ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-13",
+        "title": "Qu'as-tu fait par obligation et qui s'est révélé porteur de sens ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-14",
+        "title": "Comment empêches-tu la critique de devenir le doute de soi ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-15",
+        "title": "Quelle est la nature du temps — et comment façonne-t-il notre expérience ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-16",
+        "title": "Comment peser la souffrance d'un seul face au bénéfice du plus grand nombre ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-17",
+        "title": "Quelle est la relation entre mémoire et identité — si tu perdais tous tes souvenirs, serais-tu encore toi ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-18",
+        "title": "Comment évaluer l'éthique d'une action quand ses conséquences ne seront connues que dans des générations ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-19",
+        "title": "Que signifie écouter profondément — et pourquoi est-ce si rare ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-20",
+        "title": "Comment nous rapportons-nous à une version de nous-mêmes que nous ne reconnaissons plus ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-21",
+        "title": "Existe-t-il une forme de courage qui n'a rien à voir avec la peur ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-22",
+        "title": "Comment gères-tu les retours et critiques — positifs comme négatifs ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-23",
+        "title": "Parle-moi d'une fois où tu as fait preuve d'initiative sans qu'on te le demande.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-24",
+        "title": "Quel type de travail te fait perdre la notion du temps — et qu'est-ce que cela te dit de toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "conspiracy-25",
+        "title": "Parle-moi d'une fois où tu as dû jongler avec plusieurs tâches prioritaires sans bon moyen de tout mener à bien.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-26",
+        "title": "Comment abordes-tu une échéance réellement impossible à tenir sans bâcler ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-27",
+        "title": "Parle-moi d'une fois où tu as dû livrer des résultats avec moins de ressources que le travail n'en exigeait réellement.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "conspiracy-28",
+        "title": "Comment équilibres-tu ce qui doit se faire aujourd'hui et ce que tu essaies de bâtir pour le long terme ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-29",
+        "title": "Comment maintiens-tu la confiance de ton équipe quand tes décisions sont difficiles ou impopulaires ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "conspiracy-30",
+        "title": "Parle-moi d'une fois où tu as compris que tu étais la source du problème — pas l'environnement, pas l'équipe, toi.",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "worst-take": [
+      {
+        "id": "worst-take-1",
+        "title": "Quel est le meilleur repas que tu aies jamais mangé ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-2",
+        "title": "Quelle petite chose rend une mauvaise journée meilleure ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-3",
+        "title": "Qu'as-tu découvert récemment et que tu apprécies ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-4",
+        "title": "Pour quel loisir aimerais-tu avoir plus de temps ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-5",
+        "title": "Qu'aimes-tu faire pour recharger tes batteries ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-6",
+        "title": "Quelle activité simple est pour toi un luxe ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-7",
+        "title": "Quelle expérience a changé ta vision du monde ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-8",
+        "title": "Quelle décision a changé le cours de ta vie ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-9",
+        "title": "Quel est le « non » le plus difficile que tu aies eu à dire ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-10",
+        "title": "Comment empêches-tu tes ambitions d'écraser ton contentement ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-11",
+        "title": "Comment gères-tu le fait d'avoir tort devant les autres ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-12",
+        "title": "Comment sépares-tu ton identité de tes réussites ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-13",
+        "title": "Comment gères-tu le sentiment d'être bloqué ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-14",
+        "title": "Quelle habitude as-tu instaurée et qui reflète tes valeurs ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-15",
+        "title": "Comment concilier le progrès et la préservation de la tradition ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-16",
+        "title": "Le bonheur exige-t-il du sens — ou le sens peut-il exister sans bonheur ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-17",
+        "title": "L'amour peut-il se maintenir malgré des différences fondamentales de vision du monde ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-18",
+        "title": "Quelle est la relation entre richesse et sagesse — l'une permet-elle ou corrompt-elle l'autre ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-19",
+        "title": "Comment éviter le piège d'optimiser notre vie au détriment de sa vive ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-20",
+        "title": "Que signifierait vraiment prioriser la pensée long terme dans un monde construit pour les récompenses immédiates ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-21",
+        "title": "Comment garder vive notre imagination morale quand la routine l'émousse ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-22",
+        "title": "Quel type de manager révèle le meilleur de toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-23",
+        "title": "Comment gères-tu un collègue avec qui tu as vraiment du mal à travailler ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-24",
+        "title": "À quoi ressemblerait une prochaine étape porteuse de sens dans ta carrière — et comment saurais-tu si tu t'es trompé ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "worst-take-25",
+        "title": "Comment restes-tu vraiment motivé quand le travail est répétitif ou paraît absurde ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-26",
+        "title": "Décris une fois où tu as aidé quelqu'un de ton équipe à progresser — qu'as-tu concrètement fait ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-27",
+        "title": "Comment gères-tu le fait de recevoir des consignes de deux personnes qui se contredisent frontalement ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "worst-take-28",
+        "title": "Comment tiens-tu tes principes quand la pression professionnelle au compromis est forte et persistante ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-29",
+        "title": "Parle-moi d'une fois où tu as dû entièrement abandonner les hypothèses sur lesquelles tu avais bâti ton approche.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "worst-take-30",
+        "title": "Comment diriges-tu de façon à faire grandir les gens autour de toi sans que cela ne pénalise tes propres livrables ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "hot-takes": [
+      {
+        "id": "hot-takes-1",
+        "title": "Quelle compétence aimerais-tu apprendre ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-2",
+        "title": "Quel temps préfères-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-3",
+        "title": "Quelle est ta façon préférée d'engager la conversation avec un inconnu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-4",
+        "title": "Qu'est-ce qui t'a surpris chez toi récemment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-5",
+        "title": "Quel objectif as-tu accompli récemment, grand ou petit ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-6",
+        "title": "Quel objet en ta possession a une valeur sentimentale ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-7",
+        "title": "Que les gens sous-estiment-ils souvent chez toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-8",
+        "title": "Comment détermines-tu tes priorités ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-9",
+        "title": "Comment décides-tu à qui faire confiance ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-10",
+        "title": "Que fais-tu quand tu te sens incompris ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-11",
+        "title": "Que signifie pour toi vivre avec intégrité ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-12",
+        "title": "Quelle attente d'autrui as-tu choisi de ne pas satisfaire ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-13",
+        "title": "Que signifie pour toi le repos — et te l'accordes-tu vraiment ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-14",
+        "title": "Comment penses-tu l'équilibre entre amélioration de soi et acceptation de soi ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-15",
+        "title": "Quelle est la relation entre langue et pensée ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-16",
+        "title": "Que perd-on quand une culture ou une langue disparaît — et qui en porte la responsabilité ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-17",
+        "title": "Comment penser le progrès moral — certaines façons de vivre sont-elles vraiment meilleures que d'autres ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-18",
+        "title": "Comment bâtir la confiance dans un monde où la manipulation est devenue sophistiquée ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-19",
+        "title": "Y a-t-il une différence entre s'adapter au monde et s'y rendre ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-20",
+        "title": "Est-il possible d'être une bonne personne dans l'isolement, ou la vertu exige-t-elle la communauté ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-21",
+        "title": "Quelle est la relation entre humilité et assurance — peut-on avoir pleinement les deux ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-22",
+        "title": "Parle-moi d'une fois où tu as travaillé avec succès au sein d'une équipe.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-23",
+        "title": "Quelles valeurs sont non négociables pour toi au travail ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-24",
+        "title": "Que dirait quelqu'un qui a travaillé étroitement avec toi sans être ton ami de ta qualité la plus sous-estimée ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "hot-takes-25",
+        "title": "Décris une fois où tu as dû obtenir des résultats par l'intermédiaire de quelqu'un sur qui tu n'avais aucune autorité.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-26",
+        "title": "Comment protèges-tu la qualité de ton travail quand la pression temporelle est extrême ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-27",
+        "title": "Décris une fois où tu t'es opposé à quelque chose qu'on attendait de toi — et ce que cela a coûté.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "hot-takes-28",
+        "title": "Parle-moi d'une fois où une initiative que tu menais a totalement échoué. Qu'as-tu fait ensuite — et qu'aurais-tu fait différemment ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-29",
+        "title": "Comment sais-tu quand un problème est à ta charge et quand il faut l'accepter et s'y adapter ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "hot-takes-30",
+        "title": "Quelle est la chose la plus difficile que tu aies eu à dire à quelqu'un professionnellement — et comment l'as-tu réellement dite ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "millennial": [
+      {
+        "id": "millennial-1",
+        "title": "Décris ton souvenir de vacances préféré.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-2",
+        "title": "Qu'as-tu toujours dans ton sac ou ta poche ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-3",
+        "title": "Quel appareil technologique te serait indispensable ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-4",
+        "title": "Quelle est l'appli la plus utile de ton téléphone ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-5",
+        "title": "Qu'aimes-tu le plus dans ta période de vie actuelle ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-6",
+        "title": "Quelle habitude as-tu empruntée à quelqu'un que tu admires ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-7",
+        "title": "Quel est ton emoji le plus utilisé — et qu'est-ce qu'il dit de toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-8",
+        "title": "Qu'est-ce qui te passionne et pourquoi ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-9",
+        "title": "Qu'as-tu dû désapprendre ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-10",
+        "title": "Dans quel domaine de ta vie te sens-tu encore en train de chercher ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-11",
+        "title": "Quelle limite personnelle as-tu récemment commencé à faire respecter ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-12",
+        "title": "Qu'aimerais-tu qu'on te demande plus souvent ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-13",
+        "title": "Quelle croyance sur la réussite as-tu dû remettre en cause ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-14",
+        "title": "Qu'est-ce que la plupart des gens comprennent mal de toi, selon toi ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-15",
+        "title": "Comment réconcilier la compréhension scientifique et l'expérience spirituelle ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-16",
+        "title": "L'ambition est-elle une vertu ou un vice — ou dépend-elle entièrement de son objet ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-17",
+        "title": "Quel est le rôle de la beauté dans une vie bien vécue ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-18",
+        "title": "Est-il possible d'être à la fois profondément attaché à ses convictions et sincèrement ouvert à l'erreur ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-19",
+        "title": "Comment construire la communauté quand l'individualisme est la valeur dominante ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-20",
+        "title": "Comment parler de ce que nous percevons sans pouvoir encore l'articuler ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-21",
+        "title": "Comment penser nos obligations envers ceux qui nous ont précédés ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-22",
+        "title": "Quels sont tes objectifs de carrière à court terme ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-23",
+        "title": "Parle-moi d'une fois où tu as allé bien au-delà de ce qu'on attendait de toi.",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-24",
+        "title": "À quoi ressemble concrètement, au quotidien, le fait de se sentir véritablement valorisé dans son rôle professionnel ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "millennial-25",
+        "title": "Comment abordes-tu l'acceptation d'une mission pour laquelle tu n'es pas pleinement qualifié ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-26",
+        "title": "Parle-moi d'une fois où tu as dû changer complètement de cap à mi-parcours d'un projet.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-27",
+        "title": "Quelle a été la décision professionnelle la plus difficile que tu aies prise — et qu'est-ce qui la rendait si dure ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "millennial-28",
+        "title": "Comment opérer efficacement quand tu vois clairement ce qu'il faudrait faire mais n'as aucune autorité pour le faire ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-29",
+        "title": "Décris une fois où tu as dû gérer les attentes quand il était clair que tu ne pourrais pas tenir ce qui avait été promis.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "millennial-30",
+        "title": "Décris une fois où ton instinct désignait une direction et les preuves une autre. Laquelle as-tu suivie — et qu'est-il arrivé ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "gen-z": [
+      {
+        "id": "gen-z-1",
+        "title": "Quelle est ta façon préférée de faire du sport ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-2",
+        "title": "Si tu pouvais ajouter une heure à ta journée, qu'en ferais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-3",
+        "title": "Si tu pouvais travailler de n'importe où, où choisirais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-4",
+        "title": "Quel lieu visité t'a semblé comme chez toi ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-5",
+        "title": "Qu'est-ce que tu détestais avant et que tu apprécies maintenant ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-6",
+        "title": "Qu'aimes-tu le plus dans les jours de pluie ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-7",
+        "title": "Quelle chose envisages-tu de faire sans cesse reportée ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-8",
+        "title": "Comment gères-tu l'incertitude face à l'avenir ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-9",
+        "title": "Comment restes-tu ancré quand tout semble chaotique ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-10",
+        "title": "Comment distingues-tu le fait de grandir du simple fait de changer ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-11",
+        "title": "Comment fais-tu la paix avec des décisions irréversibles ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-12",
+        "title": "Comment trouves-tu du sens dans les tâches répétitives ou banales ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-13",
+        "title": "Comment gères-tu l'incertitude de ne pas savoir comment les choses vont tourner ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-14",
+        "title": "Quel moment de ta vie a changé tes priorités ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-15",
+        "title": "Quel est le rôle de la souffrance dans la croissance et le développement humains ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-16",
+        "title": "Comment savoir si nos valeurs sont réellement les nôtres ou simplement héritées de notre environnement ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-17",
+        "title": "Comment éviter de confondre familiarité et vérité ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-18",
+        "title": "Quelle est la différence entre tolérance et acceptation — et cette distinction importe-t-elle ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-19",
+        "title": "Quelle est la relation entre pouvoir et corruption — la tendance corruptrice est-elle structurelle ou personnelle ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-20",
+        "title": "Quelle est la relation entre créativité et contrainte ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-21",
+        "title": "Que signifie prendre une idée au sérieux ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-22",
+        "title": "Comment définis-tu personnellement la réussite dans ton travail ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-23",
+        "title": "Comment décrirais-tu ton style de communication ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-24",
+        "title": "Quel type de problème te attire-t-il le plus naturellement à résoudre, même quand personne ne te le demande ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "gen-z-25",
+        "title": "Parle-moi d'une fois où tu as dû prendre une décision impopulaire et en assumer les conséquences.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-26",
+        "title": "Comment gères-tu le fait que quelque chose pour quoi tu t'es battu ne soit pas approuvé ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-27",
+        "title": "Décris une fois où tu as dû faire changer quelqu'un d'avis sur un sujet qu'il défendait avec force et sur le plan personnel.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "gen-z-28",
+        "title": "Décris une fois où tu as pris une décision juste pour l'organisation mais réellement dure pour ton équipe.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "gen-z-29",
+        "title": "Comment réagis-tu quand on te demande de faire quelque chose que tu juges vraiment mauvais ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ],
+    "eli5": [
+      {
+        "id": "eli5-1",
+        "title": "Pour quoi es-tu reconnaissant en ce moment ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-2",
+        "title": "Quelle chanson ne te lasse-t-elle jamais ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-3",
+        "title": "Qu'est-ce qui te met toujours de bonne humeur ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-4",
+        "title": "Quelle est ta façon préférée de passer un dimanche ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-5",
+        "title": "Si tu pouvais rencontrer un personnage de fiction, lequel choisirais-tu ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-6",
+        "title": "Quelle chose sur ta liste de rêves te paraît très réalisable ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-7",
+        "title": "Quel fait insolite connais-tu qui impressionne toujours ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-8",
+        "title": "Quel défi as-tu surmonté et qui t'a rendu plus fort ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-9",
+        "title": "Quelle relation t'a profondément changé ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-10",
+        "title": "Quel retour a d'abord piqué avant de se révéler utile ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-11",
+        "title": "Que fais-tu maintenant et dont tu espères que ton futur toi te remerciera ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-12",
+        "title": "Quel moment les mots de quelqu'un ont-ils changé ta trajectoire ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-13",
+        "title": "Quelle conversation évites-tu — et qu'est-ce qui te retient ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-14",
+        "title": "Comment abordes-tu un problème quand tu te sens dépassé ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-15",
+        "title": "Comment définir et mesurer le progrès humain ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-16",
+        "title": "Quelle est la relation entre justice et pardon — peut-on avoir les deux ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-17",
+        "title": "Quel est le coût de la certitude ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-18",
+        "title": "Comment penser le soi quand les neurosciences suggèrent qu'une si grande part de « nous » est inconsciente ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-19",
+        "title": "L'empathie peut-elle s'entraîner — et quelles sont les limites de sa portée ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-20",
+        "title": "Comment répondre à la beauté sans la marchandiser ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-21",
+        "title": "Comment choisir le type de monde que nous voulons aider à faire advenir ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-22",
+        "title": "Pourquoi as-tu choisi cette voie professionnelle ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-23",
+        "title": "Comment gères-tu des priorités concurrentes quand les deux semblent également urgentes ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-24",
+        "title": "Comment te prépares-tu — mentalement et concrètement — avant d'entrer dans une situation pour laquelle tu ne te sens pas prêt ?",
+        "talkingPoints": [],
+        "depth": "casual"
+      },
+      {
+        "id": "eli5-25",
+        "title": "Comment gères-tu la réception d'une critique que tu juges infondée ?",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-26",
+        "title": "Décris une fois où tu as repéré un problème tôt — avant qu'il ne devienne visible pour les autres.",
+        "talkingPoints": [],
+        "depth": "moderate"
+      },
+      {
+        "id": "eli5-27",
+        "title": "Parle-moi d'une fois où tu as fondamentalement changé ta façon de fonctionner suite à un retour — et ce que cela t'a réellement coûté.",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-28",
+        "title": "Comment maintiens-tu ton intégrité quand le chemin le plus facile exige d'y renoncer ?",
+        "talkingPoints": [],
+        "depth": "deep"
+      },
+      {
+        "id": "eli5-29",
+        "title": "Parle-moi d'une fois où tu as assumé — publiquement — la responsabilité de quelque chose qui n'était pas entièrement ta faute.",
+        "talkingPoints": [],
+        "depth": "deep"
+      }
+    ]
+  }
+}

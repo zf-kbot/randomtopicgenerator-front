@@ -38,3 +38,6 @@ pnpm-debug.log*
 
 # Local preview / temp
 /tmp
+
+# Local work data
+content/_work/

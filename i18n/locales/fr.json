@@ -1,0 +1,34 @@
+{
+  "site": {
+    "title": "Générateur de Sujets Aléatoires",
+    "tagline": "Obtenez un nouveau sujet en un clic — pour les conversations, l'écriture, les débats et les discours."
+  },
+  "modes": {
+    "topics": "Sujets",
+    "questions": "Questions",
+    "words": "Mots"
+  },
+  "controls": {
+    "mode": "Mode",
+    "category": "Catégorie",
+    "all": "Toutes",
+    "count": "Nombre de sujets",
+    "depth": "Profondeur",
+    "casual": "Décontracté",
+    "moderate": "Modéré",
+    "deep": "Approfondi",
+    "generate": "Générer"
+  },
+  "result": {
+    "copy": "Copier",
+    "copied": "Copié !",
+    "save": "Enregistrer",
+    "saved": "Enregistré"
+  },
+  "saved": {
+    "title": "Mes sujets enregistrés",
+    "empty": "Aucun sujet enregistré pour l'instant. Générez-en et cliquez sur Enregistrer !",
+    "clear": "Tout effacer"
+  },
+  "footer": "Un générateur de sujets aléatoires léger. Aucun compte requis."
+}
