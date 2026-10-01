@@ -8,7 +8,9 @@
       <h1>{{ t('site.title') }}</h1>
       <p>{{ t('site.tagline') }}</p>
     </header>
-    <TopicGenerator />
+    <div id="generator">
+      <TopicGenerator />
+    </div>
     <main class="seo-content">
       <section class="seo-block">
         <h2>{{ t('seo.intro.h2') }}</h2>
@@ -37,12 +39,26 @@
       </section>
 
       <section class="seo-block">
+        <h2>{{ t('seo.why.h2') }}</h2>
+        <div class="uc-grid">
+          <div v-for="(item, i) in whyItems" :key="i" class="uc-card">
+            <h3>{{ item.title }}</h3>
+            <p>{{ item.text }}</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="seo-block">
         <h2>{{ t('seo.faq.h2') }}</h2>
         <details v-for="(item, i) in faqItems" :key="i" class="faq-item">
           <summary>{{ item.q }}</summary>
           <p>{{ item.a }}</p>
         </details>
       </section>
+
+      <p class="seo-cta">
+        <a href="#generator">{{ t('seo.cta') }}</a>
+      </p>
     </main>
     <footer class="site-footer">
       <p>{{ t('footer') }} · <span class="build-info">build <code>{{ build.commit }}</code> · {{ buildTimeUtc }}</span></p>
@@ -76,7 +92,10 @@ useSeoMeta({
   description: () => t('seo.head.description'),
   ogTitle: () => t('seo.head.title'),
   ogDescription: () => t('seo.head.description'),
-  ogType: 'website'
+  ogType: 'website',
+  twitterCard: 'summary',
+  twitterTitle: () => t('seo.head.title'),
+  twitterDescription: () => t('seo.head.description')
 })
 const localeHead = useLocaleHead()
 useHead(() => localeHead.value)
@@ -94,6 +113,7 @@ const rawList = (key: string, enPath: string[]): any[] => {
 }
 const howSteps = computed(() => rawList('seo.how.steps', ['how', 'steps']))
 const useCaseItems = computed(() => rawList('seo.useCases.items', ['useCases', 'items']))
+const whyItems = computed(() => rawList('seo.why.items', ['why', 'items']))
 const faqItems = computed(() => rawList('seo.faq.items', ['faq', 'items']))
 
 // 结构化数据：WebApplication + FAQPage（SSG 时内联进 HTML）
@@ -230,6 +250,20 @@ useHead({
   padding: 0.7rem 1rem;
   margin: 0;
   font-size: 0.9rem;
+}
+.seo-cta {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 0.25rem;
+}
+.seo-cta a {
+  color: var(--primary);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 2px solid var(--primary-soft);
+}
+.seo-cta a:hover {
+  border-bottom-color: var(--primary);
 }
 .site-footer {
   margin-top: 2rem;

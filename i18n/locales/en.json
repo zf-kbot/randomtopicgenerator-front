@@ -87,6 +87,28 @@
         }
       ]
     },
+    "why": {
+      "h2": "Why use this random topic generator?",
+      "items": [
+        {
+          "title": "12,000+ prompts in every language",
+          "text": "Over 11,000 random topics, 500+ questions, and 400+ words in each of our 8 languages — every one sorted into categories and depth levels."
+        },
+        {
+          "title": "Free forever, no account",
+          "text": "All features are free with no sign-up and no usage limits. Saved topics stay in your browser — nothing is uploaded to a server."
+        },
+        {
+          "title": "17 categories, 3 depth levels",
+          "text": "From science and history to hot takes and icebreaker questions — filter by category and dial the depth from casual to deep."
+        },
+        {
+          "title": "Built for real use cases",
+          "text": "Designed with teachers, public speakers, writers, and ESL learners in mind — practical speech topics and writing prompts, not filler."
+        }
+      ]
+    },
+    "cta": "Ready to try it? Scroll back up, pick a category, and hit Generate — your next great topic is one click away.",
     "faq": {
       "h2": "Frequently asked questions",
       "items": [
