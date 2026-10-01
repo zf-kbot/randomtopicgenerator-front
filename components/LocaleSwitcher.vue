@@ -9,12 +9,18 @@ function withTrailingSlash(p: string): string {
   return p === '/' || p.endsWith('/') ? p : `${p}/`
 }
 
+// 下拉切换：SSG 静态页之间直接整页跳转，不做客户端路由
+function onChange(e: Event) {
+  const code = (e.target as HTMLSelectElement).value
+  window.location.href = withTrailingSlash(switchLocalePath(code))
+}
+
 const locales = [
-  { code: 'en', label: 'EN' },
+  { code: 'en', label: 'English' },
   { code: 'zh', label: '中文' },
-  { code: 'es', label: 'ES' },
-  { code: 'de', label: 'DE' },
-  { code: 'fr', label: 'FR' },
+  { code: 'es', label: 'Español' },
+  { code: 'de', label: 'Deutsch' },
+  { code: 'fr', label: 'Français' },
   { code: 'ja', label: '日本語' },
   { code: 'ko', label: '한국어' },
   { code: 'ru', label: 'Русский' }
@@ -22,13 +28,7 @@ const locales = [
 </script>
 
 <template>
-  <div class="lang-switch">
-    <a
-      v-for="l in locales"
-      :key="l.code"
-      :href="withTrailingSlash(switchLocalePath(l.code))"
-      :class="{ active: locale === l.code }"
-      :aria-current="locale === l.code ? 'true' : undefined"
-    >{{ l.label }}</a>
-  </div>
+  <select class="lang-select" :value="locale" aria-label="Language" @change="onChange">
+    <option v-for="l in locales" :key="l.code" :value="l.code">{{ l.label }}</option>
+  </select>
 </template>

@@ -74,31 +74,29 @@ body {
   color: var(--primary);
 }
 
-.lang-switch {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.lang-switch a {
+.lang-select {
   font-size: 13px;
-  color: var(--muted);
-  text-decoration: none;
-  padding: 4px 10px;
-  border-radius: 999px;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--surface);
+  padding: 6px 28px 6px 10px;
+  border-radius: 8px;
   border: 1px solid var(--border);
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236b7280' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
 }
 
-.lang-switch a:hover {
-  color: var(--primary);
+.lang-select:hover {
   border-color: var(--primary);
+  color: var(--primary);
 }
 
-.lang-switch a.active {
-  color: var(--primary);
-  border-color: var(--primary);
-  background: var(--primary-soft);
-  font-weight: 600;
+.lang-select:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 1px;
 }
 
 .panel {
