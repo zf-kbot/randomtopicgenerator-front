@@ -222,4 +222,26 @@ useHead({
   margin: 0;
   font-size: 0.9rem;
 }
+.site-footer {
+  margin-top: 2rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(124, 58, 237, 0.15);
+  text-align: center;
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+.site-footer p {
+  margin: 0;
+}
+.site-footer .build-info {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+  color: #9ca3af;
+}
+.site-footer .build-info code {
+  background: rgba(124, 58, 237, 0.08);
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+  color: #7c3aed;
+}
 </style>
