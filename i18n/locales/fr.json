@@ -30,5 +30,91 @@
     "empty": "Aucun sujet enregistré pour l'instant. Générez-en et cliquez sur Enregistrer !",
     "clear": "Tout effacer"
   },
-  "footer": "Un générateur de sujets aléatoires léger. Aucun compte requis."
+  "footer": "Un générateur de sujets aléatoires léger. Aucun compte requis.",
+  "seo": {
+    "head": {
+      "title": "Générateur de Sujets Aléatoires – Sujets, Questions et Mots Gratuits",
+      "description": "Générateur de sujets aléatoires gratuit : obtenez des sujets, questions et mots au hasard pour vos conversations, écrits, débats et discours. 17 catégories, 3 modes, sans inscription."
+    },
+    "intro": {
+      "h2": "Qu'est-ce qu'un générateur de sujets aléatoires ?",
+      "p1": "Un générateur de sujets aléatoires vous donne sur-le-champ un sujet dont parler, écrire ou réfléchir : un clic, et une nouvelle idée apparaît. Cet outil gratuit propose trois modes (Sujets, Questions et Mots) dans 17 catégories, des sciences et de l'histoire à la tech et aux avis tranchés, pour que vous ayez toujours sous la main des sujets de conversation, des idées d'écriture et des thèmes de débat.",
+      "p2": "Contrairement à un simple générateur de mots, chaque sujet comporte un niveau de profondeur : brise-glace décontractés pour une soirée, questions modérées entre amis ou sujets approfondis pour les dissertations et les présentations. Rien à installer, aucun compte requis : choisissez un mode, une catégorie, et générez."
+    },
+    "how": {
+      "h2": "Comment utiliser le générateur de sujets aléatoires",
+      "steps": [
+        {
+          "title": "Choisissez un mode",
+          "text": "Sélectionnez Sujets pour des sujets aléatoires, Questions pour des lanceurs de conversation ou Mots pour des mots isolés tirés au hasard."
+        },
+        {
+          "title": "Choisissez une catégorie et une profondeur",
+          "text": "Restreignez à l'une des 17 catégories — ou laissez Toutes — et réglez la profondeur, de décontracté à approfondi."
+        },
+        {
+          "title": "Générez, enregistrez, copiez",
+          "text": "Cliquez sur Générer pour une nouvelle série. Copiez le sujet de votre choix ou enregistrez vos favoris — sans aucune inscription."
+        }
+      ]
+    },
+    "useCases": {
+      "h2": "Dans quels cas l'utiliser ?",
+      "items": [
+        {
+          "title": "Conversations",
+          "text": "Ne restez plus jamais à court de sujets. Piochez des lanceurs de conversation au hasard pour vos amis, vos rendez-vous ou les dîners de famille."
+        },
+        {
+          "title": "Écriture et remue-méninges",
+          "text": "Vainquez la page blanche grâce à des idées d'écriture aléatoires pour le journal intime, les dissertations, les blogs et la fiction."
+        },
+        {
+          "title": "Éloquence improvisée",
+          "text": "Entraînez-vous à parler une minute sur un sujet aléatoire — un exercice classique d'art oratoire et des sessions Table Topics."
+        },
+        {
+          "title": "Débats et discussions",
+          "text": "Trouvez des thèmes de débat et des avis tranchés qui déclenchent des arguments vifs et structurés en classe comme au travail."
+        },
+        {
+          "title": "Classe et FLE",
+          "text": "Les enseignants et les apprenants en français utilisent questions et sujets aléatoires pour gagner en assurance à l'oral, échauffer la classe ou meubler les cinq dernières minutes."
+        },
+        {
+          "title": "Brise-glace et fêtes",
+          "text": "Générez des questions brise-glace amusantes pour les réunions, les team buildings, les soirées jeux et les fêtes."
+        }
+      ]
+    },
+    "faq": {
+      "h2": "Questions fréquentes",
+      "items": [
+        {
+          "q": "Ce générateur de sujets aléatoires est-il gratuit ?",
+          "a": "Oui. Il est entièrement gratuit, sans compte, sans inscription et sans limite : ouvrez la page et lancez-vous."
+        },
+        {
+          "q": "Quelle est la différence entre Sujets, Questions et Mots ?",
+          "a": "Sujets fournit des thèmes complets à traiter à l'oral ou à l'écrit, Questions fournit des lanceurs de conversation prêts à poser et Mots fournit des mots isolés tirés au hasard pour les jeux rapides et le remue-méninges."
+        },
+        {
+          "q": "Combien de catégories sont disponibles ?",
+          "a": "Il y a 17 catégories, dont Général, Sciences, Histoire, Tech, Finance, Football, Avis tranchés et plus encore. Choisissez Toutes pour piocher dans l'ensemble à la fois."
+        },
+        {
+          "q": "Peut-on l'utiliser pour les discours et les activités de classe ?",
+          "a": "Bien sûr. Il est très prisé pour l'entraînement à l'éloquence improvisée (comme les Table Topics de Toastmasters), les échauffements en classe, la pratique orale et la préparation des débats."
+        },
+        {
+          "q": "Existe-t-il dans d'autres langues ?",
+          "a": "Oui — le générateur prend en charge 8 langues : français, anglais, chinois, espagnol, allemand, japonais, coréen et russe. Changez de langue via le sélecteur en haut de page."
+        },
+        {
+          "q": "Faut-il créer un compte ?",
+          "a": "Non. Les sujets enregistrés sont stockés localement dans votre navigateur : rien à inscrire, rien à installer."
+        }
+      ]
+    }
+  }
 }
