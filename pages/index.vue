@@ -1,9 +1,12 @@
 <template>
   <div class="wrap">
+    <nav class="navbar">
+      <a class="brand" :href="homePath">{{ t('site.title') }}</a>
+      <LocaleSwitcher />
+    </nav>
     <header class="site-header">
       <h1>{{ t('site.title') }}</h1>
       <p>{{ t('site.tagline') }}</p>
-      <LocaleSwitcher />
     </header>
     <TopicGenerator />
     <main class="seo-content">
@@ -50,10 +53,16 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { useLocaleHead } from '#i18n'
+import { useLocaleHead, useLocalePath } from '#i18n'
 import enSeo from '~/i18n/locales/en.json'
 
 const { t, tm } = useI18n()
+const localePath = useLocalePath()
+// 本站路由强制尾斜杠（见 LocaleSwitcher.withTrailingSlash 注释）
+const homePath = computed(() => {
+  const p = localePath('/')
+  return p === '/' || p.endsWith('/') ? p : `${p}/`
+})
 const appConfig = useAppConfig() as any
 const build = appConfig.build ?? { commit: 'unknown', time: '' }
 const buildTimeUtc = computed(() => {
