@@ -87,6 +87,28 @@
         }
       ]
     },
+    "why": {
+      "h2": "Warum diesen zufälligen Themen-Generator verwenden?",
+      "items": [
+        {
+          "title": "Über 12.000 Themen in jeder Sprache",
+          "text": "Mehr als 11.000 zufällige Themen, 500+ Fragen und 400+ Wörter in jeder unserer 8 Sprachen – alle nach Kategorie und Tiefenstufe sortiert."
+        },
+        {
+          "title": "Für immer kostenlos, ohne Konto",
+          "text": "Alle Funktionen sind kostenlos – ohne Anmeldung und ohne Nutzungslimits. Gespeicherte Themen bleiben in deinem Browser: Nichts wird auf einen Server hochgeladen."
+        },
+        {
+          "title": "17 Kategorien, 3 Tiefenstufen",
+          "text": "Von Wissenschaft und Geschichte bis hin zu gewagten Meinungen und Eisbrecher-Fragen: nach Kategorie filtern und die Tiefe von locker bis tief einstellen."
+        },
+        {
+          "title": "Für echte Anwendungsfälle gebaut",
+          "text": "Gemacht für Lehrkräfte, Redner, Schreibende und Deutschlernende – praxisnahe Redethemen und Schreibimpulse statt Füllmaterial."
+        }
+      ]
+    },
+    "cta": "Bereit zum Ausprobieren? Scroll nach oben, wähle eine Kategorie und klicke auf Generieren – dein nächstes gutes Thema ist nur einen Klick entfernt.",
     "faq": {
       "h2": "Häufige Fragen",
       "items": [
