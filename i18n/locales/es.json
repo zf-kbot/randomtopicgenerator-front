@@ -87,6 +87,28 @@
         }
       ]
     },
+    "why": {
+      "h2": "¿Por qué usar este generador de temas aleatorios?",
+      "items": [
+        {
+          "title": "Más de 12.000 temas en cada idioma",
+          "text": "Más de 11.000 temas aleatorios, 500+ preguntas y 400+ palabras en cada uno de nuestros 8 idiomas, todos ordenados por categoría y nivel de profundidad."
+        },
+        {
+          "title": "Gratis para siempre, sin cuenta",
+          "text": "Todas las funciones son gratis, sin registro y sin límites de uso. Los temas guardados se quedan en tu navegador: nada se sube a ningún servidor."
+        },
+        {
+          "title": "17 categorías, 3 niveles de profundidad",
+          "text": "Desde ciencia e historia hasta opiniones polémicas y preguntas rompehielos: filtra por categoría y ajusta la profundidad de casual a profunda."
+        },
+        {
+          "title": "Creado para casos de uso reales",
+          "text": "Pensado para profesores, oradores, escritores y estudiantes de idiomas: temas para discursos e ideas de escritura prácticas, sin relleno."
+        }
+      ]
+    },
+    "cta": "¿Listo para probarlo? Vuelve arriba, elige una categoría y pulsa Generar: tu próximo gran tema está a un clic.",
     "faq": {
       "h2": "Preguntas frecuentes",
       "items": [
