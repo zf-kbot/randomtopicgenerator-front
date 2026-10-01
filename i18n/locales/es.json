@@ -30,5 +30,91 @@
     "empty": "Aún no hay temas guardados. ¡Genera algunos y pulsa Guardar!",
     "clear": "Borrar todo"
   },
-  "footer": "Un generador de temas aleatorios ligero. Sin necesidad de cuenta."
+  "footer": "Un generador de temas aleatorios ligero. Sin necesidad de cuenta.",
+  "seo": {
+    "head": {
+      "title": "Generador de Temas Aleatorios – Temas, Preguntas y Palabras Gratis",
+      "description": "Generador de temas aleatorios gratis: obtén temas, preguntas y palabras al azar para conversaciones, escritura, debates y discursos. 17 categorías, 3 modos, sin registro."
+    },
+    "intro": {
+      "h2": "¿Qué es un generador de temas aleatorios?",
+      "p1": "Un generador de temas aleatorios te da al instante un asunto del que hablar, escribir o pensar: un clic y aparece una idea nueva. Esta herramienta gratuita funciona en tres modos (Temas, Preguntas y Palabras) en 17 categorías, desde ciencia e historia hasta tecnología y opiniones polémicas, para que siempre tengas a mano temas de conversación, ideas de escritura y temas de debate.",
+      "p2": "A diferencia de un simple generador de palabras, cada tema incluye profundidad: rompehielos casuales para una fiesta, preguntas moderadas para amigos o temas profundos para ensayos y presentaciones. Nada que instalar y sin cuenta: elige un modo, escoge una categoría y genera."
+    },
+    "how": {
+      "h2": "Cómo usar el generador de temas aleatorios",
+      "steps": [
+        {
+          "title": "Elige un modo",
+          "text": "Selecciona Temas para temas aleatorios, Preguntas para temas de conversación o Palabras para palabras sueltas al azar."
+        },
+        {
+          "title": "Elige categoría y profundidad",
+          "text": "Redúcelo a una de las 17 categorías — o déjalo en Todas — y ajusta la profundidad de casual a profunda."
+        },
+        {
+          "title": "Genera, guarda y copia",
+          "text": "Pulsa Generar para una tanda nueva. Copia cualquier tema o guarda tus favoritos para después — sin registro."
+        }
+      ]
+    },
+    "useCases": {
+      "h2": "¿Para qué puedes usarlo?",
+      "items": [
+        {
+          "title": "Conversaciones",
+          "text": "Nunca te quedes sin temas de los que hablar. Saca temas de conversación al azar para amigos, citas o cenas familiares."
+        },
+        {
+          "title": "Escritura y creatividad",
+          "text": "Vence el bloqueo del escritor con ideas de escritura al azar para diarios, ensayos, blogs y ficción."
+        },
+        {
+          "title": "Oratoria improvisada",
+          "text": "Practica hablar un minuto sobre un tema al azar: un ejercicio clásico de oratoria y de sesiones Table Topics."
+        },
+        {
+          "title": "Debates y discusiones",
+          "text": "Encuentra temas de debate y opiniones polémicas que despierten argumentos afilados y estructurados en clase o en el trabajo."
+        },
+        {
+          "title": "Aula y ELE",
+          "text": "Profesores y estudiantes de español usan preguntas y temas al azar para ganar confianza al hablar, calentar la clase o llenar los últimos cinco minutos."
+        },
+        {
+          "title": "Rompehielos y fiestas",
+          "text": "Genera preguntas rompehielos divertidas para reuniones, team building, noches de juegos y fiestas."
+        }
+      ]
+    },
+    "faq": {
+      "h2": "Preguntas frecuentes",
+      "items": [
+        {
+          "q": "¿Este generador de temas aleatorios es gratis?",
+          "a": "Sí. Es completamente gratis, sin cuenta, sin registro y sin límites: abre la página y empieza a generar."
+        },
+        {
+          "q": "¿Cuál es la diferencia entre Temas, Preguntas y Palabras?",
+          "a": "Temas te da asuntos completos para hablar o escribir, Preguntas te da temas de conversación listos para preguntar y Palabras te da palabras sueltas al azar para juegos rápidos y lluvias de ideas."
+        },
+        {
+          "q": "¿Cuántas categorías hay?",
+          "a": "Hay 17 categorías, entre ellas General, Ciencia, Historia, Tecnología, Finanzas, Fútbol, Opiniones polémicas y más. Elige Todas para mezclarlas todas a la vez."
+        },
+        {
+          "q": "¿Puedo usarlo para discursos y actividades de clase?",
+          "a": "Por supuesto. Es muy popular para practicar oratoria improvisada (como los Table Topics de Toastmasters), calentar la clase, practicar conversación y preparar debates."
+        },
+        {
+          "q": "¿Funciona en otros idiomas?",
+          "a": "Sí: el generador está disponible en 8 idiomas: español, inglés, chino, alemán, francés, japonés, coreano y ruso. Cambia de idioma en el selector de arriba."
+        },
+        {
+          "q": "¿Necesito crear una cuenta?",
+          "a": "No. Los temas guardados se almacenan en tu navegador, así que no hay nada que registrar ni instalar."
+        }
+      ]
+    }
+  }
 }
