@@ -87,6 +87,28 @@
         }
       ]
     },
+    "why": {
+      "h2": "Pourquoi utiliser ce générateur de sujets aléatoires ?",
+      "items": [
+        {
+          "title": "Plus de 12 000 sujets dans chaque langue",
+          "text": "Plus de 11 000 sujets aléatoires, 500+ questions et 400+ mots dans chacune de nos 8 langues, tous classés par catégorie et niveau de profondeur."
+        },
+        {
+          "title": "Gratuit pour toujours, sans compte",
+          "text": "Toutes les fonctionnalités sont gratuites, sans inscription et sans limite d'utilisation. Les sujets enregistrés restent dans votre navigateur : rien n'est envoyé sur un serveur."
+        },
+        {
+          "title": "17 catégories, 3 niveaux de profondeur",
+          "text": "Des sciences et de l'histoire aux avis tranchés et aux questions brise-glace : filtrez par catégorie et réglez la profondeur, de décontractée à approfondie."
+        },
+        {
+          "title": "Conçu pour des usages réels",
+          "text": "Pensé pour les enseignants, les orateurs, les auteurs et les apprenants en langues : des sujets de discours et des idées d'écriture utiles, sans remplissage."
+        }
+      ]
+    },
+    "cta": "Envie d'essayer ? Remontez en haut de page, choisissez une catégorie et cliquez sur Générer : votre prochain bon sujet n'est qu'à un clic.",
     "faq": {
       "h2": "Questions fréquentes",
       "items": [
