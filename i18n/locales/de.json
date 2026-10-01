@@ -30,5 +30,91 @@
     "empty": "Noch keine Themen gespeichert. Erzeuge welche und klicke auf Speichern!",
     "clear": "Alle löschen"
   },
-  "footer": "Ein leichtgewichtiger zufälliger Themen-Generator. Kein Konto nötig."
+  "footer": "Ein leichtgewichtiger zufälliger Themen-Generator. Kein Konto nötig.",
+  "seo": {
+    "head": {
+      "title": "Zufälliger Themen-Generator – Kostenlose Themen, Fragen & Wörter",
+      "description": "Kostenloser Zufalls-Themengenerator: Hol dir zufällige Themen, Fragen und Wörter für Gespräche, Texte, Debatten und Reden. 17 Kategorien, 3 Modi, keine Anmeldung."
+    },
+    "intro": {
+      "h2": "Was ist ein zufälliger Themen-Generator?",
+      "p1": "Ein zufälliger Themen-Generator liefert dir auf Knopfdruck ein Thema zum Reden, Schreiben oder Nachdenken – ein Klick, und eine neue Idee erscheint. Dieses kostenlose Tool bietet drei Modi (Themen, Fragen und Wörter) in 17 Kategorien, von Wissenschaft und Geschichte bis Technik und gewagte Meinungen, damit du immer neue Gesprächsanlässe, Schreibideen und Debattenthemen griffbereit hast.",
+      "p2": "Anders als ein schlichter Wort-Generator hat jedes Thema eine Tiefenstaffel – lockere Eisbrecher für die Party, moderierte Fragen für Freunde oder anspruchsvolle Themen für Aufsätze und Präsentationen. Nichts zu installieren, kein Konto nötig: Modus wählen, Kategorie aussuchen, generieren."
+    },
+    "how": {
+      "h2": "So verwendest du den zufälligen Themen-Generator",
+      "steps": [
+        {
+          "title": "Modus wählen",
+          "text": "Wähle Themen für zufällige Themen, Fragen für Gesprächsanlässe oder Wörter für einzelne zufällige Wörter."
+        },
+        {
+          "title": "Kategorie und Tiefe wählen",
+          "text": "Grenze auf eine der 17 Kategorien ein – oder lass Alle stehen – und stelle die Tiefe von locker bis tief ein."
+        },
+        {
+          "title": "Generieren, speichern, kopieren",
+          "text": "Klicke auf Generieren für eine frische Runde. Kopiere beliebige Themen oder speichere deine Favoriten – ganz ohne Anmeldung."
+        }
+      ]
+    },
+    "useCases": {
+      "h2": "Wofür kannst du ihn verwenden?",
+      "items": [
+        {
+          "title": "Gespräche",
+          "text": "Nie wieder ohne Thema dastehen. Hol dir zufällige Gesprächsanlässe für Freunde, Dates oder Familienessen."
+        },
+        {
+          "title": "Schreiben und Brainstorming",
+          "text": "Überwinde die Schreibblockade mit zufälligen Schreibimpulsen für Tagebuch, Aufsätze, Blogs und Fiction."
+        },
+        {
+          "title": "Stegreifreden",
+          "text": "Übe, eine Minute lang über ein zufälliges Thema zu sprechen – ein Klassiker der Rhetorik und bei Table-Topics-Runden."
+        },
+        {
+          "title": "Debatten und Diskussionen",
+          "text": "Finde Debattenthemen und gewagte Thesen, die in Klasse und Job zu schneidigen, strukturierten Diskussionen führen."
+        },
+        {
+          "title": "Unterricht und Deutsch als Fremdsprache",
+          "text": "Lehrkräfte und Lernende nutzen zufällige Fragen und Themen, um Sprechsicherheit aufzubauen, den Unterricht aufzuwärmen oder die letzten fünf Minuten zu füllen."
+        },
+        {
+          "title": "Eisbrecher und Feste",
+          "text": "Erzeuge lustige Eisbrecher-Fragen für Meetings, Teamevents, Spieleabende und Partys."
+        }
+      ]
+    },
+    "faq": {
+      "h2": "Häufige Fragen",
+      "items": [
+        {
+          "q": "Ist dieser zufällige Themen-Generator kostenlos?",
+          "a": "Ja. Er ist komplett kostenlos – ohne Konto, ohne Anmeldung und ohne Limits: Seite öffnen und loslegen."
+        },
+        {
+          "q": "Was ist der Unterschied zwischen Themen, Fragen und Wörtern?",
+          "a": "Themen liefert vollständige Themen zum Reden oder Schreiben, Fragen liefert fertige Gesprächsanlässe zum Nachfragen und Wörter liefert einzelne zufällige Wörter für schnelle Spiele und Brainstorming."
+        },
+        {
+          "q": "Wie viele Kategorien gibt es?",
+          "a": "Es gibt 17 Kategorien, darunter Allgemein, Wissenschaft, Geschichte, Technik, Finanzen, Fußball, gewagte Meinungen und mehr. Wähle Alle, um aus allem gleichzeitig zu ziehen."
+        },
+        {
+          "q": "Kann ich ihn für Reden und Unterricht nutzen?",
+          "a": "Auf jeden Fall. Er ist beliebt für Stegreifreden (etwa Table Topics bei Toastmasters), Aufwärmübungen im Unterricht, Sprechtraining und Debattenvorbereitung."
+        },
+        {
+          "q": "Gibt es ihn auch in anderen Sprachen?",
+          "a": "Ja – der Generator unterstützt 8 Sprachen: Deutsch, Englisch, Chinesisch, Spanisch, Französisch, Japanisch, Koreanisch und Russisch. Wechsle die Sprache über die Auswahl oben."
+        },
+        {
+          "q": "Muss ich ein Konto anlegen?",
+          "a": "Nein. Gespeicherte Themen liegen lokal in deinem Browser – nichts zu registrieren, nichts zu installieren."
+        }
+      ]
+    }
+  }
 }
